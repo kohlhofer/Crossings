@@ -20,7 +20,7 @@ The child has not moved from the candy jars. Her breath fogs the glass, and she 
 
 The mother looks at the candy, then at Ada. Ada's eyes remain on the ledger. The mother waits a moment, then takes the child's hand. They move toward the door together. The bell above the door chimes as they leave, and their footsteps fade on the wooden porch.
 
-Ada returns to her ledger, makes another mark. Credit for the eggs. Her pen hovers over a line—the mother's name, her growing debt. She does not look up as the mother and child disappear down the street. The guilt of witnessing need without helping weighs against the necessity of keeping the store alive.
+Ada returns to her ledger, makes another mark. She does not look up as the mother and child disappear down the street. The pen remains still against the page.
 
 Through the window, a figure moves down the street. Brother Calvin walks his usual route, his presence felt before he is seen. He does not stop, does not pause, but Ada's hand stills on the ledger page. She waits, listening, then continues her work. Her movements are more careful now, more deliberate.
 

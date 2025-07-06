@@ -1,0 +1,21 @@
+{
+  "name": "river-book",
+  "version": "1.0.0",
+  "description": "A book about endurance, small kindnesses, and life by the river",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js",
+    "dev": "npm run build && npx http-server docs -p 3000 -o",
+    "serve": "npx http-server docs -p 3000 -o"
+  },
+  "devDependencies": {
+    "marked": "^9.1.6",
+    "http-server": "^14.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "author": "",
+  "license": "MIT"
+} 

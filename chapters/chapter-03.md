@@ -1,12 +1,12 @@
 # Chapter 3: The Bell's Echo
 
-The bell rings, cracked and uncertain, its sound drifting over the rooftops. He hears it from the path back to town, a dull summons that carries across the water. The bell is old, its bronze green with age. He keeps walking, boots scraping the packed dirt, the sound trailing him, then growing.
+The bell rings, cracked and uncertain, its sound drifting over the rooftops. He hears it from the path toward town, a dull summons that carries across the water. The bell is old, its bronze green with age. He keeps walking, boots scraping the packed dirt, headed for the mill road where work might be found.
 
 The path bends toward the square, dust rising with each step. The church stands at the edge of the square, white paint peeling like old skin, steeple leaning slightly to the left. The building is weathered, its foundation cracked, its windows clouded with years of rain and sun. A sign by the door reads "All Welcome" in faded letters. Morning shadows stretch long across the packed earth, and the air is cool with the promise of heat to come. Cicadas drone in the oak trees, their song rising and falling like breath.
 
 People gather in twos and threes, heads bowed, voices low. Faded but clean, the women wear their best dresses, hair pinned back. The men carry worn Bibles, their shoes polished despite the scuffs. Children fidget beside their parents, tugging at starched collars and ribbon ties.
 
-He does not join them. Standing apart, he watches as Brother Calvin greets each arrival with a practiced smile, collar askew, voice loud in the morning air. Calvin is a big man, thick around the middle, his face flushed with heat and conviction. His handshake is firm, his gaze intense, his words quick and certain. His eyes linger longer on the younger women, the smile deepening just slightly before returning to its practiced warmth.
+He slows his pace, then stops, standing apart as Brother Calvin greets each arrival with a practiced smile, collar askew, voice loud in the morning air. Calvin is a big man, thick around the middle, his face flushed with heat and conviction. His handshake is firm, his gaze intense, his words quick and certain. His eyes linger longer on the younger women, the smile deepening just slightly before returning to its practiced warmth.
 
 "Mary, good to see you. Blessed morning."
 
@@ -46,6 +46,6 @@ Ada returns to the building, helping to stack hymnals, to straighten pews. She m
 
 He pushes away from the fence, the square emptying, the church settling back into quiet. The service is over, its echoes lingering in the air.
 
-He turns away, the sound of the river louder now, the church behind him, the day moving on. His boots scrape the packed dirt, the dust rising with each step. The path leads back to the river, to the dock, to the fishing line that waits in the brown water.
+He turns away, resuming his path, the day moving on. His boots scrape the packed dirt, the dust rising with each step. The path leads past the square, beyond the church, toward the sound of grinding stones and the wheel that turns in the shallow water.
 
-Behind him, the church stands empty, its doors closed, its bell silent. The square is quiet, the morning sun casting long shadows across the dirt. The river calls from beyond the trees, its current steady and sure. 
+Behind him, the church stands empty, its doors closed, its bell silent. The square is quiet, the morning sun casting long shadows across the dirt. Ahead, the mill waits, its wheel turning in the current. 
