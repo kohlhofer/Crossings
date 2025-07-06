@@ -12,7 +12,7 @@ A moment passes. His hand lifts slightly from his knee, then settles back.
 
 The sky bruises purple and orange, clouds catching the last light. Swallows dive for insects above the water, their cries sharp in the evening air. A heron stands motionless in the shallows, waiting for the unwary fish.
 
-The river moves, slow and indifferent, carrying branches, leaves, the debris of the day. A bottle bobs past, then a piece of wood worn smooth by water. All of it flows downstream, toward the sea, part of the river's endless cargo.
+The river moves, slow and indifferent, carrying branches, leaves, the debris of the day. A bottle bobs past, then a piece of wood worn smooth by water. Something red catches on the dock post—fabric, faded and torn, freed from whatever held it upstream. All of it flows downstream, toward the sea, part of the river's endless cargo.
 
 The air cools, carrying the scent of mud and growing things. The smell of wood smoke drifts from the town's chimneys, mixing with the earthy dampness of the riverside. Fireflies begin to blink in the grass, their lights scattered like fallen stars. A dog barks somewhere in the town, then falls silent. The wind picks up, rustling the dry leaves that cling to the cottonwood trees.
 

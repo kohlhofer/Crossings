@@ -2,7 +2,7 @@
 
 Evening settles over the town, the store nearly bare. The last light of autumn fades through the windows, painting everything amber and gold. Shelves stripped, only dust and a few sacks left. The glass jars are empty, their lids removed. Lamps burn low, casting long shadows across the worn wooden floor. Outside, the temperature drops with the sun, and the first hint of winter rides the evening breeze.
 
-Ada sweeps methodically, her movements slower than usual. The ledger lies closed on the counter, its pages thick with entries. Her hands are slow, eyes dull with fatigue. Lines have appeared around her mouth, and her shoulders sag.
+Ada sweeps methodically, her movements slower than usual. The ledger lies closed on the counter, its pages thick with entries. Her hands are slow, eyes dull with fatigue. Lines have appeared around her mouth, and her shoulders sag. She pauses, glances toward the mill through the window. Mara hasn't been in for days.
 
 The bell above the door chimes softly as he enters, hat in hand, eyes on the shelves—less there than before. Gaps where goods should be. The flour sacks are fewer, the shelves of patent medicines nearly empty. The store echoes with emptiness.
 
