@@ -20,7 +20,7 @@ Mara appears in the doorway that leads to the mill house, her movements careful,
 
 "About time," the miller says, his voice different now. Sharper. "Where's the butter?"
 
-"Gone," she says quietly. "Used the last yesterday."
+She sets down an empty butter crock, its sides scraped clean. "Gone," she says quietly.
 
 The miller's jaw tightens. "Gone." He repeats the word like it tastes bad. "Everything's always gone with you."
 
