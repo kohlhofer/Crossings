@@ -1,6 +1,6 @@
 # Chapter 2: Out of Reach
 
-The store sits low to the ground, clapboard faded, windows crowded with hand-lettered signs. Paint peels from the sills. The porch sags under the weight of half-empty seed sacks and weathered crates. A thermometer nailed to the wall reads eighty-five degrees in the shade. Dust hangs in the heavy air, stirred only by the occasional hot breeze that brings the scent of baked earth and fields gone fallow.
+The store sits low to the ground, clapboard faded, windows crowded with hand-lettered signs. Paint peels from the sills. The porch sags under the weight of half-empty seed sacks and weathered crates. Dust hangs in the heavy air, stirred only by the occasional breeze that brings the scent of baked earth and fields gone fallow.
 
 The bell above the door chimes softly as he pushes it open, the hinges groaning. Inside, the air is thick with dust and the faint sweetness of molasses. Shelves half-empty. Flour in cloth sacks, their sides soft with age. Penny candy in glass jars, out of reach for most. The jars catch the light from the window, casting small rainbows on the worn wooden counter.
 
@@ -14,13 +14,11 @@ Ada opens a small notebook, different from the ledger, and makes a mark. Credit 
 
 She adds a line to the ledger, her writing neat, unhurried. He watches her hand move, the page crowded with names and numbers. The ledger is thick, its pages yellowed, its binding cracked. Every transaction, every debt, every payment recorded in her careful script.
 
-Eli's name is there, a line of debt that grows and shrinks. The letters are rushed, Ada's careful script abandoned for quick marks beside hurried transactions. The numbers tell a story he cannot read fully, but the pattern is clear. Ada glances at the page, then at him, but says nothing. Her face reveals nothing.
-
 The child has not moved from the candy jars. Her breath fogs the glass, and she wipes it clean with her sleeve. The mother takes a step closer, places a hand on the child's shoulder. The child points to the peppermint sticks, striped red and white, and the mother shakes her head. The child's hand falls to her side.
 
 The mother looks at the candy, then at Ada. Ada's eyes remain on the ledger. The mother waits a moment, then takes the child's hand. They move toward the door together. The bell above the door chimes as they leave, and their footsteps fade on the wooden porch.
 
-Ada returns to her ledger, makes another mark. She does not look up as the mother and child disappear down the street. The pen remains still against the page.
+Ada returns to her ledger, makes another mark. She does not look up as the mother and child disappear down the street.
 
 Through the window, a figure moves down the street. Brother Calvin walks his usual route, his presence felt before he is seen. He does not stop, does not pause, but Ada's hand stills on the ledger page. She waits, listening, then continues her work. Her movements are more careful now, more deliberate.
 
