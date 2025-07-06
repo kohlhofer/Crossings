@@ -23,4 +23,7 @@ No one knows where Reed lives—only that he is always seen in his small, weathe
 
 ## Role in the Story
 
-Reed is an enigma, a silent presence on the river. He is both a rumor and a reality, a reminder that some lives are lived entirely on the margins. His belief in the river's memory connects him to the uncanny undercurrent of the story, even as he keeps his distance from others. 
+Reed is an enigma, a silent presence on the river. He is both a rumor and a reality, a reminder that some lives are lived entirely on the margins. His belief in the river's memory connects him to the uncanny undercurrent of the story, even as he keeps his distance from others.
+
+- Chooses hardship and isolation, living on the river by choice or necessity. Never asks for help, and quietly endures whatever comes.
+- His actions and presence in the story should reflect the book's philosophy (see philosophy.md), especially endurance, ambiguity, and the dignity of isolation. 

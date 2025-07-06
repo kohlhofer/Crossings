@@ -11,6 +11,7 @@ Lila arrived in town years ago, her past a matter of rumor and speculation. She 
 - Quick with a joke or a biting remark
 - Sings old songs late at night, when the mood is right
 - Fiercely protective of her few possessions
+- Clings to hardship and drama, sometimes creating it for herself
 
 ## Behaviors and Scene Cues
 
@@ -24,4 +25,6 @@ Lila arrived in town years ago, her past a matter of rumor and speculation. She 
 
 ## Role in the Bar
 
-Lila is a fixture, both companion and provocateur. She keeps the others talking, sometimes laughing, sometimes fighting, but always coming back. 
+Lila is a fixture, both companion and provocateur. She keeps the others talking, sometimes laughing, sometimes fighting, but always coming back.
+
+- Her actions and presence in the story should reflect the book's philosophy (see philosophy.md), especially the dignity of the overlooked, ambiguity, and the weight of choice. 

@@ -28,4 +28,7 @@ Brother Calvin came to town years ago, claiming a calling and a mission. He took
 
 ## Role in the Story
 
-Brother Calvin is the town's preacher in name, a figure of ritual and habit. He is respected by some, tolerated by most, and truly known by few. His presence is a reminder of the gap between faith and practice, and the ways people cling to appearances in the face of hardship. 
+Brother Calvin is the town's preacher in name, a figure of ritual and habit. He is respected by some, tolerated by most, and truly known by few. His presence is a reminder of the gap between faith and practice, and the ways people cling to appearances in the face of hardship.
+
+- Encourages unnecessary hardship in others through guilt, suspicion, and ritual. Blind to his own self-imposed suffering, he preaches endurance but never questions its purpose.
+- His actions and presence in the story should reflect the book's philosophy (see philosophy.md), especially ambiguity, the weight of choice, and the endurance of self-imposed hardship. 

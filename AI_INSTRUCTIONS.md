@@ -15,5 +15,7 @@ Whenever writing or editing any part of this project, always:
 - If information is missing or ambiguous, ask clarifying questions before proceeding with assumptions.
 - Maintain a logical and tidy file structure. Propose reorganizations if the project grows or becomes unwieldy.
 - If user preferences or priorities are stated (e.g., focus on atmosphere over plot), always prioritize them in decision-making.
+- Reference the protagonist's arc summary in `characters/protagonist.md` for all story, character, and scene development, ensuring the cyclical, open-ended, and ambiguous nature of his journey is preserved.
+- Consult and uphold the book's core philosophy as described in `philosophy.md`, including the 'How to Apply This Philosophy' section, as a checklist for all writing, editing, and development. Ensure endurance, the weight of choice, ambiguity, and the value and dignity of small kindnesses are present throughout the narrative.
 
 These instructions are omnipresent and should be considered for every task, suggestion, or edit. 

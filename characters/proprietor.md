@@ -13,6 +13,7 @@ Harlan inherited the house from a cousin and turned it into a bar out of necessi
 - Keeps a shotgun behind the bar, but has never used it
 - More like a patron than a proprietor, often absent or asleep
 - Fiercely protective of his "bar" and the people who gather there
+- Endures hardship by inertia, refusing to change or seek help, and expects others to do the same. His suffering is a fixture of the bar, as much as the regulars themselves.
 
 ## Behaviors and Scene Cues
 
@@ -30,4 +31,6 @@ Harlan inherited the house from a cousin and turned it into a bar out of necessi
 
 ## Role in the Bar
 
-Harlan is the anchor of the place, holding it together by sheer inertia. He serves, listens, and waits, watching the same faces come and go, year after year. Though he grumbles and seems inconvenienced, he is fiercely protective of his "bar" and those who find refuge there. 
+Harlan is the anchor of the place, holding it together by sheer inertia. He serves, listens, and waits, watching the same faces come and go, year after year. Though he grumbles and seems inconvenienced, he is fiercely protective of his "bar" and those who find refuge there.
+
+His actions and presence in the story should reflect the book's philosophy (see philosophy.md), especially endurance, inertia, and the ambiguity of suffering. 

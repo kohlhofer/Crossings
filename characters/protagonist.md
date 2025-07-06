@@ -1,5 +1,13 @@
 # Protagonist
 
+## Arc Summary
+
+The protagonist's arc is cyclical: the story follows him through a repeating cycle—perhaps a year, a season, or the rhythm of floods and droughts. His days are marked by routine: fishing, mending, drifting, brief encounters at the bar, the store, or along the river. The narrative begins and ends with him in much the same place, reinforcing the sense that we are witnessing just a segment of an ongoing life.
+
+Throughout this cycle, he is a reluctant witness—drawn into the lives and troubles of others not by choice, but by circumstance. He helps or is helped in small, often unnoticed ways, and his presence matters to the community, even if he never seeks involvement. He frequently witnesses unnecessary or self-imposed hardship—neighbors refusing help, bar patrons drinking away their last coins, families rebuilding in the same floodplain, or himself walking away from comfort. He does not judge; the reader is left to interpret the reasons and feel the weight of these choices.
+
+This arc and all actions should reflect the book's philosophy (see philosophy.md), especially endurance over triumph, the quiet weight of choice, ambiguity, and the value and dignity of small kindnesses. The protagonist's story is not about transformation, but about presence, endurance, and the subtle ways a person is shaped by their environment and the people around them. The story ends as it began: the protagonist alone by the river, the cycle ready to repeat, with the quiet impact of his actions and the mysteries that remain.
+
 ## Backstory
 
 He lives alone in a shack on the outskirts, close to the water. In a town large enough for indifference, people like him pass unnoticed—one of many who live on the edge, marked by poverty and marginalization. The difference between poor and 'not poor' is small: a little land, a fishing boat, a machine. No one really thinks about people like him as individuals, and there is little curiosity or interest. The reasons for his solitude are unclear—perhaps a matter of choice, perhaps the result of old wounds or quiet misfortune. He carries himself with a kind of wary self-sufficiency, neither seeking nor shunning company.

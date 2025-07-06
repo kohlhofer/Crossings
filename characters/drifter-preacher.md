@@ -21,7 +21,8 @@ Josiah drifts from town to town, never staying long, carrying little more than a
 - Listens more than he speaks, but when he does, his words linger
 - Moves on before he can outstay his welcome, leaving behind a sense of calm or hope
 - Cares for others in unobtrusive ways, noticing what is needed and providing it if he can
+- Endures hardship with humility, accepting suffering as part of life. Never judges others for their burdens, but offers comfort when he can.
 
 ## Role in the Story
 
-Josiah is a counterpoint to Brother Calvin—a genuinely spiritual presence, humble and flawed, whose wisdom and kindness make a difference in small, crucial moments. He is a reminder that faith can be quiet, practical, and deeply human. 
+Josiah is a counterpoint to Brother Calvin—a genuinely spiritual presence, humble and flawed, whose wisdom and kindness make a difference in small, crucial moments. He is a reminder that faith can be quiet, practical, and deeply human. His actions and presence in the story should reflect the book's philosophy (see philosophy.md), especially humility, small kindnesses, and the ambiguity of faith. 
