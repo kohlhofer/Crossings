@@ -38,7 +38,7 @@ The street is empty, lit only by the warm glow spilling from windows. A dog wand
 
 He walks home, bread under his arm, the river dark beside him. The water moves silently, its surface reflecting the last light of day. Crickets begin their evening chorus, and somewhere in the distance, a train whistle calls across the water.
 
-At the edge of his yard, he pauses. The old crate by the fence sits empty, weathered by rain and sun. He sets his bag down on the crate, careful to keep the bread dry. Inside the bag, he leaves most of his purchases—the coffee, the salt, the extra bread Ada had wrapped without being asked.
+At the edge of his yard, he pauses. The old crate by the fence sits empty, weathered by rain and sun. He sets his bag down on the crate, careful to keep the bread dry. Inside the bag, he leaves most of his purchases—the coffee, the salt.
 
 Eli's shadow lingers nearby, a darker shape against the evening sky. She watches from the trees, her body tense, ready to flee if discovered. Pride keeps her at a distance, but necessity will bring her closer once he is gone.
 
