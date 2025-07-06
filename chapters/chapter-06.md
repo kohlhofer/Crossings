@@ -6,6 +6,8 @@ Eli is ahead, hands in her pockets, shoulders hunched against the wind. She move
 
 Inside, the air is thick with sweat and cheap spirits. The smell hits him first—stale beer, unwashed bodies, smoke from cigarettes rolled too thin. Floorboards creak under his weight, sticky with spilled drinks. A single bulb hangs from the ceiling, casting harsh shadows that make faces hard to read.
 
+Eli pushes through to the bar, coins already in her hand. She slaps them down, metal ringing against wood. "Two," she says to Harlan, voice carrying over the noise. Her jacket is too big, sleeves rolled back, revealing thin wrists marked with old scratches. A safety pin holds the shoulder seam together.
+
 In the corner, Lila sits with faded dress hanging loose on her thin frame, suitcase at her feet, humming to herself. Her hair is unwashed, her eyes unfocused. The suitcase is old, its leather cracked, its brass fittings tarnished. She rocks slightly as she hums. When Harlan's not looking, her eyes sharpen, tracking who enters, who leaves, who has money. The vacant humming resumes the moment his attention returns.
 
 Hunched at the bar, Amos mutters with eyes on the floor. His clothes are stained, his beard unkempt. His fingers wrap around a mug, knuckles white with the effort of holding on. He speaks to no one, his words lost in the noise of the room. A wedding ring, bright with polish, catches the light on his finger—the only clean thing about him. When someone approaches, his muttering stops, replaced by sullen silence. The words return only when he thinks himself unheard.
@@ -24,7 +26,7 @@ A man slumps at a table near the door, head in his hands. His shoulders shake wi
 
 Lila laughs, sharp and sudden, breaking the hush. The sound cuts through the room. Amos grumbles, knocks over his mug, curses the world. Beer spreads across the bar, dripping onto the floor. Harlan stirs, looks at the mess, then settles back into sleep.
 
-A shadow moves near the door, quick and restless. Perhaps someone entering, perhaps someone leaving. The light shifts, and the shadow is gone. The room feels different for a moment, charged with a restless energy, then settles back into its familiar rhythm.
+Eli laughs at something Harlan mutters, the sound sharp and reckless. She tosses back her drink, sets the glass down hard. The second glass sits untouched beside her elbow. She spins on her stool, surveying the room with bright, restless eyes.
 
 Amos slides a glass across the bar, liquid dark and nameless. The glass is chipped, its surface cloudy with age. He drinks, the taste sharp, unfamiliar. The alcohol burns his throat, settles hot in his stomach. He does not ask what it is, does not question the price.
 
@@ -36,6 +38,8 @@ Lila sings a line of an old song. "Down in the valley, the valley so low."
 
 The fight winds down, both men too tired to continue. The miller retreats to the bar, muttering about respect and people taking what isn't theirs. The other man finds a different corner, nursing a split lip.
 
+Eli slides the untouched glass toward him, liquid sloshing. He shakes his head. She shrugs, pulls it back, drinks it herself in two quick swallows. "Waste nothing," she says, wiping her mouth with the back of her hand. The words carry an edge.
+
 Another glass appears, pushed his way without comment. He drinks again, the burn settling in his chest. The room grows warmer, or perhaps the alcohol makes it seem so. Conversations resume, quiet and broken.
 
 A woman enters, her coat soaked through, her shoes squelching on the floor. She looks around, finds no welcome, and leaves again. The door slams behind her, shaking the windows. Harlan mutters something about keeping the cold out, then returns to his bottle.
@@ -43,6 +47,8 @@ A woman enters, her coat soaked through, her shoes squelching on the floor. She 
 He watches it all, saying nothing. The room is full of people who have nowhere else to go, nothing else to do. They drink because it helps, or because it doesn't matter, or because the alternative is worse.
 
 Time passes. The glasses multiply, empty and forgotten. Lila's humming grows louder, more discordant. Amos continues his muttered conversation with the floor. The man by the door returns to his weeping. Others come and go, faces blurred by alcohol and shadow.
+
+Eli stands abruptly, fishing more coins from her pocket. She counts them in her palm, then laughs at what she sees. "Easy come," she says to no one. She heads for the door, but stops, turns back. "River's not frozen yet." Her eyes are bright with something—alcohol, mischief, or both. She disappears into the cold.
 
 He leaves before dark, the sound of laughter and argument fading behind him. The cold air hits him, clearing his head, sharpening his vision. Above, clouds gather thick and heavy. The river flows unchanged, its current moving steady and sure toward the sea.
 

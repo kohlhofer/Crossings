@@ -56,7 +56,7 @@ Josiah finishes his coffee, sets the cup down beside him. He stands, shouldering
 
 He looks at the man beside him, their eyes meeting for a moment. "River's calling," he says. "Best to listen when it does."
 
-He nods. Josiah looks toward where Eli sits, silent as shadow. He speaks to the morning, his words carrying on the air. "River's not the only thing that remembers."
+He nods. Josiah looks toward where Eli sits, silent as shadow, a cigarette burning between her fingers though she doesn't smoke it. When his words drift across the square, she stands abruptly, flicks the cigarette into the dirt. Her boots scrape the stone as she walks away. He speaks to the morning, his words carrying on the air. "River's not the only thing that remembers."
 
 With that, he walks away, his boots squelching in the mud. He disappears down the road that leads to the river, his figure growing smaller until it is lost in the morning haze.
 

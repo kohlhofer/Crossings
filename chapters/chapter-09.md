@@ -24,7 +24,7 @@ Ada gestures gently toward the door, her expression soft but firm. The child und
 
 She disappears into the evening shadows. Ada returns to her sweeping, her movements more deliberate now.
 
-Through the window, Eli stands outside, arms crossed, pride holding her back from stepping inside. She watches the exchange, her face unreadable. He sees her there, a figure caught between need and independence, between hunger and dignity.
+Through the window, Eli stands outside, arms crossed, pride holding her back from stepping inside. She watches the exchange, her face unreadable. He sees her there, a figure caught between need and independence, between hunger and dignity. Her boots are worn through at the toe, held together with wire twisted tight. One hand worries a button loose on her coat.
 
 He reaches into his pocket, pulls out more coins than his purchase requires. The miller's two bits, once cold in his palm, now warm from his body, worn smooth by countless hands. He leaves them on the counter and pushes them toward Ada.
 
@@ -38,7 +38,7 @@ He walks home, bread under his arm, the river dark beside him. The water moves s
 
 At the edge of his yard, he pauses. The old crate by the fence sits empty, weathered by rain and sun. He sets his bag down on the crate, careful to keep the bread dry. Inside the bag, he leaves most of his purchases—the coffee, the salt.
 
-Eli's shadow lingers nearby, a darker shape against the evening sky. She watches from the trees, her body tense, ready to flee if discovered. Pride keeps her at a distance, but necessity will bring her closer once he is gone.
+Eli's shadow lingers nearby, a darker shape against the evening sky. She watches from the trees, her body tense, ready to flee if discovered. When he turns toward the shack, she steps forward, then stops. "Don't need your scraps," she calls softly, voice carrying across the yard. But her eyes remain fixed on the crate. Pride keeps her at a distance, but necessity will bring her closer once he is gone.
 
 He turns away, walks to his shack, and closes the door behind him. The latch clicks softly, and the evening settles into its familiar rhythm. Through the window, he can see the crate by the fence, the bag waiting in the gathering darkness.
 

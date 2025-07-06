@@ -4,7 +4,7 @@ Mist clings to the water, blurring the far bank. He pushes the boat from the doc
 
 The current carries him past the factory—windows broken, walls streaked with rust. The building looms through the mist, its skeleton of steel and iron dark against the gray sky. Laughter rings out, sharp in the morning air, echoing off the water. A figure climbs the girders, quick and fearless, vanishing and reappearing in the mist.
 
-He watches as the figure moves through the structure, leaping from beam to beam. The movements are fluid, confident. The figure pauses at the top, arms spread wide, then disappears into the maze of metal and shadow.
+He watches as the figure moves through the structure, leaping from beam to beam. Red fabric flashes—a scarf or shirt tied around the waist. The movements are fluid, confident, reckless. The figure pauses at the top, arms spread wide, then drops something into the water below. A splash, then more laughter. The figure disappears into the maze of metal and shadow.
 
 He rows in silence, the river wide and brown, reeds brushing the hull. The water tastes of mud and rain, of upstream storms and downstream mysteries. Cattails bend in the slight breeze, their brown heads heavy with seed. A heron lifts from the shallows, wings beating slow, vanishing into the fog. Its cry echoes across the water, lonely and wild. Dragonflies skim the surface, their wings catching what little light filters through the mist.
 
@@ -16,7 +16,7 @@ Reed appears, boat gliding from the shadows. They pass close, eyes meeting for a
 
 Reed's boat leaves a small wake, gentle waves that rock his vessel. The old man's strokes are steady, efficient. He knows these waters, these currents, these moods of the river.
 
-A figure appears on the riverbank, moving quick and sure. A wave, a flash of hand, then gone, running along the river's edge. He watches, a line of energy against the gray. The figure moves with purpose, following the water's edge, disappearing into the trees.
+A figure appears on the riverbank, moving quick and sure. A wave, a flash of hand, then gone, running along the river's edge. Something bright falls from her pocket as she runs—a coin or bottle cap catching the light. He watches, a line of energy against the gray. The figure moves with purpose, following the water's edge, disappearing into the trees.
 
 The river moves on, indifferent. A turtle surfaces, head breaking the water, eyes dark and ancient. It watches the boat pass, then sinks back into the depths. The mist begins to lift, revealing more of the far shore, more of the factory's broken windows.
 

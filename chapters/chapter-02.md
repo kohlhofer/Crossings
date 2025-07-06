@@ -14,7 +14,7 @@ Ada opens a small notebook, different from the ledger, and makes a mark. Credit 
 
 She adds a line to the ledger, her writing neat, unhurried. He watches her hand move, the page crowded with names and numbers. The ledger is thick, its pages yellowed, its binding cracked. Every transaction, every debt, every payment recorded in her careful script.
 
-Eli's name is there, a line of debt that grows and shrinks. The numbers tell a story he cannot read fully, but the pattern is clear. Ada glances at the page, then at him, but says nothing. Her face reveals nothing.
+Eli's name is there, a line of debt that grows and shrinks. The letters are rushed, Ada's careful script abandoned for quick marks beside hurried transactions. The numbers tell a story he cannot read fully, but the pattern is clear. Ada glances at the page, then at him, but says nothing. Her face reveals nothing.
 
 The child has not moved from the candy jars. Her breath fogs the glass, and she wipes it clean with her sleeve. The mother takes a step closer, places a hand on the child's shoulder. The child points to the peppermint sticks, striped red and white, and the mother shakes her head. The child's hand falls to her side.
 
