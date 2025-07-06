@@ -1,45 +1,45 @@
 # Chapter Overview
 
-This overview provides a brief summary and justification for each chapter, reflecting the book's cyclical structure, core motifs, and philosophy (see outline.md and philosophy.md). Eli, the protagonist's younger self, is a recurring presence—female, almost asexual, her energy and recklessness focused on survival and escape, not romance or desire. Her actions and fate serve as a living contrast to the protagonist's stoic endurance.
+This overview provides a brief summary and justification for each chapter, reflecting the book's cyclical structure, core motifs, and philosophy (see outline.md and philosophy.md). Eli is a recurring presence—elusive, often shadow-like, her movements focused on survival and escape. Her presence serves as a counterpoint to the protagonist's stoic endurance, appearing and disappearing at the margins of his world.
 
 ---
 
 ## Chapter 1: First Light
-**Summary:** The protagonist begins the day by the river, performing a familiar task. Eli is glimpsed at the factory or on the river, already in motion. The world is quiet, marked by subtle signs of change.
-**Justification:** Establishes the cyclical, repetitive nature of the protagonist's life and the setting. Sets the tone of endurance and ambiguity. Introduces Eli as a restless, asexual presence on the margins.
+**Summary:** Gray dawn at the riverside. The protagonist tends his fishing line, feeds chickens, collects eggs for trade. Across the river, a restless figure moves through the abandoned factory girders—Eli, visible but distant, searching for something unknown.
+**Justification:** Establishes the cyclical rhythm of survival, the protagonist's methodical endurance, and the river as both boundary and constant. Introduces Eli as energy in motion, contrasting with his stillness.
 
 ## Chapter 2: The Store Ledger
-**Summary:** The protagonist visits the general store. Ada is present, but their interaction is brief and practical. Eli's needs or debts may be mentioned in passing. The store's scarcity and quiet generosity are on display.
-**Justification:** Introduces Ada and the store as a hub. Highlights the motif of small kindnesses and the weight of unspoken burdens. Eli's situation is part of the town's ongoing hardship.
+**Summary:** The protagonist trades eggs at Ada's general store on a sweltering day. A mother and child hover near candy jars they cannot afford. Ada maintains careful distance from generosity, her ledger recording Eli's fluctuating debt. The protagonist feeds a stray dog—small kindness without sentiment.
+**Justification:** Introduces Ada's conflicted nature and the store as community hub. Explores the weight of practical charity versus survival. Shows the protagonist's quiet acts of care.
 
 ## Chapter 3: The Bell's Echo
-**Summary:** The church bell rings for a funeral or service. The protagonist passes by, observing Brother Calvin and the congregation from a distance. Eli's absence or disruptive presence is noted.
-**Justification:** Introduces the church and preacher. Shows ritual as a marker of time and community, and the protagonist's role as a witness. Eli's relationship to ritual and community is ambiguous.
+**Summary:** Morning church service observed from outside. Brother Calvin greets congregants with practiced warmth that lingers on younger women. Ada maintains careful efficiency inside, her movements betraying tension when Calvin is near. A woman weeps alone on the steps—grief without context.
+**Justification:** Introduces Calvin and the church's social dynamics. Reveals Ada's private discomfort with her hidden relationship. Shows the protagonist as perpetual witness, outside community rituals.
 
 ## Chapter 4: River Drift
-**Summary:** The protagonist encounters Reed on the river. Eli is seen taking risks or getting into trouble on the water or near the factory. Their paths cross briefly.
-**Justification:** Introduces Reed and deepens the motif of isolation, endurance, and the river's ambiguity. Eli's recklessness, focused on escape and survival, contrasts with the protagonist's caution.
+**Summary:** Misty morning boat journey. The protagonist drifts downstream, hunger gnawing but fishing line untouched—acceptance masking want. Reed appears briefly, nods, disappears. Across the water, Eli climbs the factory ruins with fluid confidence, her laughter echoing before she vanishes.
+**Justification:** Deepens the river motif and protagonist's passive endurance. Introduces Reed as fellow traveler. Shows Eli's fearless energy in contrast to the protagonist's careful restraint.
 
 ## Chapter 5: The Bar's Shadow
-**Summary:** The protagonist ends up at the bar by circumstance. Lila and Amos are present, each enacting their own cycles of hardship and drama. Eli is often present, escalating or diffusing tension.
-**Justification:** Introduces the bar, Lila, Amos, and Harlan. Explores self-imposed hardship and the rhythms of poverty and charity. Eli's actions highlight the dangers of impatience and pride, and her asexuality sets her apart from the usual bar drama.
+**Summary:** Winter cold drives the protagonist into the ramshackle bar. Lila performs helplessness while calculating opportunities. Amos mutters apologies to a lost wife. Harlan tracks profits beneath slovenly exterior. A brief, pointless fight erupts and dies. Eli moves like shadow at the edges.
+**Justification:** Introduces the bar's damaged community. Explores public masks versus private pain. Shows how characters perform their roles while hiding deeper complexities.
 
 ## Chapter 6: Shelter
-**Summary:** The protagonist and Mara, a practical, self-contained woman on the town's periphery, share a mechanical sexual encounter in unlikely circumstances—perhaps sheltering from a storm or in a deserted place. The act is wordless, unsentimental, and leaves no expectation of relationship.
-**Justification:** Underscores the protagonist's passivity and the mechanical nature of human need. Reinforces the absence of connection and the ambiguity of fulfillment. Hints at a pattern, as the protagonist has had similar, equally arbitrary encounters with Lila in the past, which have since ceased for no particular reason.
+**Summary:** Sudden storm. The protagonist and Mara share wordless shelter in an abandoned shed, their encounter mechanical and unsentimentalized. She leaves first into the night. The storm passes, leaving the world unchanged—connection without meaning.
+**Justification:** Explores human need stripped of romance or significance. Reinforces the protagonist's passivity and the arbitrary nature of human contact in this world.
 
 ## Chapter 7: The Drifter's Word
-**Summary:** Josiah, the drifter preacher, passes through. He offers a small act of wisdom or comfort, then moves on. Eli may seek or reject his advice.
-**Justification:** Introduces Josiah. Contrasts genuine spirituality and humility with Calvin's ritual and judgment. Eli's response to wisdom is telling.
+**Summary:** Frosty dawn. Josiah the drifter sits on church steps, speaks of rivers and memory. Ada brings coffee with genuine kindness, but Calvin's window-watching makes her careful, measured. Josiah offers cryptic wisdom, then walks toward the river. Eli watches, silent as shadow.
+**Justification:** Introduces authentic spirituality versus institutional religion. Shows Ada's kindness constrained by hidden shame. Contrasts Josiah's freedom with others' entrapments.
 
 ## Chapter 8: The Ledger's Weight
-**Summary:** Ada quietly helps someone in need, perhaps the protagonist, Eli, or a child. The cost and dignity of small kindnesses are felt. Eli's pride may prevent her from accepting help.
-**Justification:** Deepens Ada's character and the motif of charity, pride, and the quiet weight of choice. Eli's struggle with pride and hardship is foregrounded.
+**Summary:** Autumn evening, Ada's store nearly bare. She feeds a hungry child despite dwindling supplies, her kindness warring with necessity. The protagonist leaves extra coins—practical generosity. Outside, Eli watches, pride preventing her from accepting what she needs.
+**Justification:** Deepens Ada's character—kindness despite personal cost. Shows the protagonist's understated care. Explores pride as both dignity and trap through Eli's distant watching.
 
 ## Chapter 9: The Night Crossing
-**Summary:** The protagonist gives or receives a ride on the river at night—perhaps with Reed, perhaps for a practical or mysterious reason. Eli's fate or absence is felt.
-**Justification:** Explores connection, isolation, and the river as both boundary and link. Reinforces ambiguity and endurance. Eli's presence or absence is a measure of what is lost or endured.
+**Summary:** Winter night, frost in the air. Reed rows the protagonist across dark water to a mysterious shore where something might wait—perhaps Eli, perhaps nothing. They return downstream as dawn approaches, the journey's purpose unclear but somehow necessary.
+**Justification:** Explores connection across isolation. The river as both barrier and link. Ambiguity as central element—what's real, what's needed, what endures.
 
 ## Chapter 10: Last Light
-**Summary:** The cycle closes as it began, with the protagonist alone by the river. Eli's fate lingers in memory or rumor. The world is unchanged but subtly marked by what has passed.
-**Justification:** Reinforces the cyclical, open-ended nature of the story. Leaves the reader with a sense of ongoing life, endurance, and the quiet impact of small actions. Eli's arc serves as a final echo and contrast to the protagonist's endurance. 
+**Summary:** The cycle closes at dusk, the protagonist back at his dock watching light fade. The factory girders stand empty—even the restless have found their rest. Stars appear on the water. He returns to his shack, the world unchanged, enduring.
+**Justification:** Reinforces the cyclical nature and theme of endurance. Suggests Eli's arc may have found resolution while the protagonist continues his patient rhythm. Leaves questions unanswered, the world intact. 
