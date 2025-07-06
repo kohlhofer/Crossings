@@ -18,7 +18,7 @@ Reed rows toward the bank, his oars steady. The boat slides up to the muddy shor
 
 He steps onto the bank, feet sinking into the soft mud. The lantern casts its circle of light, but beyond its reach, the darkness holds its secrets. A sound from the shadows—footsteps, perhaps, or the wind through the reeds. Something restless moves in the periphery of vision.
 
-Reed pushes off from the bank, the boat rocking as it slips back into the current. He settles into the stern, and Reed turns the bow downstream. The old man rows steadily, carrying them both deeper into the night.
+Reed pushes off from the bank, the boat rocking as it slips back into the current. He settles into the stern, and Reed turns the bow downstream. The old man rows steadily, carrying them both deeper into the night. The smell of spirits drifts faintly in the air between them, but Reed's hands remain steady on the oars.
 
 The boat drifts past a fallen tree, its branches reaching into the water. An owl calls from somewhere in the darkness, answered by another from across the river. The night is alive with small sounds—the plop of a turtle sliding from a log, the rustle of something moving through the reeds.
 

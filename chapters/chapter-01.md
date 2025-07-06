@@ -42,7 +42,7 @@ The river takes what it wants. Sometimes it gives back.
 
 A boat appears through the mist, Reed at the oars. The old man rows with steady strokes, his boat low in the water with the weight of his nets. Their eyes meet across the water. Reed nods, raises one hand briefly from the oar. He nods back. No words pass between them.
 
-Reed's boat carries the smell of fish and tar, the sound of water against wood. The old man's face is weathered, his hands cracked from years of rope and net. His boat is older than most, patched and re-patched, but it floats. It holds. It endures.
+Reed's boat carries the smell of fish and tar, the sound of water against wood. The old man's face is weathered, his hands cracked from years of rope and net. His boat is older than most, patched and re-patched, but it floats. It holds. It endures. A flask catches the light from beneath the seat, its metal worn smooth by handling.
 
 The boat drifts past, and Reed disappears into the mist. The river carries them both, each in their own direction, each in their own silence.
 

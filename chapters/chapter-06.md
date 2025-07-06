@@ -8,7 +8,7 @@ He runs for the shed behind the mill, his boots slipping on the wet earth. The s
 
 Inside, darkness thick, air heavy with the smell of wet earth and oil. The shed is cramped, filled with machinery—rusted gears, broken tools, lengths of chain that catch what little light filters through the gaps in the walls. Water drips through the roof in places, pooling on the dirt floor.
 
-Mara is already there, sitting on a wooden crate, arms folded, eyes on the door. She nods when he enters, makes room without speaking. Her hair is damp, her dress clinging to her frame. She has been here longer, or perhaps she knew the storm was coming.
+Mara is already there, sitting on a wooden crate, arms folded, eyes on the door. She nods when he enters, makes room without speaking. Her hair is damp, her dress clinging to her frame. She has been here longer, or perhaps she knew the storm was coming. A small canvas bag sits beside her, carefully positioned away from the dripping water—she's prepared for this.
 
 Outside, the rain continues its assault. The mill wheel creaks and groans, turned by the swollen stream. Lightning flashes, the world white for a moment, revealing the shed's contents in stark detail—the rust, the decay, the remnants of work once done.
 

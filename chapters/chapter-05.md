@@ -6,11 +6,11 @@ Eli is ahead, hands in her pockets, shoulders hunched against the wind. She move
 
 Inside, the air is thick with sweat and cheap spirits. The smell hits him first—stale beer, unwashed bodies, smoke from cigarettes rolled too thin. Floorboards creak under his weight, sticky with spilled drinks. A single bulb hangs from the ceiling, casting harsh shadows that make faces hard to read.
 
-In the corner, Lila sits with faded dress hanging loose on her thin frame, suitcase at her feet, humming to herself. Her hair is unwashed, her eyes unfocused. The suitcase is old, its leather cracked, its brass fittings tarnished. She rocks slightly as she hums.
+In the corner, Lila sits with faded dress hanging loose on her thin frame, suitcase at her feet, humming to herself. Her hair is unwashed, her eyes unfocused. The suitcase is old, its leather cracked, its brass fittings tarnished. She rocks slightly as she hums. When Harlan's not looking, her eyes sharpen, tracking who enters, who leaves, who has money.
 
-Hunched at the bar, Amos mutters with eyes on the floor. His clothes are stained, his beard unkempt. His fingers wrap around a mug, knuckles white with the effort of holding on. He speaks to no one, his words lost in the noise of the room.
+Hunched at the bar, Amos mutters with eyes on the floor. His clothes are stained, his beard unkempt. His fingers wrap around a mug, knuckles white with the effort of holding on. He speaks to no one, his words lost in the noise of the room. A wedding ring, bright with polish, catches the light on his finger—the only clean thing about him.
 
-Behind the counter, Harlan sleeps, roused only when someone calls his name. The proprietor is a big man gone soft, his belly straining against his shirt. His face is flushed, his breathing heavy. A bottle sits open beside him, its contents half-gone.
+Behind the counter, Harlan sleeps, roused only when someone calls his name. The proprietor is a big man gone soft, his belly straining against his shirt. His face is flushed, his breathing heavy. A bottle sits open beside him, its contents half-gone. Beneath the counter, his hand rests on a ledger, neat columns of numbers tracked in careful script.
 
 "You're late," Amos says, not looking up. His voice is slurred, his words directed at the floor.
 

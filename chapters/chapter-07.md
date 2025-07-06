@@ -6,7 +6,7 @@ A man sits on the church steps, coat damp, boots muddy, hands wrapped around his
 
 He slows, nods. The man nods back, offers a seat with a gesture of his hand. No words at first, just the quiet of the morning and the sound of birds stirring in the trees. The stone steps are cold and wet, but he sits, keeping distance between them.
 
-The stranger speaks, his voice soft, almost lost in the morning air. Something about the river, about letting go. The words are simple, unadorned, but they carry weight. He speaks of water that remembers, of things that must be released to find peace. His accent is unfamiliar, his cadence measured.
+The stranger speaks, his voice soft, almost lost in the morning air. Something about the river, about letting go. The words are simple, unadorned, but they carry weight. He speaks of water that remembers, of things that must be released to find peace. His accent is unfamiliar, his cadence measured. His fingers worry at a worn photograph in his coat pocket, edges soft from handling.
 
 "River knows," the man says. "Knows what we can't bear to know ourselves."
 
