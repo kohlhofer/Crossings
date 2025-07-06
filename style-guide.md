@@ -17,6 +17,17 @@
 - Depict hardship—especially when it is unnecessary or self-imposed—as a central motif. Show characters enduring or creating suffering out of pride, habit, tradition, or inertia. The protagonist witnesses but does not judge; let the reader infer the reasons and feel the weight of these choices.
 - Avoid pontification and explanation; do not summarize or explain the significance of actions or scenes. Leave interpretation and meaning to the reader.
 
+## Protagonist's Present-Moment Perspective
+
+- The protagonist lives entirely in the present moment. Avoid temporal comparisons or reflections on time (no "as it was yesterday," "the same as always," or "like last week").
+- Never include internal commentary, analysis, or reflection. The protagonist observes and acts but does not think about or analyze his observations.
+- Show character through actions and immediate observations only. Let the reader infer motivations, patterns, and meanings from behavior.
+- Avoid explaining why the protagonist makes choices or feels certain ways. Instead, show the choice or action and let the reader understand the reasoning.
+- Do not have the protagonist compare present situations to past experiences or future expectations. Each moment exists on its own.
+- Remove phrases that suggest the protagonist is consciously aware of patterns or routines in his life, even if these patterns are obvious to the reader.
+- The protagonist witnesses and endures but does not judge or analyze what he sees. Save interpretation and meaning-making for the reader.
+- Economic or practical considerations should be shown through actions (counting coins, saving bread crumbs) rather than stated as thoughts or reflections.
+
 ---
 
 ## Example of Style

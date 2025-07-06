@@ -1,17 +1,43 @@
 # Chapter 2: The Store Ledger
 
-The store sits low to the ground, clapboard faded, windows crowded with hand-lettered signs. The bell above the door is silent—he pushes it open, the hinges groaning. Inside, the air is thick with dust and the faint sweetness of molasses. Shelves half-empty. Flour in cloth sacks. Penny candy in glass jars, out of reach for most.
+The store sits low to the ground, clapboard faded, windows crowded with hand-lettered signs. Paint peels from the sills. The porch sags under the weight of seed sacks and empty crates. A thermometer nailed to the wall reads eighty-five degrees in the shade.
 
-A child stands by the jars, eyes wide, fingers pressed to the glass. The mother hovers nearby, shoulders tense, gaze fixed on the floor.
+The bell above the door chimes softly as he pushes it open, the hinges groaning. Inside, the air is thick with dust and the faint sweetness of molasses. Shelves half-empty. Flour in cloth sacks, their sides soft with age. Penny candy in glass jars, out of reach for most. The jars catch the light from the window, casting small rainbows on the worn wooden counter.
 
-Ada stands behind the counter, ledger open, pencil in hand. She nods, eyes sharp, hands busy. No words at first. He places a few coins on the counter. She counts them, then weighs the bread, the coffee, the salt. The scale tips, settles. She adds a line to the ledger, her writing neat, unhurried.
+A child stands by the jars, eyes wide, fingers pressed to the glass. She is maybe seven, her dress clean but faded, her shoes scuffed at the toes. The mother hovers nearby, shoulders tense, gaze fixed on the floor. Her hands twist a handkerchief, and she shifts her weight from foot to foot.
 
-He watches her hand move, the page crowded with names and numbers. Eli’s name is there, a line of debt that grows and shrinks but never disappears. Ada glances at the page, then at him, but says nothing.
+Ada stands behind the counter, ledger open, pencil in hand. She nods at his entrance, eyes sharp, hands busy. No words at first. The counter is scarred from years of use, marked with rings from mason jars and the cuts of countless transactions. Behind her, shelves hold patent medicines, bottles of castor oil, and tins of tobacco.
 
-Ada slips a piece of candy into a paper bag, says nothing. The child’s mother looks away, grateful and ashamed. He watches, silent, the exchange as routine as the creak of the floorboards.
+He reaches into his jacket pocket, careful not to disturb the eggs. The shells are still warm, uncracked. He places them on the counter, one by one, turning them so Ada can see they are good. She lifts each egg, holds it to the light, nods approval.
 
-He takes his parcel, nods, and steps outside. The sun is higher now, the street empty except for a stray dog and the sound of the river, always moving, always the same.
+Ada opens a small notebook, different from the ledger, and makes a mark. Credit for the eggs. She adds numbers in her careful hand, then looks up at him. He points to the bread on the shelf, the coffee, the salt. She nods, reaches for the items, weighs them on the scale. The scale tips, settles. The bread is soft, the coffee ground fine, the salt white as river sand.
 
-He stands for a moment, bread and salt in hand, watching the world go on. Through the dusty window, Ada closes the ledger, sweeps the counter.
+She adds a line to the ledger, her writing neat, unhurried. He watches her hand move, the page crowded with names and numbers. The ledger is thick, its pages yellowed, its binding cracked. Every transaction, every debt, every payment recorded in her careful script.
 
-A woman stands in the shade by the mill road, arms folded, watching the sky. He passes her without a word. Mara, maybe, or someone like her. Faces blur in the heat. 
+Eli's name is there, a line of debt that grows and shrinks. The numbers tell a story he cannot read fully, but the pattern is clear. Ada glances at the page, then at him, but says nothing. Her face reveals nothing.
+
+The child has not moved from the candy jars. Her breath fogs the glass, and she wipes it clean with her sleeve. The mother takes a step closer, places a hand on the child's shoulder. The child points to the peppermint sticks, striped red and white, and the mother shakes her head. The child's hand falls to her side.
+
+Ada reaches under the counter, pulls out a small paper bag. She fills it with three pieces of candy—two peppermint sticks and a piece of hard toffee. She folds the bag closed, sets it on the counter. The mother looks up. She starts to speak, but Ada raises a hand.
+
+Ada slides the bag toward the mother, her eyes soft but final. The gesture speaks plainly: for the child.
+
+The mother takes the bag, her fingers trembling. Her mouth opens to speak, then closes. A nod, deep and grateful, then she hurries the child toward the door. The bell above the door chimes as they leave, and their footsteps fade on the wooden porch.
+
+Ada returns to her ledger, makes another mark. This one is not for payment or debt, but for something else. She does not explain, and he does not ask. The candy costs more than the woman could pay, but Ada's shelves are still half-empty, and the ledger is still full of debts.
+
+He takes his parcel, nods, and steps outside. The sun is higher now, the street empty except for a stray dog panting in the shade. The dog's ribs show through its coat, and it watches him. He unwraps the bread, breaks off a piece, and drops it near the dog. The dog sniffs, then eats, its tail moving once.
+
+The street is dirt and gravel, rutted from the spring rains. A few chickens scratch in the dust, and a rooster perches on a fence post, watching. From somewhere comes the sound of a hammer on metal, the steady rhythm of work. The river moves beyond the trees, its current brown and thick.
+
+He stands for a moment, bread and salt in hand, watching the world continue. Through the dusty window, Ada closes the ledger, sweeps the counter. Her movements are economical, practiced.
+
+A woman stands in the shade by the mill road, arms folded, watching the sky. Her hair is dark, her dress simple, her posture patient. She does not look at him as he passes, but he feels her presence. Mara, maybe, or someone like her. The heat makes faces blur, makes the world shimmer.
+
+He walks past the mill, its wheel turning slow in the shallow water. The wheel is old, its wood green with moss, its iron fittings rusted. The air around it smells of grain and damp wood. The miller is not visible, but the wheel turns, and the stones grind.
+
+The road back to the river is dusty, the trees offering little shade. He shifts the parcel to his other hand, feels the weight of the bread and salt. The coffee will last a week, maybe more. The salt will last longer.
+
+Behind him, the store settles into the afternoon quiet. Ada tends her ledger, sweeps her floor. The dog finds shade and sleeps.
+
+He reaches the path to his shack, the earth worn smooth by his feet. The eggs are gone, traded for what he needs. The river waits, brown and slow, carrying debris downstream. The fishing line hangs in the water, and the day stretches ahead. 
