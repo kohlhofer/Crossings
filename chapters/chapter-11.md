@@ -1,6 +1,6 @@
 # Chapter 11: Ancient Turning
 
-Dusk settles over the river, the water gold and gray. He sits on the dock, feet dangling above the surface, watching the light change. The world is quiet except for the call of a distant bird, its voice carrying across the water like a question without an answer.
+Dusk settles over the river, the water gold and gray. He sits on the dock, feet dangling above the surface, watching the light change. The world is quiet except for the call of a distant bird, its voice carrying across the water.
 
 The shack behind him stands dark, its windows reflecting the evening sky. The stove is cold, its ashes settled. The bed waits, narrow and familiar. On the table, bread and salt sit untouched, provisions for tomorrow or whenever hunger calls.
 
@@ -24,11 +24,11 @@ The coffee tin sits on the shelf, coins making their thin sound when he counts t
 
 He moves to the window, looks out at the river. The water is dark now, its surface barely visible in the gathering night. Stars begin to appear, first one, then many, their light scattered on the current. The factory is a dark shape against the sky, its mysteries intact.
 
-Somewhere across the water, a light flickers—a lantern, perhaps, or a fire built by someone seeking warmth. The light wavers, then disappears, swallowed by the darkness. The night is full of such mysteries, small and unexplained.
+Somewhere across the water, a light flickers. The light wavers, then disappears, swallowed by the darkness.
 
 He sits on the edge of the bed, removes his boots, sets them beside the door. Cool beneath his feet, the floor. Outside, the river continues its flow, carrying debris downstream.
 
-An owl calls from the trees, answered by another from across the water. Night hunters begin their work, moving through the darkness with purpose known only to themselves. The world settles into its nocturnal rhythm.
+An owl calls from the trees, answered by another from across the water. Night hunters begin their work. The world settles into its nocturnal rhythm.
 
 He lies down on the narrow bed, pulls the thin blanket over him. The pillow is flat, the mattress hard, but they are familiar, comfortable in their simplicity. Through the window, he can see stars reflected on the water, points of light in the vast darkness.
 

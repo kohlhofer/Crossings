@@ -30,9 +30,9 @@ She does not argue, does not explain. She stands beside the table, hands folded,
 
 She nods, turns to go. The miller watches her walk away, his expression unreadable. When she disappears into the house, he returns to his ledger, his pencil moving across the page.
 
-The deliveries are quick—Henderson's farm, then Ada's store. Mrs. Henderson checks the sack, nods. Ada runs the flour through her fingers, testing its quality. "Good flour," she says. "Tell him I said so."
+The deliveries are quick—Henderson's farm, then Ada's store. Mrs. Henderson checks the sack, counts out payment with careful fingers. Ada runs the flour through her fingers, testing its quality. "Good flour," she says. "Tell him I said so."
 
-The return trip is easier, the cart empty. The miller waits, counting coins, making marks. "Two bits," he says, pressing the coins into his palm. "Come back next week. Might have something."
+The return trip is easier, the cart empty. The miller waits, counting coins twice, making marks. "Two bits," he says, pressing the coins into his palm. "Come back next week. Might have something."
 
 The coins are cold, few, real. He pockets them, nods, turns to go. In the doorway to the mill house, Mara appears again, her movements careful, strategic. She watches him leave, her expression unreadable. He nods to her, brief but acknowledged. She does not respond, but something in her posture softens.
 

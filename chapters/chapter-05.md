@@ -12,7 +12,7 @@ The oar cuts through the surface, disturbing the reflection of sky and mist. He 
 
 A fish jumps, silver flash in the brown water, then gone. Ripples spread outward, catching the light, then fading. He considers the fishing line coiled in the bottom of the boat, the hooks wrapped in cloth, but does not reach for them. The river will give what it gives. The acceptance he shows the world masks how his stomach contracts with hunger, how his hands want to reach for the line.
 
-Reed appears, boat gliding from the shadows like a ghost made solid. They pass close, eyes meeting for a moment. No words. His skin is dark from sun and work, his hands scarred from years of labor. He nods, moves on, swallowed by mist.
+Reed appears, boat gliding from the shadows. They pass close, eyes meeting for a moment. No words. His skin is dark from sun and work, his hands scarred from years of labor. He nods, moves on, swallowed by mist.
 
 Reed's boat leaves a small wake, gentle waves that rock his vessel. The old man's strokes are steady, efficient. He knows these waters, these currents, these moods of the river.
 
@@ -22,7 +22,7 @@ The river moves on, indifferent. A turtle surfaces, head breaking the water, eye
 
 He lets the boat drift, the oar resting across his knees. The wood is warm from his hands, smooth and worn. The day opens, slow and uncertain, the river carrying him nowhere in particular. A crow calls from the trees, its voice harsh in the morning air.
 
-The factory grows smaller behind him, its broken windows dark. The figure is gone, but their presence lingers in the disturbed air, in the echo of laughter off the water. The river curves ahead, bending toward unknown shores, carrying him deeper into the morning.
+The factory grows smaller behind him, its broken windows dark. The figure is gone, dissolved back into shadow and steel. The river curves ahead, bending toward unknown shores, carrying him deeper into the morning.
 
 Water laps against the hull, a steady rhythm that matches his breathing. The boat moves with the current, following the river's path. He does not fight it, does not try to direct its course.
 

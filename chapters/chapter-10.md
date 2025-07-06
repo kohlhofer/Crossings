@@ -10,13 +10,13 @@ Reed gestures with a tilt of his head, and he steps into the boat. The vessel ro
 
 They cross in silence, water lapping against the hull in a steady rhythm. The lantern casts a small circle of light around them, beyond which the world disappears into darkness. The river stretches wide here, its far bank lost in shadow and mist.
 
-Reed rows with practiced ease, his oars cutting the water cleanly. His breathing is steady, unhurried. He knows these waters, these currents, these hidden dangers. The boat moves through the darkness like a living thing, guided by sure movements.
+Reed rows with practiced ease, his oars cutting the water cleanly. His breathing is steady, unhurried. He knows these waters, these currents, these hidden dangers. The boat moves through the darkness, guided by sure movements.
 
-The far bank looms gradually out of the darkness, trees tangled, shadows deep. A figure waits there, small and indistinct in the mist. The shape might be a person, might be a stump, might be nothing at all. The lantern light catches something—movement, or perhaps just the play of shadows on water.
+The far bank looms gradually out of the darkness, trees tangled, shadows deep. Something waits there, small and indistinct in the mist. The shape might be a person, might be a stump, might be nothing at all. The lantern light catches something—movement, or perhaps just the play of shadows on water.
 
-Reed rows toward the bank, his oars steady. The boat slides up to the muddy shore with a soft scrape. The waiting figure—if it is a figure—does not move. In the uncertain light, it could be anyone, anything, or no one at all.
+Reed rows toward the bank, his oars steady. The boat slides up to the muddy shore with a soft scrape. Whatever waits does not move. In the uncertain light, it could be anyone, anything, or no one at all.
 
-He steps onto the bank, feet sinking into the soft mud. The lantern casts its circle of light, but beyond its reach, the darkness holds its secrets. A sound from the shadows—footsteps, perhaps, or the wind through the reeds. Something restless moves in the periphery of vision.
+He steps onto the bank, feet sinking into the soft mud. The lantern casts its circle of light, but beyond its reach, the darkness holds its secrets. A sound from the shadows—footsteps, perhaps, or the wind through the reeds. Something moves in the periphery of vision.
 
 Reed pushes off from the bank, the boat rocking as it slips back into the current. He settles into the stern, and Reed turns the bow downstream. The old man rows steadily, carrying them both deeper into the night. The smell of spirits drifts faintly in the air between them, but Reed's hands remain steady on the oars.
 

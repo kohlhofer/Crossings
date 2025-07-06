@@ -2,7 +2,7 @@
 
 Dawn breaks slow and gray, the street empty, the church steps slick with dew. The air is cool, carrying the scent of wet earth and river mist. Frost edges the grass, and his breath clouds white in the morning chill. The sound of his footsteps echoes off the empty buildings. He walks the path toward the square, bread in hand—yesterday's loaf, hard but edible.
 
-A man sits on the church steps, coat damp, boots muddy, hands wrapped around his knees. He is older, his hair gray and unkempt, his face weathered by sun and wind. A canvas bag sits beside him, its contents unknown. He rocks slightly as he sits, his eyes fixed on the empty street.
+A man sits on the church steps, coat damp, boots muddy, hands wrapped around his knees. He is older, his hair gray and unkempt, his face weathered by sun and wind. A canvas bag sits beside him, worn thin at the corners. He rocks slightly as he sits, his eyes fixed on the empty street.
 
 He slows, nods. The man nods back, offers a seat with a gesture of his hand. No words at first, just the quiet of the morning and the sound of birds stirring in the trees. The stone steps are cold and wet, but he sits, keeping distance between them.
 
@@ -42,7 +42,7 @@ The town stirs. Doors open, shutters creak. Ada watches people emerge from their
 
 Brother Calvin's figure disappears from the window. The church itself seems to watch, its windows dark, its silence heavy. Ada continues her conversation with Josiah, but something has changed in her posture, a subtle stiffness in her shoulders. Her kindness remains genuine, but her words become more careful, more measured. She serves others while serving Calvin's judgment of her goodness.
 
-The shadow at the edge of the square flickers again, like something half-remembered. A movement in the periphery, there and gone. Josiah's eyes drift toward the spot, and he speaks softly to the morning air. "River's not the only thing that remembers." His words carry on the wind, directed at nothing and everything.
+The shadow at the edge of the square flickers again, like something half-remembered. A movement in the periphery, there and gone. Josiah's eyes drift toward the spot, and he speaks softly to the morning air. "River's not the only thing that remembers."
 
 He watches this careful space, the way Ada and Josiah exist in their quiet moment.
 

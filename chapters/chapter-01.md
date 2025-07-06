@@ -24,9 +24,7 @@ Across the river, the factory stands empty, windows broken, a hollow shell. Once
 
 Someone moves among the girders—quick, restless, climbing the rusted frame, disappearing, reappearing, a flash of movement in the gray. A figure in the dawn light, moving, always across the river.
 
-Eli.
-
-The figure is too far to see clearly, but the movement is familiar—urgent, purposeful, searching for something in the bones of the old factory. Sometimes the figure stops, becomes still, and seems to look across the water. Sometimes it waves, though whether at him or at someone else, he cannot say.
+The figure is too far to see clearly, but the movement is urgent, purposeful, searching for something in the bones of the old factory. Sometimes the figure stops, becomes still, and seems to look across the water. Sometimes it waves, though whether at him or at someone else, he cannot say.
 
 He does not wave back. 
 

@@ -26,9 +26,9 @@ The service continues, Calvin's voice rising and falling like the tide. He speak
 
 Through the door, he can see the backs of heads, the bent shoulders of people seeking comfort or answers. The pews are not full, but those who come do so with purpose. Mrs. Ada Bell sits near the front, her back straight, her attention fixed on Calvin's words. The mother from the store sits near the back, her child beside her, both quiet and still.
 
-A woman weeps quietly on the steps, her shoulders shaking with each sob. Her dress is patched at the elbows, her shoes worn thin. She holds a handkerchief to her face, trying to muffle the sound. She sits alone on the step, her grief a private thing.
+A woman weeps quietly on the steps, her shoulders shaking with each sob. Her dress is patched at the elbows, her shoes worn thin. She holds a handkerchief to her face, trying to muffle the sound. She sits alone on the step.
 
-He watches from the fence. The woman's pain is visible, but its source remains hidden. The service continues inside, Calvin's voice steady.
+He watches from the fence. The service continues inside, Calvin's voice steady.
 
 The hymns resume, voices joining in song that speaks of hope and salvation. The melody is familiar, the words worn smooth by repetition. The congregation sings with determination, their voices carrying across the square, past the stores and houses, toward the river.
 

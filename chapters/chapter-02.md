@@ -1,6 +1,6 @@
 # Chapter 2: Out of Reach
 
-The store sits low to the ground, clapboard faded, windows crowded with hand-lettered signs. Paint peels from the sills. The porch sags under the weight of seed sacks and empty crates. A thermometer nailed to the wall reads eighty-five degrees in the shade. Dust hangs in the heavy air, stirred only by the occasional hot breeze that brings the scent of baked earth and distant cotton fields.
+The store sits low to the ground, clapboard faded, windows crowded with hand-lettered signs. Paint peels from the sills. The porch sags under the weight of half-empty seed sacks and weathered crates. A thermometer nailed to the wall reads eighty-five degrees in the shade. Dust hangs in the heavy air, stirred only by the occasional hot breeze that brings the scent of baked earth and fields gone fallow.
 
 The bell above the door chimes softly as he pushes it open, the hinges groaning. Inside, the air is thick with dust and the faint sweetness of molasses. Shelves half-empty. Flour in cloth sacks, their sides soft with age. Penny candy in glass jars, out of reach for most. The jars catch the light from the window, casting small rainbows on the worn wooden counter.
 
@@ -26,7 +26,7 @@ Through the window, a figure moves down the street. Brother Calvin walks his usu
 
 He takes his parcel, nods, and steps outside. The sun is higher now, the street empty except for a stray dog panting in the shade. The dog's ribs show through its coat, and it watches him. He unwraps the bread, breaks off a piece, and drops it near the dog. The dog sniffs, then eats, its tail moving once.
 
-The street is dirt and gravel, rutted from the spring rains. A few chickens scratch in the dust, and a rooster perches on a fence post, watching. From somewhere comes the sound of a hammer on metal, the steady rhythm of work. The river moves beyond the trees, its current brown and thick.
+The street is dirt and gravel, rutted from the spring rains. A few chickens scratch in the dust, and a rooster perches on a fence post, watching. From somewhere comes the sound of a hammer on metal, irregular, then stopping. The river moves beyond the trees, its current brown and thick.
 
 He stands for a moment, bread and salt in hand, watching the world continue. Through the dusty window, Ada closes the ledger, sweeps the counter. Her movements are economical, practiced.
 

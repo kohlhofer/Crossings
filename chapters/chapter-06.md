@@ -6,7 +6,7 @@ Eli is ahead, hands in her pockets, shoulders hunched against the wind. She move
 
 Inside, the air is thick with sweat and cheap spirits. The smell hits him first—stale beer, unwashed bodies, smoke from cigarettes rolled too thin. Floorboards creak under his weight, sticky with spilled drinks. A single bulb hangs from the ceiling, casting harsh shadows that make faces hard to read.
 
-In the corner, Lila sits with faded dress hanging loose on her thin frame, suitcase at her feet, humming to herself. Her hair is unwashed, her eyes unfocused. The suitcase is old, its leather cracked, its brass fittings tarnished. She rocks slightly as she hums. When Harlan's not looking, her eyes sharpen, tracking who enters, who leaves, who has money. The vacant humming resumes the moment his attention returns, a performance of helplessness.
+In the corner, Lila sits with faded dress hanging loose on her thin frame, suitcase at her feet, humming to herself. Her hair is unwashed, her eyes unfocused. The suitcase is old, its leather cracked, its brass fittings tarnished. She rocks slightly as she hums. When Harlan's not looking, her eyes sharpen, tracking who enters, who leaves, who has money. The vacant humming resumes the moment his attention returns.
 
 Hunched at the bar, Amos mutters with eyes on the floor. His clothes are stained, his beard unkempt. His fingers wrap around a mug, knuckles white with the effort of holding on. He speaks to no one, his words lost in the noise of the room. A wedding ring, bright with polish, catches the light on his finger—the only clean thing about him. When someone approaches, his muttering stops, replaced by sullen silence. The words return only when he thinks himself unheard.
 
@@ -44,6 +44,6 @@ He watches it all, saying nothing. The room is full of people who have nowhere e
 
 Time passes. The glasses multiply, empty and forgotten. Lila's humming grows louder, more discordant. Amos continues his muttered conversation with the floor. The man by the door returns to his weeping. Others come and go, faces blurred by alcohol and shadow.
 
-He leaves before dark, the sound of laughter and argument fading behind him. The cold air hits him like a slap, clearing his head, sharpening his vision. Above, clouds gather thick and heavy. The river flows unchanged, its current moving steady and sure toward the sea.
+He leaves before dark, the sound of laughter and argument fading behind him. The cold air hits him, clearing his head, sharpening his vision. Above, clouds gather thick and heavy. The river flows unchanged, its current moving steady and sure toward the sea.
 
 Behind him, the bar continues its nightly ritual. The lights burn dim, the voices carry on, and the bottles empty one by one. 

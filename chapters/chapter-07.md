@@ -16,9 +16,9 @@ They sit in silence, listening to the storm. The air is close, humid, filled wit
 
 Thunder rolls overhead, shaking the tin roof. She shifts on the crate, her movements careful, economical. He leans against the wall, feeling the rough wood against his back. The storm shows no signs of stopping.
 
-She stands, moves closer, her movements practical, unhurried. No words, no tender touches. He does not resist, does not question. The act is wordless, mechanical, a brief joining of bodies for warmth, for need, for nothing more. She has timed this as carefully as her appearances in doorways, her strategic movements through the mill house. 
+She stands, moves closer, her movements practical, unhurried. No words pass between them. He does not resist, does not question. She has timed this as carefully as her appearances in doorways, her strategic movements through the mill house. 
 
-The rain continues, masking any sound they might make. Lightning flashes again, throwing their shadows against the walls. The storm is the only witness.
+The rain continues, masking sound. Lightning flashes again, throwing their shadows against the walls. The storm is the only witness.
 
 After, she dresses without looking at him, her movements efficient, matter-of-fact. He buttons his shirt, stares at the floor. The rain slows to a steady patter, then to scattered drops. The storm is passing, leaving the world washed and clean.
 
