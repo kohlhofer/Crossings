@@ -1,6 +1,6 @@
 # Chapter 3: The Bell's Echo
 
-The bell rings, cracked and uncertain, its sound drifting over the rooftops. He hears it from the riverbank, a dull summons. The church stands at the edge of the square, white paint peeling, steeple leaning. People gather in twos and threes, heads bowed, voices low.
+The bell rings, cracked and uncertain, its sound drifting over the rooftops. He hears it from the riverbank, a dull summons. He keeps walking, boots scraping the packed dirt, the sound trailing him, then growing. The path bends. The church stands at the edge of the square, white paint peeling, steeple leaning. People gather in twos and threes, heads bowed, voices low.
 
 He does not join them. He stands apart, watching as Brother Calvin greets each arrival with a practiced smile, collar askew, voice loud in the morning air. The congregation files inside, shoes scraping the steps, hymnals clutched tight. Eli is not among them. Sometimes she is seen at the back, but not today.
 
