@@ -44,6 +44,8 @@ The people disperse, walking back to their homes, their farms, their daily strug
 
 Ada returns to the building, helping to stack hymnals, to straighten pews. She moves with quiet efficiency, her service continuing beyond the formal worship. Calvin moves through the church, closing windows, adjusting chairs. Their paths cross near the altar. A moment of proximity, nothing more, but she steps aside, maintains distance. Her movements remain careful, measured. When a hymnal slips from her hands, she retrieves it quickly, avoiding his eyes. The efficiency masks the tremor in her fingers.
 
+He pauses beside her, sets down a small wrapped bundle on the altar rail. "For the poor box," he says quietly. She nods, does not look at the bundle, but her hand brushes his as she reaches for another hymnal. The touch is brief, deliberate. She picks up the bundle, unwraps it partially—fabric, blue and worn soft. She wraps it again, places it carefully aside. "I'll see it gets where it needs to go," she says, voice barely above a whisper.
+
 He pushes away from the fence, the square emptying, the church settling back into quiet. The service is over, its echoes lingering in the air.
 
 He turns away, resuming his path, the day moving on. His boots scrape the packed dirt, the dust rising with each step. The path leads past the square, beyond the church, toward the sound of grinding stones and the wheel that turns in the shallow water.
