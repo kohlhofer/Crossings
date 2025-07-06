@@ -1,4 +1,4 @@
-# Chapter 5: River Drift
+# Chapter 5: Silver Flash
 
 Mist clings to the water, blurring the far bank. He pushes the boat from the dock, oar dipping, river slow and heavy beneath him. Old, its wood soft with age, the boat's bottom is scarred and stained. Water seeps through the gaps, pooling around his feet, but it holds. It floats.
 

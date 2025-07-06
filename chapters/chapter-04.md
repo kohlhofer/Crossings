@@ -1,4 +1,4 @@
-# Chapter 4: The Mill's Turn
+# Chapter 4: Everything's Gone
 
 The wheel turns, slow and deliberate, its wooden spokes dark with water. The mill sits where the creek meets the river, its stone foundation green with moss, its walls weathered gray. The wheel has turned for forty years, grinding grain when there is grain to grind, marking time when there is not.
 

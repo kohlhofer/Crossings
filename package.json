@@ -1,7 +1,7 @@
 {
-  "name": "river-book",
+  "name": "crossings",
   "version": "1.0.0",
-  "description": "A book about endurance, small kindnesses, and life by the river",
+  "description": "Crossings - A book in eleven chapters",
   "main": "build.js",
   "scripts": {
     "build": "node build.js",

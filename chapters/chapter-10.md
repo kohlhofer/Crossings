@@ -1,4 +1,4 @@
-# Chapter 10: The Night Crossing
+# Chapter 10: Ghost-Like
 
 Night falls heavy, the river black and wide. Stars pierce the darkness above, their light scattered on the water's surface. The air is sharp with the promise of frost, and bare branches rattle in the wind. He stands on the dock, lantern in hand, breath clouding in the cool air. The dock creaks beneath his weight, old wood settling into the night.
 

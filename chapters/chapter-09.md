@@ -1,4 +1,4 @@
-# Chapter 9: The Ledger's Weight
+# Chapter 9: Gathering Darkness
 
 Evening settles over the town like a heavy blanket, the store nearly bare. The last light of autumn fades through the windows, painting everything amber and gold. Shelves stripped, only dust and a few sacks left. The glass jars are empty, their lids removed. Lamps burn low, casting long shadows across the worn wooden floor. Outside, the temperature drops with the sun, and the first hint of winter rides the evening breeze.
 

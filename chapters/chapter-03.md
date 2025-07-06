@@ -1,4 +1,4 @@
-# Chapter 3: The Bell's Echo
+# Chapter 3: All Welcome
 
 The bell rings, cracked and uncertain, its sound drifting over the rooftops. He hears it from the path toward town, a dull summons that carries across the water. The bell is old, its bronze green with age. He keeps walking, boots scraping the packed dirt, headed for the mill road where work might be found.
 

@@ -73,7 +73,7 @@ function generateHTML(chapters) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>River Book</title>
+    <title>Crossings</title>
     <style>
         * {
             margin: 0;
@@ -201,8 +201,7 @@ function generateHTML(chapters) {
 <body>
     <div class="container">
         <header class="book-header">
-            <h1>River Book</h1>
-            <div class="subtitle">A story of endurance, small kindnesses, and life by the river</div>
+            <h1>Crossings</h1>
         </header>
         
         ${navigation}

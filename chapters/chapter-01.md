@@ -1,4 +1,4 @@
-# Chapter 1: First Light
+# Chapter 1: Monument
 
 Gray light seeps through the cracks in the roof. Damp, cool air carries the faint smell of mud and old smoke—the shack breathing with the river. He sits up on the narrow bed, feet finding the splintered floor. Beyond the walls, the world holds its quiet, broken only by a distant train's call and the slow churn of water against the bank.
 

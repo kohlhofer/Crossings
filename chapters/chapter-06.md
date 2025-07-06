@@ -1,4 +1,4 @@
-# Chapter 6: The Bar's Shadow
+# Chapter 6: My Chair
 
 The house sags at the edge of town, porch littered with bottles and broken chairs. The paint is gone, leaving weathered wood gray and worn. A sign hangs crooked by the door, letters too faded to read. He doesn't mean to go in. The cold drives him toward the light spilling from the windows, toward the sound of voices and the promise of warmth. Wind cuts through his thin jacket, carrying the bite of winter and the scent of wood smoke from distant chimneys.
 

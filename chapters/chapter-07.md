@@ -1,4 +1,4 @@
-# Chapter 7: Shelter
+# Chapter 7: Design
 
 Rain falls hard, drumming on the tin roofs. The sky opens without warning, releasing water in sheets that blur the world into gray shapes. He is caught between the mill and the river, no shelter but the trees that offer little protection from the downpour.
 

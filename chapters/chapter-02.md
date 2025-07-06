@@ -1,4 +1,4 @@
-# Chapter 2: The Store Ledger
+# Chapter 2: Out of Reach
 
 The store sits low to the ground, clapboard faded, windows crowded with hand-lettered signs. Paint peels from the sills. The porch sags under the weight of seed sacks and empty crates. A thermometer nailed to the wall reads eighty-five degrees in the shade. Dust hangs in the heavy air, stirred only by the occasional hot breeze that brings the scent of baked earth and distant cotton fields.
 

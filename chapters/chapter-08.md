@@ -1,4 +1,4 @@
-# Chapter 8: The Drifter's Word
+# Chapter 8: Always Down
 
 Dawn breaks slow and gray, the street empty, the church steps slick with dew. The air is cool, carrying the scent of wet earth and river mist. Frost edges the grass, and his breath clouds white in the morning chill. The sound of his footsteps echoes off the empty buildings. He walks the path toward the square, bread in hand—yesterday's loaf, hard but edible.
 
