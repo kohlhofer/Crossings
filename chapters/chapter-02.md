@@ -18,13 +18,11 @@ Eli's name is there, a line of debt that grows and shrinks. The numbers tell a s
 
 The child has not moved from the candy jars. Her breath fogs the glass, and she wipes it clean with her sleeve. The mother takes a step closer, places a hand on the child's shoulder. The child points to the peppermint sticks, striped red and white, and the mother shakes her head. The child's hand falls to her side.
 
-Ada reaches under the counter, pulls out a small paper bag. She fills it with three pieces of candy—two peppermint sticks and a piece of hard toffee. She folds the bag closed, sets it on the counter. The mother looks up. She starts to speak, but Ada raises a hand.
+The mother looks at the candy, then at Ada. Ada's eyes remain on the ledger. The mother waits a moment, then takes the child's hand. They move toward the door together. The bell above the door chimes as they leave, and their footsteps fade on the wooden porch.
 
-Ada slides the bag toward the mother, her eyes soft but final. The gesture speaks plainly: for the child.
+Ada returns to her ledger, makes another mark. Credit for the eggs. She does not look up as the mother and child disappear down the street.
 
-The mother takes the bag, her fingers trembling. Her mouth opens to speak, then closes. A nod, deep and grateful, then she hurries the child toward the door. The bell above the door chimes as they leave, and their footsteps fade on the wooden porch.
-
-Ada returns to her ledger, makes another mark. This one is not for payment or debt, but for something else. She does not explain, and he does not ask. The candy costs more than the woman could pay, but Ada's shelves are still half-empty, and the ledger is still full of debts.
+Through the window, a figure appears on the street. Brother Calvin walks slowly past the store, his eyes on the windows. He pauses, as if considering whether to enter. Ada's hand stills on the ledger page. She does not look up, but her shoulders tense. Calvin's shadow falls across the doorway for a moment, then moves on. Ada's pencil resumes its careful marks, but her movements are stiffer now.
 
 He takes his parcel, nods, and steps outside. The sun is higher now, the street empty except for a stray dog panting in the shade. The dog's ribs show through its coat, and it watches him. He unwraps the bread, breaks off a piece, and drops it near the dog. The dog sniffs, then eats, its tail moving once.
 

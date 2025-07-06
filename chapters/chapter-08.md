@@ -16,13 +16,13 @@ No words pass between them. The silence is comfortable, familiar. Ada wraps his 
 
 A child appears at the door, thin and silent. She is perhaps eight years old, her dress too large, her shoes held together with string. Her eyes are wide with hunger, her face pale with want. She does not speak, but her presence fills the doorway like a question.
 
-Ada glances at the child, then at her dwindling supplies. Without hesitation, she slips a loaf of bread into a bag, adds a small piece of cheese, and hands it over without a word. The child's eyes widen, gratitude and shame mingling in her expression.
+Ada glances at the child, then at her dwindling supplies. She looks at the empty shelves, the nearly bare counter. Her hand moves toward the bread, then stops. She shakes her head slowly.
 
-The child clutches the bag, her small hands trembling. She looks up at Ada, mouth opening as if to speak, then closes it again. A nod, a step backward.
+The child's eyes widen, then drop to the floor. A nod, a step backward.
 
-Ada gestures gently toward the door, her expression soft but firm. The child understands.
+The child understands. She disappears into the evening shadows. Ada returns to her sweeping, her movements sharper now.
 
-She disappears into the evening shadows. Ada returns to her sweeping, her movements more deliberate now.
+A shadow passes the window. Brother Calvin stands on the porch, his hand on the door frame. He does not enter, but his presence fills the doorway. Ada's sweeping stops. She does not look up, but her knuckles are white on the broom handle. Calvin's footsteps move away, slow and deliberate. Ada's breathing is shallow, quick.
 
 Through the window, Eli stands outside, arms crossed, pride holding her back from stepping inside. She watches the exchange, her face unreadable. He sees her there, a figure caught between need and independence, between hunger and dignity.
 

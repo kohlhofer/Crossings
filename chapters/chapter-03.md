@@ -26,11 +26,9 @@ The service continues, Calvin's voice rising and falling like the tide. He speak
 
 Through the door, he can see the backs of heads, the bent shoulders of people seeking comfort or answers. The pews are not full, but those who come do so with purpose. Mrs. Ada Bell sits near the front, her back straight, her attention fixed on Calvin's words. The mother from the store sits near the back, her child beside her, both quiet and still.
 
-A woman weeps quietly on the steps, her shoulders shaking with each sob. Her dress is patched at the elbows, her shoes worn thin. She holds a handkerchief to her face, trying to muffle the sound. Ada appears beside her, having slipped out of the service, and sits on the step. She says nothing, but places a gentle hand on the woman's shoulder.
+A woman weeps quietly on the steps, her shoulders shaking with each sob. Her dress is patched at the elbows, her shoes worn thin. She holds a handkerchief to her face, trying to muffle the sound. She sits alone on the step, her grief a private thing.
 
-The weeping woman looks up, her eyes red, her face streaked with tears. Ada offers her a fresh handkerchief, and the woman takes it, grateful. They sit together in silence, the service continuing inside, Calvin's voice a steady backdrop to their quiet moment.
-
-He watches from the fence. The woman's pain is visible, but its source remains hidden. Ada offers her kindness without words. The service continues inside, Calvin's voice steady.
+He watches from the fence. The woman's pain is visible, but its source remains hidden. The service continues inside, Calvin's voice steady.
 
 The hymns resume, voices joining in song that speaks of hope and salvation. The melody is familiar, the words worn smooth by repetition. The congregation sings with determination, their voices carrying across the square, past the stores and houses, toward the river.
 
@@ -42,9 +40,9 @@ The doors open, and the congregation spills out, blinking in the bright light. T
 
 "See you next week, Brother. The Lord's work continues."
 
-The people disperse, walking back to their homes, their farms, their daily struggles. The weeping woman has composed herself, Ada's handkerchief still clutched in her hand. She walks away alone, her steps careful, her head down.
+The people disperse, walking back to their homes, their farms, their daily struggles. The weeping woman has composed herself, clutching her handkerchief. She walks away alone, her steps careful, her head down.
 
-Ada returns to the building, helping to stack hymnals, to straighten pews. She moves with quiet efficiency, her service continuing beyond the formal worship. Calvin watches her work, his expression thoughtful, his loud voice now subdued.
+Ada returns to the building, helping to stack hymnals, to straighten pews. She moves with quiet efficiency, her service continuing beyond the formal worship. Calvin watches her work, his eyes lingering on her movements. When she passes close to him, he brushes his hand against her arm. She pulls away, a quick, sharp movement, and continues stacking hymnals. Her jaw tightens, and she does not look at him.
 
 He pushes away from the fence, the square emptying, the church settling back into quiet. The service is over, its echoes lingering in the air.
 
