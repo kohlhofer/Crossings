@@ -14,7 +14,7 @@ Harlan asleep behind the counter, roused only when someone calls his name. The p
 
 "You're late," Amos says, not looking up. His voice is slurred, his words directed at the floor.
 
-"Always late," Lila echoes, voice flat, as if reciting a line from a play. She continues humming, the melody broken and strange.
+"Always late," Lila echoes, voice flat. She continues humming, the melody broken and strange.
 
 Harlan grunts, half-awake. "He's always late, but he always comes." His eyes focus briefly on the man at the end of the bar, then drift away.
 

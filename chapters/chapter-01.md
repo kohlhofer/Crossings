@@ -30,7 +30,7 @@ The figure is too far to see clearly, but the movement is familiar—urgent, pur
 
 He does not wave back. 
 
-The walk to the dock takes him past the chicken coop, where the birds gather near the fence. The red hen limps forward, hopeful. He reaches into his pocket, finds the crumbs saved from his bread. Hard crumbs, barely worth saving, but the chickens receive them as if they were gold. The red hen gets most of them.
+The walk to the dock takes him past the chicken coop, where the birds gather near the fence. The red hen limps forward, hopeful. He reaches into his pocket, finds the crumbs saved from his bread. Hard crumbs, barely worth saving, but the chickens receive them eagerly. The red hen gets most of them.
 
 He checks the nesting boxes. Three eggs, still warm. He lifts them carefully, turns them in his palm. Good shells, no cracks. He slips them into his jacket pocket, cushioned by the worn fabric. Mrs. Ada Bell will give him credit for them, or maybe the proprietor at the bar needs them for the evening meal.
 

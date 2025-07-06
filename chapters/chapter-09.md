@@ -36,7 +36,7 @@ They round a bend, and a spit of sand appears in the lantern light. Reed steers 
 
 Nothing waits there but driftwood and the smell of mud. The shore is littered with river trash—bleached logs, plastic bottles, tangles of fishing line. The sand gives way to marsh grass, then to the dark line of trees beyond.
 
-Eli jumps out before the boat touches shore, her feet splashing in the shallow water. She vanishes into the dark without a word, her footsteps fading along the water's edge. The night swallows her completely, as if she had never been there at all.
+Eli jumps out before the boat touches shore, her feet splashing in the shallow water. She vanishes into the dark without a word, her footsteps fading along the water's edge. The night swallows her completely.
 
 Reed nods to him. He pushes off from the sand, the boat rocking as it slips back into the current. The old man turns the bow downstream, his oars finding their rhythm again.
 

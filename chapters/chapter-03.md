@@ -34,7 +34,7 @@ The hymns resume, voices joining in song that speaks of hope and salvation. The 
 
 The sun climbs higher, the bell's echo fading into memory. The service draws to its close, Calvin's final prayer echoing through the open door. The people inside begin to stir, gathering their belongings, preparing for the return to their daily lives.
 
-The doors open, and the congregation spills out, blinking in the bright light. They move slowly, reluctantly, as if leaving the building means leaving something behind. Calvin stands at the door, shaking hands, offering final words of encouragement or advice.
+The doors open, and the congregation spills out, blinking in the bright light. They move slowly, reluctantly. Calvin stands at the door, shaking hands, offering final words of encouragement or advice.
 
 "God bless you, Sister. Remember what we talked about."
 

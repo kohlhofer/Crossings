@@ -42,7 +42,7 @@ A child runs past, chasing a dog. The dog barks, tail wagging, and the child lau
 
 Brother Calvin's figure disappears from the window, but his presence lingers. He can feel the preacher's judgment from inside the church, his disapproval of the stranger, of Ada's kindness, of anything that disrupts the order he tries to maintain.
 
-The shadow at the edge of the square moves again. Eli steps into the light, her curiosity overcoming her caution. She approaches slowly, her steps careful on the wet ground. Josiah sees her coming and nods, as if he expected her.
+The shadow at the edge of the square moves again. Eli steps into the light, her curiosity overcoming her caution. She approaches slowly, her steps careful on the wet ground. Josiah sees her coming and nods.
 
 She settles on the grass nearby, close enough to hear but far enough to run if needed. Josiah speaks softly to the morning air. "You're the one they talk about." His words drift across the space between them, uncertain if they find their target.
 
@@ -62,7 +62,7 @@ He nods. Josiah looks toward where Eli sits, silent as shadow. He speaks to the 
 
 With that, he walks away, his boots squelching in the mud. He disappears down the road that leads to the river, his figure growing smaller until it is lost in the morning haze.
 
-Ada watches him go. She turns to him, as if to speak, but then thinks better of it. Instead, she nods and returns to the church, the empty cup in her hand.
+Ada watches him go. She turns to him, but then thinks better of it. Instead, she nods and returns to the church, the empty cup in her hand.
 
 Eli remains on the grass, her eyes fixed on the spot where Josiah disappeared. He stands, brushes the dampness from his clothes, and continues his walk through the town. Behind him, the church steps are empty again, marked only by the wet imprint of where three people shared a moment of quiet understanding.
 
