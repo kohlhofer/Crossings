@@ -2,14 +2,17 @@
 
 - Follow Markdown formatting conventions.
 - Write in present tense, as demonstrated in the example below.
+- Use close third-person perspective; avoid first or second person.
 - Use vivid sensory descriptions to immerse the reader in the setting and convey atmosphere.
-- Employ sentence fragments and short sentences for rhythm, pacing, and emphasis; vary sentence length for effect.
+- Employ sentence fragments and short sentences for rhythm, pacing, and emphasis; vary sentence length for effect. Use pacing to reflect mood—slower for reflection, faster for tension.
 - Show, don't tell: reveal character emotions and story developments through actions, setting, and physical sensations rather than direct exposition.
 - Allow the reader to infer meaning and emotion; use implication and suggestion rather than explicit statements.
 - Treat the environment as an active presence, almost a character in itself.
-- Avoid naming characters or places unless necessary; keep the narrative universal and focused on experience.
+- Ground scenes in the realities of poverty and inequality. Let material circumstances shape character choices, relationships, and atmosphere.
+- Use dialogue sparingly and only when it reveals character or advances the scene. Favor natural, understated exchanges over exposition.
+- Name characters or places only when it serves clarity or emotional resonance. Otherwise, keep references universal and experiential.
 - Keep the narrative grounded in the present moment, describing what is happening as it unfolds.
-- Use a close third-person perspective, focusing tightly on the protagonist's immediate experience.
+- Maintain a consistent narrative voice and tone throughout, even as perspective shifts between scenes or chapters.
 - Favor strong nouns and verbs over excessive adjectives and adverbs.
 
 ---
