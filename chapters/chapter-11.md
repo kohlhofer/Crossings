@@ -8,6 +8,8 @@ A train whistle sounds in the distance, mournful and distant. The sound drifts a
 
 He watches the sun slip behind the empty factory across the river. The building stands silhouetted against the darkening sky, its broken windows dark. The girders are empty now, no figures climbing through the ruins. Even the restless have found their rest.
 
+A moment passes. His hand lifts slightly from his knee, then settles back.
+
 The sky bruises purple and orange, clouds catching the last light. Swallows dive for insects above the water, their cries sharp in the evening air. A heron stands motionless in the shallows, waiting for the unwary fish.
 
 The river moves, slow and indifferent, carrying branches, leaves, the debris of the day. A bottle bobs past, then a piece of wood worn smooth by water. All of it flows downstream, toward the sea, part of the river's endless cargo.

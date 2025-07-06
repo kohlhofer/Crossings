@@ -36,7 +36,7 @@ Nothing waits there but driftwood and the smell of mud. The shore is littered wi
 
 A splash from the shallows, sudden and quick. Footsteps, perhaps, or a night animal disturbed. The sound fades into the marsh grass, and the darkness swallows whatever made it.
 
-Reed nods to him. He pushes off from the sand, the boat rocking as it slips back into the current. The old man turns the bow downstream, his oars finding their rhythm again.
+He raises his hand, palm open toward the darkness. A gesture small and brief, directed at nothing and everything. Reed nods to him. He pushes off from the sand, the boat rocking as it slips back into the current. The old man turns the bow downstream, his oars finding their rhythm again.
 
 He remains in the boat, settling into the stern. Reed rows steadily, carrying them both deeper into the night. The lantern light grows smaller, more fragile against the vast darkness of the river.
 
