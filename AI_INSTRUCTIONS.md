@@ -1,0 +1,19 @@
+# AI Instructions
+
+Whenever writing or editing any part of this project, always:
+
+- Consult and adhere to the current `style-guide.md`.
+- Reference the `characters/` and `settings/` sections to ensure consistency with established character and world details.
+- If story developments require changes or additions to the style guide, character descriptions, or settings, propose and implement those updates as needed to keep all documentation in sync with the evolving narrative.
+- Before making major changes, ensure all current work is committed to version control. Summarize the intent of each commit clearly.
+- When proposing changes to style, characters, or settings, briefly explain the rationale for the update.
+- Check for consistency in tone, timeline, and world details across all files. Flag and propose resolutions for any contradictions.
+- If a proposed change is significant or could impact the story's direction, prompt for user confirmation before proceeding.
+- Document major narrative or stylistic decisions in a `changelog.md` or similar file for future reference.
+- Ensure all new content is clear and accessible to future collaborators or readers, with sufficient context and explanation.
+- Preserve the intent and nuance of existing material unless a change is explicitly requested or justified.
+- If information is missing or ambiguous, ask clarifying questions before proceeding with assumptions.
+- Maintain a logical and tidy file structure. Propose reorganizations if the project grows or becomes unwieldy.
+- If user preferences or priorities are stated (e.g., focus on atmosphere over plot), always prioritize them in decision-making.
+
+These instructions are omnipresent and should be considered for every task, suggestion, or edit. 
