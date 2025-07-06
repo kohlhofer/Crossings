@@ -16,9 +16,9 @@ No words pass between them. The silence is comfortable, familiar. Ada wraps his 
 
 A child appears at the door, thin and silent. She is perhaps eight years old, her dress too large, her shoes held together with string. Her eyes are wide with hunger, her face pale with want. She does not speak, but her presence fills the doorway.
 
-Ada glances at the child, then at her dwindling supplies. Without hesitation, she slips a loaf of bread into a bag, adds a small piece of cheese, and hands it over without a word. The child's eyes widen, gratitude and shame mingling in her expression. Ada's face shows only kindness, but her hands shake slightly as she calculates what this generosity costs her empty shelves.
+Ada glances at the child, then at her dwindling supplies. Without hesitation, she slips a loaf of bread into a bag, adds a small piece of cheese, and hands it over without a word. The child's eyes widen. Ada's hands shake slightly.
 
-The child clutches the bag, her small hands trembling. She looks up at Ada, mouth opening as if to speak, then closes it again. A nod, a step backward.
+The child clutches the bag. She looks up at Ada, mouth opening as if to speak, then closes it again. A nod, a step backward.
 
 Ada gestures gently toward the door, her expression soft but firm. The child understands.
 
@@ -26,13 +26,11 @@ She disappears into the evening shadows. Ada returns to her sweeping, her moveme
 
 Through the window, Eli stands outside, arms crossed, pride holding her back from stepping inside. She watches the exchange, her face unreadable. He sees her there, a figure caught between need and independence, between hunger and dignity.
 
-He reaches into his pocket, pulls out more coins than his purchase requires. The metal is warm from his body, the coins worn smooth by countless hands. He leaves them on the counter and pushes them toward Ada.
+He reaches into his pocket, pulls out more coins than his purchase requires. The miller's two bits, once cold in his palm, now warm from his body, worn smooth by countless hands. He leaves them on the counter and pushes them toward Ada.
 
 Ada looks at the coins, then at him. She lets them sit for a moment, then, with a small nod, she sweeps them into the drawer. The sound of metal against wood echoes in the empty store.
 
-She meets his eyes briefly, the look saying what words cannot. Gratitude mixed with the weight of necessity.
-
-He nods, takes his package, and moves toward the door. The bell chimes again as he steps outside, the sound fading into the evening air. Behind him, Ada continues her sweeping, preparing to close the store for another day.
+He takes his package, and moves toward the door. The bell chimes again as he steps outside, the sound fading into the evening air. Behind him, Ada continues her sweeping, preparing to close the store for another day.
 
 The street is empty, lit only by the warm glow spilling from windows. A dog wanders past, sniffing at the ground, searching for scraps. The air is cool, carrying the scent of woodsmoke and the distant river.
 

@@ -2,8 +2,6 @@
 
 Gray light seeps through the cracks in the roof. Damp, cool air carries the faint smell of mud and old smoke—the shack breathing with the river. He sits up on the narrow bed, feet finding the splintered floor. Beyond the walls, the world holds its quiet, broken only by a distant train's call and the slow churn of water against the bank.
 
-A train whistle, distant and mournful.
-
 Joints stiff from the thin mattress, he moves to the window. The glass is filmed with dust and the memory of rain. Outside, gray dissolves slowly into shapes—the dock, the path, chickens scratching in their endless search. Among them, the rooster struts with chest puffed, though there is little to defend and less to rule.
 
 A tin basin. Cold water. He washes his face, the sting waking him. The water is brown from the well, tasting of iron and earth. He cups it in his hands, drinks, feels it settle in his empty stomach. The mirror above the basin shows a face he recognizes but does not study—stubble, sun-weathered skin, gray eyes.
