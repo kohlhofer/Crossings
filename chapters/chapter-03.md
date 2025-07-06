@@ -14,7 +14,7 @@ He does not join them. He stands apart, watching as Brother Calvin greets each a
 
 The congregation files inside, shoes scraping the steps, hymnals clutched tight. The mother from the store is there, her child beside her, both wearing dresses that have been let out and taken in. Ada nods to them as she passes, her own dress simple but well-kept.
 
-Inside, the hymns begin—off-key, slow, the words familiar but hollow. Through the open door, he catches fragments of song, voices raised in hope or habit. The piano is out of tune, its keys yellow with age, its sound thin in the morning air. The congregation sings with more effort than joy.
+Inside, the hymns begin—off-key, slow, the words familiar. Through the open door, he catches fragments of song, voices raised in hope or habit. The piano is out of tune, its keys yellow with age, its sound thin in the morning air. The congregation sings with more effort than joy.
 
 Brother Calvin's voice rises above the rest, calling for prayer. The people bow their heads, some with eyes closed, some with eyes on the floor. Calvin prays for the community, for the harvest, for the souls of those who have strayed. His voice carries through the open door, rich and rolling, practiced in its cadence.
 

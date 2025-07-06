@@ -6,13 +6,13 @@ The storm comes sudden, after the day's heat. The air had been thick and still, 
 
 He runs for the shed behind the mill, his boots slipping on the wet earth. The structure is old, its walls weathered, its roof patched with sheets of tin that sing under the rain's assault. The door hangs crooked on its hinges, creaking in the wind.
 
-Inside, darkness thick, air heavy with the smell of wet earth and oil. The shed is cramped, filled with forgotten machinery—rusted gears, broken tools, lengths of chain that catch what little light filters through the gaps in the walls. Water drips through the roof in places, pooling on the dirt floor.
+Inside, darkness thick, air heavy with the smell of wet earth and oil. The shed is cramped, filled with machinery—rusted gears, broken tools, lengths of chain that catch what little light filters through the gaps in the walls. Water drips through the roof in places, pooling on the dirt floor.
 
 Mara is already there, sitting on a wooden crate, arms folded, eyes on the door. She nods when he enters, makes room without speaking. Her hair is damp, her dress clinging to her frame. She has been here longer, or perhaps she knew the storm was coming.
 
-Outside, the rain continues its assault. The mill wheel creaks and groans, turned by the swollen stream. Lightning flashes, the world white for a moment, revealing the shed's contents in stark detail—the rust, the decay, the forgotten remnants of work once done.
+Outside, the rain continues its assault. The mill wheel creaks and groans, turned by the swollen stream. Lightning flashes, the world white for a moment, revealing the shed's contents in stark detail—the rust, the decay, the remnants of work once done.
 
-They sit in silence, listening to the storm. The air is close, humid, filled with the scent of rain and earth and something else—the metallic smell of old machinery, the mustiness of a place long abandoned. A rat scurries across the floor, disappearing into the shadows.
+They sit in silence, listening to the storm. The air is close, humid, filled with the scent of rain and earth and something else—the metallic smell of old machinery, the mustiness of a place long unused. A rat scurries across the floor, disappearing into the shadows.
 
 Thunder rolls overhead, shaking the tin roof. She shifts on the crate, her movements careful, economical. He leans against the wall, feeling the rough wood against his back. The storm shows no signs of stopping.
 

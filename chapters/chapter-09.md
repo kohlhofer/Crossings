@@ -2,7 +2,7 @@
 
 Night falls heavy, the river black and wide. Stars pierce the darkness above, their light scattered on the water's surface. He stands on the dock, lantern in hand, breath clouding in the cool air. The dock creaks beneath his weight, old wood settling into the night.
 
-The air is thick with mist, carrying the scent of mud and rotting vegetation. Somewhere in the distance, a night bird calls, its voice lonely and wild. The river moves silently, its current invisible in the darkness, marked only by the occasional drift of leaves and debris.
+The air is thick with mist, carrying the scent of mud and rotting vegetation. Somewhere in the distance, a night bird calls. The river moves silently, its current invisible in the darkness, marked only by the occasional drift of leaves and debris.
 
 Reed's boat glides out of the darkness, silent as a shadow. The old man's oars dip slow and steady, barely disturbing the water. His face is weathered and calm, his movements economical. The boat appears ghost-like in the lantern light, its hull black against the water.
 

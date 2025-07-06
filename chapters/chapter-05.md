@@ -36,13 +36,13 @@ Lila sings a line of an old song. "Down in the valley, the valley so low."
 
 The fight winds down, both men too tired to continue. They separate, find different corners of the room.
 
-Eli moves toward the door, gone before anyone notices. Another glass appears, pushed his way without comment. He drinks again, the burn settling in his chest. The room grows warmer, or perhaps the alcohol makes it seem so. Conversations resume, quiet and broken, each person lost in their own darkness.
+Eli moves toward the door, gone before anyone notices. Another glass appears, pushed his way without comment. He drinks again, the burn settling in his chest. The room grows warmer, or perhaps the alcohol makes it seem so. Conversations resume, quiet and broken.
 
 A woman enters, her coat soaked through, her shoes squelching on the floor. She looks around, finds no welcome, and leaves again. The door slams behind her, shaking the windows. Harlan mutters something about keeping the cold out, then returns to his bottle.
 
 He watches it all, saying nothing. The room is full of people who have nowhere else to go, nothing else to do. They drink because it helps, or because it doesn't matter, or because the alternative is worse.
 
-Time passes. The glasses multiply, empty and forgotten. Lila's humming grows louder, more discordant. Amos continues his muttered conversation with the floor. The man by the door returns to his private weeping. Others come and go, faces blurred by alcohol and shadow.
+Time passes. The glasses multiply, empty and forgotten. Lila's humming grows louder, more discordant. Amos continues his muttered conversation with the floor. The man by the door returns to his weeping. Others come and go, faces blurred by alcohol and shadow.
 
 He leaves before dark, the sound of laughter and argument fading behind him. The cold air hits him like a slap, clearing his head, sharpening his vision. The river waits, unchanged, its current moving steady and sure toward the sea.
 

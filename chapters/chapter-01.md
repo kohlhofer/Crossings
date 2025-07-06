@@ -20,7 +20,7 @@ Outside, the air is thick with mist. The grass is wet, the path to the river wor
 
 Mist hangs low, blurring the line between water and land. The river runs brown and slow, carrying what it always carries—branches, leaves, the occasional fish swimming belly-up. Upstream, the rain has been heavy. The water is higher today, lapping at the dock's edge with a sound like whispers.
 
-Across the river, the factory stands empty, windows broken, a hollow shell. Once, men walked those girders, hammered steel, built things that lasted. Now only the frame remains, rusted and abandoned. The machines were sold, the workers scattered. The building stands as a monument to what was.
+Across the river, the factory stands empty, windows broken, a hollow shell. Once, men walked those girders, hammered steel, built things that lasted. Now only the frame remains, rusted. The machines were sold, the workers scattered. The building stands as a monument to what was.
 
 Someone moves among the girders—quick, restless, climbing the rusted frame, disappearing, reappearing, a flash of movement in the gray. A figure in the dawn light, moving, always across the river.
 
