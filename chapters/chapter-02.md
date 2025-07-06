@@ -6,7 +6,7 @@ The bell above the door chimes softly as he pushes it open, the hinges groaning.
 
 A child stands by the jars, eyes wide, fingers pressed to the glass. She is maybe seven, her dress clean but faded, her shoes scuffed at the toes. The mother hovers nearby, shoulders tense, gaze fixed on the floor. Her hands twist a handkerchief, and she shifts her weight from foot to foot.
 
-Ada stands behind the counter, ledger open, pencil in hand. She nods at his entrance, eyes sharp, hands busy. No words at first. The counter is scarred from years of use, marked with rings from mason jars and the cuts of countless transactions. Behind her, shelves hold patent medicines, bottles of castor oil, and tins of tobacco.
+Ada stands behind the counter, ledger open, pencil in hand. She nods at his entrance, eyes sharp, hands busy. No words at first. Scarred from years of use, the counter is marked with rings from mason jars and the cuts of countless transactions. Behind her, shelves hold patent medicines, bottles of castor oil, and tins of tobacco.
 
 He reaches into his jacket pocket, careful not to disturb the eggs. The shells are still warm, uncracked. He places them on the counter, one by one, turning them so Ada can see they are good. She lifts each egg, holds it to the light, nods approval.
 

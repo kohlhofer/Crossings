@@ -4,15 +4,15 @@ The bell rings, cracked and uncertain, its sound drifting over the rooftops. He 
 
 The path bends toward the square, dust rising with each step. The church stands at the edge of the square, white paint peeling like old skin, steeple leaning slightly to the left. The building is weathered, its foundation cracked, its windows clouded with years of rain and sun. A sign by the door reads "All Welcome" in faded letters.
 
-People gather in twos and threes, heads bowed, voices low. The women wear their best dresses, faded but clean, their hair pinned back. The men carry worn Bibles, their shoes polished despite the scuffs. Children fidget beside their parents, tugging at starched collars and ribbon ties.
+People gather in twos and threes, heads bowed, voices low. Faded but clean, the women wear their best dresses, hair pinned back. The men carry worn Bibles, their shoes polished despite the scuffs. Children fidget beside their parents, tugging at starched collars and ribbon ties.
 
-He does not join them. He stands apart, watching as Brother Calvin greets each arrival with a practiced smile, collar askew, voice loud in the morning air. Calvin is a big man, thick around the middle, his face flushed with heat and conviction. His handshake is firm, his gaze intense, his words quick and certain.
+He does not join them. Standing apart, he watches as Brother Calvin greets each arrival with a practiced smile, collar askew, voice loud in the morning air. Calvin is a big man, thick around the middle, his face flushed with heat and conviction. His handshake is firm, his gaze intense, his words quick and certain.
 
 "Sister Mary, good to see you. The Lord's grace shines on you this morning."
 
 "Brother Tom, how's the family? The Lord provides, doesn't He?"
 
-The congregation files inside, shoes scraping the steps, hymnals clutched tight. The mother from the store is there, her child beside her, both wearing dresses that have been let out and taken in. Ada nods to them as she passes, her own dress simple but well-kept.
+The congregation files inside, shoes scraping the steps, hymnals clutched tight. The mother from the store is there, her child beside her, both wearing dresses that have been let out and taken in. As she passes, Ada nods to them, her own dress simple but well-kept.
 
 Inside, the hymns begin—off-key, slow, the words familiar. Through the open door, he catches fragments of song, voices raised in hope or habit. The piano is out of tune, its keys yellow with age, its sound thin in the morning air. The congregation sings with more effort than joy.
 

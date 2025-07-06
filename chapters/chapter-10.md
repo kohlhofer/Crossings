@@ -18,17 +18,17 @@ He stands, brushes dirt from his pants, listens to the hush that settles over th
 
 The path to the shack is worn smooth, the earth shaped by his steps. He walks slowly, in no hurry to reach the door. The evening is peaceful, full of small sounds and settling shadows.
 
-Inside, the shack smells of old wood and river air. He lights the lamp, its flame casting dancing shadows on the walls. The mirror above the basin reflects his face—stubble, weathered skin, gray eyes. He washes, the water cold against his face.
+Inside, the shack smells of old wood and river air. He lights the lamp, its flame casting dancing shadows on the walls. The mirror above the basin reflects his face—stubble, weathered skin, gray eyes. Cold water against his face as he washes.
 
-The coffee tin sits on the shelf, coins making their thin sound when he counts them. Enough for tomorrow. The mason jar holds fishhooks and line, tools of his trade. The coil of net waits for mending, its gaps patient for his attention.
+The coffee tin sits on the shelf, coins making their thin sound when he counts them. Enough for tomorrow. Fishhooks and line fill the mason jar, tools of his trade. The coil of net waits for mending, its gaps patient for his attention.
 
 He moves to the window, looks out at the river. The water is dark now, its surface barely visible in the gathering night. Stars begin to appear, first one, then many, their light scattered on the current. The factory is a dark shape against the sky, its mysteries intact.
 
 Somewhere across the water, a light flickers—a lantern, perhaps, or a fire built by someone seeking warmth. The light wavers, then disappears, swallowed by the darkness. The night is full of such mysteries, small and unexplained.
 
-He sits on the edge of the bed, removes his boots, sets them beside the door. The floor is cool beneath his feet. Outside, the river continues its flow, carrying debris downstream.
+He sits on the edge of the bed, removes his boots, sets them beside the door. Cool beneath his feet, the floor. Outside, the river continues its flow, carrying debris downstream.
 
-A owl calls from the trees, answered by another from across the water. Night hunters begin their work, moving through the darkness with purpose known only to themselves. The world settles into its nocturnal rhythm.
+An owl calls from the trees, answered by another from across the water. Night hunters begin their work, moving through the darkness with purpose known only to themselves. The world settles into its nocturnal rhythm.
 
 He lies down on the narrow bed, pulls the thin blanket over him. The pillow is flat, the mattress hard, but they are familiar, comfortable in their simplicity. Through the window, he can see stars reflected on the water, points of light in the vast darkness.
 

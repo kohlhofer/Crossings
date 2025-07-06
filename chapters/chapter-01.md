@@ -1,18 +1,18 @@
 # Chapter 1: First Light
 
-Gray light seeps through the cracks in the roof. The shack breathes with the river—damp, cool, a faint smell of mud and old smoke. The bed is narrow, the blanket thin. He sits up, feet on the splintered floor. The world is quiet except for the distant call of a train, the slow churn of water against the bank.
+Gray light seeps through the cracks in the roof. Damp, cool air carries the faint smell of mud and old smoke—the shack breathing with the river. He sits up on the narrow bed, feet finding the splintered floor. Beyond the walls, the world holds its quiet, broken only by a distant train's call and the slow churn of water against the bank.
 
 A train whistle, distant and mournful.
 
-He stands, joints stiff from the thin mattress, and moves to the window. The glass is filmed with dust and the memory of rain. Outside, the gray dissolves slowly into shapes—the dock, the path, the chickens scratching in their endless search. The rooster struts among them, chest puffed, though there is little to defend and less to rule.
+Joints stiff from the thin mattress, he moves to the window. The glass is filmed with dust and the memory of rain. Outside, gray dissolves slowly into shapes—the dock, the path, chickens scratching in their endless search. Among them, the rooster struts with chest puffed, though there is little to defend and less to rule.
 
 A tin basin. Cold water. He washes his face, the sting waking him. The water is brown from the well, tasting of iron and earth. He cups it in his hands, drinks, feels it settle in his empty stomach. The mirror above the basin shows a face he recognizes but does not study—stubble, sun-weathered skin, gray eyes.
 
 The stove is cold. He leaves it that way. The chill will pass.
 
-Bread, hard as wood, chewed in silence. He tears it with his teeth, softens it with well water. The loaf is three days old, bought when Mrs. Ada Bell had marked it down. By evening it will be harder still, but it will last.
+Bread, hard as wood, chewed in silence. He tears it with his teeth, softens it with well water. Three days old, this loaf—bought when Mrs. Ada Bell had marked it down. By evening it will be harder still, but it will last.
 
-The chickens scratch in the yard, their movements slow, resigned. He watches them through the window. They find little—a beetle, a seed, scraps of nothing—but they continue. The red hen favors her left leg. Still she scratches. Still she searches.
+Through the window, he watches the chickens scratch in the yard. Their movements are slow, resigned. They find little—a beetle, a seed, scraps of nothing—but they continue. The red hen favors her left leg. Still she scratches. Still she searches.
 
 He takes the coffee tin from the shelf, counts the coins inside. Enough for today. The metal is warm, and the coins make a thin sound when he shakes them. He returns the tin to its place, next to the mason jar of fishhooks and the coil of line that needs mending.
 

@@ -1,6 +1,6 @@
 # Chapter 4: River Drift
 
-Mist clings to the water, blurring the far bank. He pushes the boat from the dock, oar dipping, river slow and heavy beneath him. The boat is old, its wood soft with age, its bottom scarred and stained. Water seeps through the gaps, pooling around his feet, but it holds. It floats.
+Mist clings to the water, blurring the far bank. He pushes the boat from the dock, oar dipping, river slow and heavy beneath him. Old, its wood soft with age, the boat's bottom is scarred and stained. Water seeps through the gaps, pooling around his feet, but it holds. It floats.
 
 The current carries him past the factory—windows broken, walls streaked with rust. The building looms through the mist, its skeleton of steel and iron dark against the gray sky. Laughter rings out, sharp in the morning air, echoing off the water. A figure climbs the girders, quick and fearless, vanishing and reappearing in the mist.
 
