@@ -25,4 +25,8 @@ Life here is slow, shaped by the rhythms of the river and the land. There is a s
 
 Downriver, the water broadens and slows, emptying into a vast sound, its far shore a blue haze. The sound is sheltered from the open sea by a string of low, shifting barrier islands—sandy, wind-bent, and mostly uninhabited. Beyond them lies the ocean proper, restless and immense.
 
-Overseas, the great Meracht ships are known to navigate these waters, but they rarely enter the sound. Instead, they keep to deeper channels far offshore, choosing to go north or south along the coast, giving the barrier islands and the river's mouth a wide berth. Their sails are sometimes glimpsed on the horizon, pale against the sky, but their presence is distant, almost mythic—a reminder of a wider world that seldom touches the river town. 
+Overseas, the great merchant ships are known to navigate these waters, but they rarely enter the sound. Instead, they keep to deeper channels far offshore, choosing to go north or south along the coast, giving the barrier islands and the river's mouth a wide berth. Their sails are sometimes glimpsed on the horizon, pale against the sky, but their presence is distant, almost mythic—a reminder of a wider world that seldom touches the river town.
+
+## Notable Places
+
+- At the edge of town, a sagging house serves as a bar in name only—a gathering place for the most marginalized, where hope is thin and the nights are long. The proprietor barely makes a living serving bad alcohol to those with nowhere else to go. The protagonist never goes there by choice, but sometimes ends up there by circumstance. 
