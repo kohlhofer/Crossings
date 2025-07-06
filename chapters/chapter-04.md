@@ -6,15 +6,15 @@ The current carries him past the factory—windows broken, walls streaked with r
 
 He watches as the figure moves through the structure, leaping from beam to beam. The movements are fluid, confident. The figure pauses at the top, arms spread wide, then disappears into the maze of metal and shadow.
 
-He rows in silence, the river wide and brown, reeds brushing the hull. The water tastes of mud and rain, of upstream storms and downstream mysteries. A heron lifts from the shallows, wings beating slow, vanishing into the fog. Its cry echoes across the water, lonely and wild.
+He rows in silence, the river wide and brown, reeds brushing the hull. The water tastes of mud and rain, of upstream storms and downstream mysteries. Cattails bend in the slight breeze, their brown heads heavy with seed. A heron lifts from the shallows, wings beating slow, vanishing into the fog. Its cry echoes across the water, lonely and wild. Dragonflies skim the surface, their wings catching what little light filters through the mist.
 
 The oar cuts through the surface, disturbing the reflection of sky and mist. He drifts, lets the current decide. The world narrows to water, wood, and breath. The river bottom is invisible, lost in brown depths that could be three feet or thirty.
 
-A fish jumps, silver flash in the brown water, then gone. Ripples spread outward, catching the light, then fading. He considers the fishing line coiled in the bottom of the boat, the hooks wrapped in cloth, but does not reach for them. The river will give what it gives.
+A fish jumps, silver flash in the brown water, then gone. Ripples spread outward, catching the light, then fading. He considers the fishing line coiled in the bottom of the boat, the hooks wrapped in cloth, but does not reach for them. The river will give what it gives. The acceptance he shows the world masks how his stomach contracts with hunger, how his hands want to reach for the line.
 
-Reed appears, boat gliding from the shadows like a ghost made solid. They pass close, eyes meeting for a moment. No words. His face is weathered, his hands cracked from rope and water. He nods, moves on, swallowed by mist.
+Reed appears, boat gliding from the shadows like a ghost made solid. They pass close, eyes meeting for a moment. No words. His skin is dark from sun and work, his hands scarred from years of labor. He nods, moves on, swallowed by mist.
 
-Reed's boat leaves a small wake, gentle waves that rock his vessel. The old man's movements are economical, practiced. He knows these waters, these currents, these moods of the river.
+Reed's boat leaves a small wake, gentle waves that rock his vessel. The old man's strokes are steady, efficient. He knows these waters, these currents, these moods of the river.
 
 A figure appears on the riverbank, moving quick and sure. A wave, a flash of hand, then gone, running along the river's edge. He watches, a line of energy against the gray. The figure moves with purpose, following the water's edge, disappearing into the trees.
 
@@ -36,4 +36,4 @@ The boat drifts on, following the river's lazy curve. He sits in the stern, oar 
 
 Behind him, the factory disappears into the mist, its mysteries intact. The figure is gone, but their energy remains in the disturbed air, in the echo of laughter off the water.
 
-The river stretches ahead, brown and slow, carrying leaves and debris downstream. He drifts with it, carried by the current downstream. 
+The river stretches ahead, murky and wide, thick with fallen branches and yesterday's rain. He drifts with it, following the water's course. 

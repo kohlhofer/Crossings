@@ -12,7 +12,7 @@ The sky bruises purple and orange, clouds catching the last light. Swallows dive
 
 The river moves, slow and indifferent, carrying branches, leaves, the debris of the day. A bottle bobs past, then a piece of wood worn smooth by water. All of it flows downstream, toward the sea, part of the river's endless cargo.
 
-The air cools, carrying the scent of mud and growing things. Fireflies begin to blink in the grass, their lights scattered like fallen stars. A dog barks somewhere in the town, then falls silent.
+The air cools, carrying the scent of mud and growing things. The smell of wood smoke drifts from the town's chimneys, mixing with the earthy dampness of the riverside. Fireflies begin to blink in the grass, their lights scattered like fallen stars. A dog barks somewhere in the town, then falls silent. The wind picks up, rustling the dry leaves that cling to the cottonwood trees.
 
 He stands, brushes dirt from his pants, listens to the hush that settles over the water. The dock creaks beneath his feet, old wood adjusting to the evening temperature. He checks the fishing line one more time—still empty, hook clean and waiting.
 
@@ -36,8 +36,8 @@ The river breathes in the dark, rising and falling with each small wave. Somewhe
 
 He closes his eyes, listens to the water against the bank. The sound is steady, familiar, constant.
 
-Night deepens. The river flows on, carrying leaves and debris downstream.
+Night deepens. The river flows on, its surface broken by the occasional fish.
 
 In the darkness, the fishing line hangs in the current, patient and still. The chickens roost in their coop, the red hen favoring her left leg. The town sleeps, its people dreaming.
 
-The shack settles into the night, its occupant breathing slow and steady. Outside, the river runs on, carrying debris downstream. 
+The shack settles into the night, its occupant breathing slow and steady. Outside, the river runs on, endless and unchanging. 

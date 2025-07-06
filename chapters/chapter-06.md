@@ -16,7 +16,7 @@ They sit in silence, listening to the storm. The air is close, humid, filled wit
 
 Thunder rolls overhead, shaking the tin roof. She shifts on the crate, her movements careful, economical. He leans against the wall, feeling the rough wood against his back. The storm shows no signs of stopping.
 
-She stands, moves closer, her movements practical, unhurried. No words, no tender touches. He does not resist, does not question. The act is wordless, mechanical, a brief joining of bodies for warmth, for need, for nothing more.
+She stands, moves closer, her movements practical, unhurried. No words, no tender touches. He does not resist, does not question. The act is wordless, mechanical, a brief joining of bodies for warmth, for need, for nothing more. Yet her preparation for the storm, her chosen shelter, suggest this encounter is less accident than design.
 
 The rain continues, masking any sound they might make. Lightning flashes again, throwing their shadows against the walls. The storm is the only witness.
 
@@ -36,4 +36,4 @@ The river waits, brown and swollen with rain, carrying the storm's runoff toward
 
 He reaches his shack, pushes open the door, steps inside. The familiar smell of old wood and river air greets him. The storm has passed, and the world has returned to its usual rhythm. He lies down on the narrow bed, listens to the rain's last drops on the roof, and waits for sleep to come.
 
-Outside, the night continues. The mill wheel turns, the river flows, and the world endures. The storm has washed the air clean. The river still runs toward the sea, and the night still holds its secrets. 
+Outside, the night continues. The mill wheel turns, the river flows, and the world endures. The storm has washed the air clean, leaving the morning fresh and cool. The river still runs toward the sea, and the night still holds its secrets. 

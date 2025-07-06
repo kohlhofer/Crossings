@@ -1,10 +1,10 @@
 # Chapter 9: The Night Crossing
 
-Night falls heavy, the river black and wide. Stars pierce the darkness above, their light scattered on the water's surface. He stands on the dock, lantern in hand, breath clouding in the cool air. The dock creaks beneath his weight, old wood settling into the night.
+Night falls heavy, the river black and wide. Stars pierce the darkness above, their light scattered on the water's surface. The air is sharp with the promise of frost, and bare branches rattle in the wind. He stands on the dock, lantern in hand, breath clouding in the cool air. The dock creaks beneath his weight, old wood settling into the night.
 
 The air is thick with mist, carrying the scent of mud and rotting vegetation. Somewhere in the distance, a night bird calls. The river moves silently, its current invisible in the darkness, marked only by the occasional drift of leaves and debris.
 
-Reed's boat glides out of the darkness, silent as a shadow. The old man's oars dip slow and steady, barely disturbing the water. His face is weathered and calm, his movements economical. The boat appears ghost-like in the lantern light, its hull black against the water.
+Reed's boat glides out of the darkness, silent as a shadow. The old man's oars dip slow and steady, barely disturbing the water. His expression is calm and patient, his movements economical. The boat appears ghost-like in the lantern light, its hull black against the water.
 
 Reed gestures with a tilt of his head, and he steps into the boat. The vessel rocks beneath him, finding its new balance. The wooden seat is smooth and cold. Reed pushes off with his oar, and they slip away from the dock into the black water.
 
@@ -42,4 +42,4 @@ He remains in the boat, settling into the stern. Reed rows steadily, carrying th
 
 Behind them, the spit of sand disappears into shadow. Ahead, the river stretches endlessly, carrying them toward unknown shores. The night is thick around them, full of secrets and silence, and the world remains unchanged.
 
-Water laps against the hull, a steady sound. Reed rows on, tireless, his face calm in the lantern light. He watches the darkness flow past, content to be carried by the current, by the night, by the patient water. 
+Water laps against the hull, a steady sound. Reed rows on, tireless, his face calm in the lantern light. He watches the darkness flow past, content to be carried by the current, by the night, by the patient water. In the distance, the first hint of dawn touches the horizon. 

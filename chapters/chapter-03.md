@@ -1,16 +1,16 @@
 # Chapter 3: The Bell's Echo
 
-The bell rings, cracked and uncertain, its sound drifting over the rooftops. He hears it from the riverbank, a dull summons that carries across the water. The bell is old, its bronze green with age. He keeps walking, boots scraping the packed dirt, the sound trailing him, then growing.
+The bell rings, cracked and uncertain, its sound drifting over the rooftops. He hears it from the path back to town, a dull summons that carries across the water. The bell is old, its bronze green with age. He keeps walking, boots scraping the packed dirt, the sound trailing him, then growing.
 
-The path bends toward the square, dust rising with each step. The church stands at the edge of the square, white paint peeling like old skin, steeple leaning slightly to the left. The building is weathered, its foundation cracked, its windows clouded with years of rain and sun. A sign by the door reads "All Welcome" in faded letters.
+The path bends toward the square, dust rising with each step. The church stands at the edge of the square, white paint peeling like old skin, steeple leaning slightly to the left. The building is weathered, its foundation cracked, its windows clouded with years of rain and sun. A sign by the door reads "All Welcome" in faded letters. Morning shadows stretch long across the packed earth, and the air is cool with the promise of heat to come. Cicadas drone in the oak trees, their song rising and falling like breath.
 
 People gather in twos and threes, heads bowed, voices low. Faded but clean, the women wear their best dresses, hair pinned back. The men carry worn Bibles, their shoes polished despite the scuffs. Children fidget beside their parents, tugging at starched collars and ribbon ties.
 
-He does not join them. Standing apart, he watches as Brother Calvin greets each arrival with a practiced smile, collar askew, voice loud in the morning air. Calvin is a big man, thick around the middle, his face flushed with heat and conviction. His handshake is firm, his gaze intense, his words quick and certain.
+He does not join them. Standing apart, he watches as Brother Calvin greets each arrival with a practiced smile, collar askew, voice loud in the morning air. Calvin is a big man, thick around the middle, his face flushed with heat and conviction. His handshake is firm, his gaze intense, his words quick and certain. His eyes linger longer on the younger women, the smile deepening just slightly before returning to its practiced warmth.
 
-"Sister Mary, good to see you. The Lord's grace shines on you this morning."
+"Mary, good to see you. Blessed morning."
 
-"Brother Tom, how's the family? The Lord provides, doesn't He?"
+"Tom, how's the family? The Lord provides."
 
 The congregation files inside, shoes scraping the steps, hymnals clutched tight. The mother from the store is there, her child beside her, both wearing dresses that have been let out and taken in. As she passes, Ada nods to them, her own dress simple but well-kept.
 
@@ -36,16 +36,16 @@ The sun climbs higher, the bell's echo fading into memory. The service draws to 
 
 The doors open, and the congregation spills out, blinking in the bright light. They move slowly, reluctantly. Calvin stands at the door, shaking hands, offering final words of encouragement or advice.
 
-"God bless you, Sister. Remember what we talked about."
+"God bless you. Remember what we talked about."
 
-"See you next week, Brother. The Lord's work continues."
+"Next week, then. The Lord's work continues."
 
 The people disperse, walking back to their homes, their farms, their daily struggles. The weeping woman has composed herself, clutching her handkerchief. She walks away alone, her steps careful, her head down.
 
-Ada returns to the building, helping to stack hymnals, to straighten pews. She moves with quiet efficiency, her service continuing beyond the formal worship. Calvin moves through the church, closing windows, adjusting chairs. Their paths cross near the altar. A moment of proximity, nothing more, but she steps aside, maintains distance. Her movements remain careful, measured.
+Ada returns to the building, helping to stack hymnals, to straighten pews. She moves with quiet efficiency, her service continuing beyond the formal worship. Calvin moves through the church, closing windows, adjusting chairs. Their paths cross near the altar. A moment of proximity, nothing more, but she steps aside, maintains distance. Her movements remain careful, measured. When a hymnal slips from her hands, she retrieves it quickly, avoiding his eyes. The efficiency masks the tremor in her fingers.
 
 He pushes away from the fence, the square emptying, the church settling back into quiet. The service is over, its echoes lingering in the air.
 
 He turns away, the sound of the river louder now, the church behind him, the day moving on. His boots scrape the packed dirt, the dust rising with each step. The path leads back to the river, to the dock, to the fishing line that waits in the brown water.
 
-Behind him, the church stands empty, its doors closed, its bell silent. The square is quiet, the morning sun casting long shadows across the dirt. 
+Behind him, the church stands empty, its doors closed, its bell silent. The square is quiet, the morning sun casting long shadows across the dirt. The river calls from beyond the trees, its current steady and sure. 

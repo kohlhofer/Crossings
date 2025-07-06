@@ -1,6 +1,6 @@
 # Chapter 7: The Drifter's Word
 
-Dawn breaks slow and gray, the street empty, the church steps slick with dew. The air is cool, carrying the scent of wet earth and river mist. He walks the path toward the square, bread in hand—yesterday's loaf, hard but edible.
+Dawn breaks slow and gray, the street empty, the church steps slick with dew. The air is cool, carrying the scent of wet earth and river mist. Frost edges the grass, and his breath clouds white in the morning chill. The sound of his footsteps echoes off the empty buildings. He walks the path toward the square, bread in hand—yesterday's loaf, hard but edible.
 
 A man sits on the church steps, coat damp, boots muddy, hands wrapped around his knees. He is older, his hair gray and unkempt, his face weathered by sun and wind. A canvas bag sits beside him, its contents unknown. He rocks slightly as he sits, his eyes fixed on the empty street.
 
@@ -20,27 +20,27 @@ She sets the cup beside the stranger, says nothing for a moment. The steam rises
 
 The man—Josiah—looks up, his eyes meeting hers. He wraps his hands around the cup, lets the warmth seep into his fingers.
 
-"Thank you, Ada," he says. His voice is stronger now, more present. "You're kind to an old fool."
+"Thank you, Ada," he says. His voice is stronger now, more present. "Kind to an old fool."
 
-She shakes her head, dismissing the comment. "Coffee's not much," she says. "But it's hot."
+She shakes her head, dismissing the comment. "Coffee's not much. But it's hot."
 
 Brother Calvin appears at the church window, his figure visible through the glass. He observes the scene below, then steps back into the shadows. His presence lingers even when he is no longer visible.
 
 Ada ignores the watching eyes, settling herself on the step beside Josiah. She does not speak, but her presence is a comfort. The morning grows lighter, and the town begins to stir. A rooster crows in the distance, and smoke rises from a chimney across the square.
 
-"You been walking long?" Ada asks.
+Ada glances at the worn soles of his boots, the frayed edges of his coat. "Long way from anywhere," she says quietly.
 
-Josiah sips his coffee, considering the question. "Long enough," he says. "Roads all look the same after a while."
+Josiah nods, hands wrapped around the cup. "Long enough."
 
 He watches the exchange, noting the ease between them, the way Ada's kindness flows naturally, without expectation.
 
 A child runs past, chasing a dog. The dog barks, tail wagging, and the child laughs. The sound carries across the square, bright and clear. Josiah smiles, the first genuine expression he has seen from him.
 
-"Town's waking up," Ada observes.
+The town stirs. Doors open, shutters creak. Ada watches people emerge from their houses.
 
-"Always does," Josiah replies. "World keeps turning, whether we're ready or not."
+"Keeps going," Josiah says, more to himself than to her.
 
-Brother Calvin's figure disappears from the window. The church itself seems to watch, its windows dark, its silence heavy. Ada continues her conversation with Josiah, but something has changed in her posture, a subtle stiffness in her shoulders.
+Brother Calvin's figure disappears from the window. The church itself seems to watch, its windows dark, its silence heavy. Ada continues her conversation with Josiah, but something has changed in her posture, a subtle stiffness in her shoulders. Her kindness remains genuine, but her words become more careful, more measured. She serves others while serving Calvin's judgment of her goodness.
 
 The shadow at the edge of the square flickers again, like something half-remembered. A movement in the periphery, there and gone. Josiah's eyes drift toward the spot, and he speaks softly to the morning air. "River's not the only thing that remembers." His words carry on the wind, directed at nothing and everything.
 
@@ -50,9 +50,9 @@ The town moves on, the day unfolding. People emerge from their houses, beginning
 
 Josiah finishes his coffee, sets the cup down beside him. He stands, shouldering his canvas bag, preparing to leave. Ada rises too, taking the empty cup without comment.
 
-"Where will you go?" she asks.
+"Where to?" she asks.
 
-"Down the river," he says. "Always down the river."
+"Down the river," he says. "Always down."
 
 He looks at the man beside him, their eyes meeting for a moment. "River's calling," he says. "Best to listen when it does."
 
@@ -64,4 +64,4 @@ Ada watches him go. She turns to him, but then thinks better of it. Instead, she
 
 He stands, brushes the dampness from his clothes, and continues his walk through the town. Behind him, the church steps are empty again, marked only by the wet imprint of where two people shared a moment of quiet understanding.
 
-The river flows beyond the trees, carrying debris downstream. The day has begun, and the town wakes. The stranger's words linger in the morning air.
+The river moves beyond the trees, restless and deep. The day has begun, and the town wakes. The stranger's words linger in the morning air.

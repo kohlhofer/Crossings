@@ -1,6 +1,6 @@
 # Chapter 2: The Store Ledger
 
-The store sits low to the ground, clapboard faded, windows crowded with hand-lettered signs. Paint peels from the sills. The porch sags under the weight of seed sacks and empty crates. A thermometer nailed to the wall reads eighty-five degrees in the shade.
+The store sits low to the ground, clapboard faded, windows crowded with hand-lettered signs. Paint peels from the sills. The porch sags under the weight of seed sacks and empty crates. A thermometer nailed to the wall reads eighty-five degrees in the shade. Dust hangs in the heavy air, stirred only by the occasional hot breeze that brings the scent of baked earth and distant cotton fields.
 
 The bell above the door chimes softly as he pushes it open, the hinges groaning. Inside, the air is thick with dust and the faint sweetness of molasses. Shelves half-empty. Flour in cloth sacks, their sides soft with age. Penny candy in glass jars, out of reach for most. The jars catch the light from the window, casting small rainbows on the worn wooden counter.
 
@@ -20,7 +20,7 @@ The child has not moved from the candy jars. Her breath fogs the glass, and she 
 
 The mother looks at the candy, then at Ada. Ada's eyes remain on the ledger. The mother waits a moment, then takes the child's hand. They move toward the door together. The bell above the door chimes as they leave, and their footsteps fade on the wooden porch.
 
-Ada returns to her ledger, makes another mark. Credit for the eggs. She does not look up as the mother and child disappear down the street.
+Ada returns to her ledger, makes another mark. Credit for the eggs. Her pen hovers over a line—the mother's name, her growing debt. She does not look up as the mother and child disappear down the street. The guilt of witnessing need without helping weighs against the necessity of keeping the store alive.
 
 Through the window, a figure moves down the street. Brother Calvin walks his usual route, his presence felt before he is seen. He does not stop, does not pause, but Ada's hand stills on the ledger page. She waits, listening, then continues her work. Her movements are more careful now, more deliberate.
 
@@ -38,4 +38,4 @@ The road back to the river is dusty, the trees offering little shade. He shifts 
 
 Behind him, the store settles into the afternoon quiet. Ada tends her ledger, sweeps her floor. The dog finds shade and sleeps.
 
-He reaches the path to his shack, the earth worn smooth by his feet. The eggs are gone, traded for what he needs. The river waits, brown and slow, carrying debris downstream. The fishing line hangs in the water, and the day stretches ahead. 
+He reaches the path to his shack, the earth worn smooth by his feet. The eggs are gone, traded for what he needs. The river waits, heavy with silt, its current moving toward distant waters. The fishing line hangs in the water, and the day stretches ahead. 

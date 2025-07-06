@@ -1,6 +1,6 @@
 # Chapter 8: The Ledger's Weight
 
-Evening settles over the town like a heavy blanket, the store nearly bare. Shelves stripped, only dust and a few sacks left. The glass jars are empty, their lids removed. Lamps burn low, casting long shadows across the worn wooden floor.
+Evening settles over the town like a heavy blanket, the store nearly bare. The last light of autumn fades through the windows, painting everything amber and gold. Shelves stripped, only dust and a few sacks left. The glass jars are empty, their lids removed. Lamps burn low, casting long shadows across the worn wooden floor. Outside, the temperature drops with the sun, and the first hint of winter rides the evening breeze.
 
 Ada sweeps methodically, her movements slower than usual. The ledger lies closed on the counter, its pages thick with entries. Her hands are slow, eyes dull with fatigue. Lines have appeared around her mouth, and her shoulders sag.
 
@@ -16,7 +16,7 @@ No words pass between them. The silence is comfortable, familiar. Ada wraps his 
 
 A child appears at the door, thin and silent. She is perhaps eight years old, her dress too large, her shoes held together with string. Her eyes are wide with hunger, her face pale with want. She does not speak, but her presence fills the doorway like a question.
 
-Ada glances at the child, then at her dwindling supplies. Without hesitation, she slips a loaf of bread into a bag, adds a small piece of cheese, and hands it over without a word. The child's eyes widen, gratitude and shame mingling in her expression.
+Ada glances at the child, then at her dwindling supplies. Without hesitation, she slips a loaf of bread into a bag, adds a small piece of cheese, and hands it over without a word. The child's eyes widen, gratitude and shame mingling in her expression. Ada's face shows only kindness, but her hands shake slightly as she calculates what this generosity costs her empty shelves.
 
 The child clutches the bag, her small hands trembling. She looks up at Ada, mouth opening as if to speak, then closes it again. A nod, a step backward.
 
@@ -44,6 +44,6 @@ Eli's shadow lingers nearby, a darker shape against the evening sky. She watches
 
 He turns away, walks to his shack, and closes the door behind him. The latch clicks softly, and the evening settles into its familiar rhythm. Through the window, he can see the crate by the fence, the bag waiting in the gathering darkness.
 
-The river flows past, carrying debris downstream. The town sleeps. The night is kind to those who know how to move in shadows, how to take what is offered without being seen.
+The river flows past, dark and silent. The town sleeps. The night is kind to those who know how to move in shadows, how to take what is offered without being seen.
 
-He lies on his narrow bed, listening to the sound of water against the bank. Outside, the night settles deeper, and the crate waits by the fence. 
+He lies on his narrow bed, listening to the sound of water against the bank. Outside, the night settles deeper, and the crate waits by the fence. Somewhere across the water, a lantern flickers—Reed's boat moving in the darkness. 

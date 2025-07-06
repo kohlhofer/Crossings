@@ -18,7 +18,7 @@ He takes the coffee tin from the shelf, counts the coins inside. Enough for toda
 
 Outside, the air is thick with mist. The grass is wet, the path to the river worn by his own feet. The stones are placed where he placed them, the earth shaped by his passing.
 
-Mist hangs low, blurring the line between water and land. The river runs brown and slow, carrying what it always carries—branches, leaves, the occasional fish swimming belly-up. Upstream, the rain has been heavy. The water is higher today, lapping at the dock's edge with a sound like whispers.
+Mist hangs low, blurring the line between water and land. The river runs thick with mud, carrying what it always carries—branches, leaves, the occasional fish swimming belly-up. Upstream, the rain has been heavy. The water is higher today, lapping at the dock's edge with a sound like whispers.
 
 Across the river, the factory stands empty, windows broken, a hollow shell. Once, men walked those girders, hammered steel, built things that lasted. Now only the frame remains, rusted. The machines were sold, the workers scattered. The building stands as a monument to what was.
 
@@ -58,4 +58,4 @@ He turns from the river, walks the worn path back to the shack. The day stretche
 
 The train whistle sounds again, distant and mournful. He listens until it fades, then steps inside the shack and closes the door. The latch clicks. The day begins.
 
-Through the window, the river runs on, carrying debris downstream. 
+Through the window, the river runs on, steady and eternal. 
