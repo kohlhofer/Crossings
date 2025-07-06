@@ -12,11 +12,11 @@ They cross in silence, water lapping against the hull in a steady rhythm. The la
 
 Reed rows with practiced ease, his oars cutting the water cleanly. His breathing is steady, unhurried. He knows these waters, these currents, these hidden dangers. The boat moves through the darkness, guided by sure movements.
 
-The far bank looms gradually out of the darkness, trees tangled, shadows deep. Something waits there, small and indistinct in the mist. The shape might be a person, might be a stump, might be nothing at all. The lantern light catches something—movement, or perhaps just the play of shadows on water.
+The far bank looms gradually out of the darkness, trees tangled, shadows deep. Something waits there, small and indistinct in the mist. The shape might be a person, might be a stump, might be nothing at all. The lantern light catches something—movement, or perhaps just the play of shadows on water. A flash of red, there and gone.
 
 Reed rows toward the bank, his oars steady. The boat slides up to the muddy shore with a soft scrape. Whatever waits does not move. In the uncertain light, it could be anyone, anything, or no one at all.
 
-He steps onto the bank, feet sinking into the soft mud. The lantern casts its circle of light, but beyond its reach, the darkness holds its secrets. A sound from the shadows—footsteps, perhaps, or the wind through the reeds. Something moves in the periphery of vision.
+He steps onto the bank, feet sinking into the soft mud. The lantern casts its circle of light, but beyond its reach, the darkness holds its secrets. A sound from the shadows—footsteps, perhaps, or the wind through the reeds. Boot soles scraping on wet stone. Something moves in the periphery of vision.
 
 Reed pushes off from the bank, the boat rocking as it slips back into the current. He settles into the stern, and Reed turns the bow downstream. The old man rows steadily, carrying them both deeper into the night. The smell of spirits drifts faintly in the air between them, but Reed's hands remain steady on the oars.
 
@@ -34,7 +34,7 @@ They round a bend, and a spit of sand appears in the lantern light. Reed steers 
 
 Nothing waits there but driftwood and the smell of mud. The shore is littered with river trash—bleached logs, plastic bottles, tangles of fishing line. The sand gives way to marsh grass, then to the dark line of trees beyond.
 
-A splash from the shallows, sudden and quick. Footsteps, perhaps, or a night animal disturbed. The sound fades into the marsh grass, and the darkness swallows whatever made it.
+A splash from the shallows, sudden and quick. Footsteps, perhaps, or a night animal disturbed. The sound of someone moving through water, then silence. The darkness swallows whatever made it, leaving only the faint scent of tobacco smoke drifting on the night air.
 
 He raises his hand, palm open toward the darkness. A gesture small and brief, directed at nothing and everything. Reed nods to him. He pushes off from the sand, the boat rocking as it slips back into the current. The old man turns the bow downstream, his oars finding their rhythm again.
 
