@@ -12,6 +12,7 @@ Lila arrived in town years ago, her past a matter of rumor and speculation. She 
 - Sings old songs late at night, when the mood is right
 - Fiercely protective of her few possessions
 - Clings to hardship and drama, sometimes creating it for herself
+- Has a history of mechanical, arbitrary sexual encounters with the protagonist, which have since ceased for no particular reason. These encounters were unsentimental and left no lasting connection.
 
 ## Behaviors and Scene Cues
 

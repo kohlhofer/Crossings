@@ -30,6 +30,7 @@ He is not religious or spiritual, even though the world around him often is. He 
 - Stoic in temperament, though he would not name it as such
 - Not religious or spiritual; deals in reality
 - Reacts to the world around him, often disregarding common wisdom
+- Has a mechanical, unsentimental sexual encounter with Mara in unlikely circumstances, fulfilling a basic human need without connection or expectation. This is not a one-off; there is a history of similar, arbitrary encounters with Lila, which have since ceased for no particular reason. These acts are marked by passivity and absence of intimacy.
 
 ## Character Arc
 
