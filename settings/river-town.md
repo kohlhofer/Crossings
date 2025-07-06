@@ -29,4 +29,6 @@ Overseas, the great merchant ships are known to navigate these waters, but they 
 
 ## Notable Places
 
-- At the edge of town, a sagging house serves as a bar in name only—a gathering place for the most marginalized, where hope is thin and the nights are long. The proprietor barely makes a living serving bad alcohol to those with nowhere else to go. The protagonist never goes there by choice, but sometimes ends up there by circumstance. 
+- At the edge of town, a sagging house serves as a bar in name only—a gathering place for the most marginalized, where hope is thin and the nights are long. The proprietor barely makes a living serving bad alcohol to those with nowhere else to go. The protagonist never goes there by choice, but sometimes ends up there by circumstance.
+- The church, a ramshackle structure kept up by Brother Calvin, stands as a symbol of ritual and habit more than faith. Its preacher is known for his concern with appearances and propriety, but his sermons ring hollow to many.
+- The general store, run by Mrs. Ada Bell, stands near the center of town. Its shelves are never full, but it is a hub for news, barter, and quiet generosity. Ada is respected for her steadiness and her ability to keep the store open through hard times. 
