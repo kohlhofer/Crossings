@@ -1,8 +1,8 @@
 # Chapter 6: My Chair
 
-The house sags at the edge of town, porch littered with bottles and broken chairs. The paint is gone, leaving weathered wood gray and worn. A sign hangs crooked by the door, letters too faded to read. He doesn't mean to go in. The cold drives him toward the light spilling from the windows, toward the sound of voices and the promise of warmth. Wind cuts through his thin jacket, carrying the bite of winter and the scent of wood smoke from distant chimneys.
+The house sags at the edge of town, porch littered with bottles and broken chairs. The paint is gone, leaving weathered wood gray and worn. A sign hangs crooked by the door, letters too faded to read. He doesn't mean to go in.
 
-Eli is ahead, hands in her pockets, shoulders hunched against the wind. She moves with purpose, her steps quick on the broken porch boards. She glances back once, waits at the door. He follows, not thinking, just moving out of the cold.
+Eli is ahead, hands in her pockets, shoulders hunched against the wind. She moves with purpose, her steps quick on the broken porch boards. She glances back once, waits at the door. He follows, not thinking.
 
 Inside, the air is thick with sweat and cheap spirits. The smell hits him first—stale beer, unwashed bodies, smoke from cigarettes rolled too thin. Floorboards creak under his weight, sticky with spilled drinks. A single bulb hangs from the ceiling, casting harsh shadows that make faces hard to read.
 
@@ -28,7 +28,7 @@ Lila laughs, sharp and sudden, breaking the hush. The sound cuts through the roo
 
 Eli laughs at something Harlan mutters, the sound sharp and reckless. She tosses back her drink, sets the glass down hard. The second glass sits untouched beside her elbow. She spins on her stool, surveying the room with bright, restless eyes.
 
-Amos slides a glass across the bar, liquid dark and nameless. The glass is chipped, its surface cloudy with age. He drinks, the taste sharp, unfamiliar. The alcohol burns his throat, settled hot in his stomach. He does not ask what it is, does not question the price.
+Amos slides a glass across the bar, liquid dark and nameless. The glass is chipped, its surface cloudy with age. He drinks, the taste sharp, unfamiliar. The alcohol burns his throat, settles hot in his stomach. He does not ask what it is.
 
 Another man enters, moves toward the table by the door. The miller looks up from his drink, flour still dusting his sleeves. "My chair," he says, voice rough with drink and the day's frustrations. The newcomer sits anyway. A shove, a chair scraping. The miller grabs at the man's shirt, thick hands used to controlling mill machinery now trying to control flesh. They stumble near the entrance.
 
@@ -42,14 +42,14 @@ Eli slides the untouched glass toward him, liquid sloshing. He shakes his head. 
 
 Another glass appears, pushed his way without comment. He drinks again, the burn settling in his chest. The room grows warmer, or perhaps the alcohol makes it seem so. Conversations resume, quiet and broken.
 
-A woman enters, her coat soaked through, her shoes squelching on the floor. She looks around, finds no welcome, and leaves again. The door slams behind her, shaking the windows. Harlan mutters something about keeping the cold out, then returns to his bottle.
+A woman enters, her coat soaked through, her shoes squelching on the floor. She looks around, finds no welcome, and leaves again. The door slams behind her, shaking the windows. Harlan mutters something about keeping the damp out, then returns to his bottle.
 
 He watches it all, saying nothing. The room is full of people who have nowhere else to go, nothing else to do. They drink because it helps, or because it doesn't matter, or because the alternative is worse.
 
 Time passes. The glasses multiply, empty and forgotten. Lila's humming grows louder, more discordant. Amos continues his muttered conversation with the floor. The man by the door returns to his weeping. Others come and go, faces blurred by alcohol and shadow.
 
-Eli stands abruptly, fishing more coins from her pocket. She counts them in her palm, then laughs at what she sees. "Easy come," she says to no one. She heads for the door, but stops, turns back. "River's not frozen yet." Her eyes are bright with something—alcohol, mischief, or both. She disappears into the cold.
+Eli stands abruptly, fishing more coins from her pocket. She counts them in her palm, then laughs at what she sees. "Easy come," she says to no one. She heads for the door, but stops, turns back. "River's not frozen yet." Her eyes are bright with something—alcohol, mischief, or both. She disappears into the dim evening air.
 
-He leaves before dark, the sound of laughter and argument fading behind him. The cold air hits him, clearing his head, sharpening his vision. He stumbles once on the uneven path, steadies himself on a fence post, the night air biting and brisk. Above, clouds gather thick and heavy. The river flows unchanged, its current moving steady and sure toward the sea.
+He leaves before dark, the sound of laughter and argument fading behind him. The night air hits him, clearing his head, sharpening his vision. He stumbles once on the uneven path, steadies himself on a fence post, the night air heavy with distant wood smoke. Above, clouds gather thick and heavy. The river flows unchanged, its current moving steady and sure toward the sea.
 
 Behind him, the bar continues its nightly ritual. The lights burn dim, the voices carry on, and the bottles empty one by one. 
