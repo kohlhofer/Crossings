@@ -4,9 +4,9 @@ Night falls heavy, the river black and wide. Stars pierce the darkness above, th
 
 The air is thick with mist, carrying the scent of mud and rotting vegetation. Somewhere in the distance, a night bird calls, its voice lonely and wild. The river moves silently, its current invisible in the darkness, marked only by the occasional drift of leaves and debris.
 
-Reed's boat glides out of the darkness, silent as a shadow. The old man's oars dip slow and steady, barely disturbing the water. His face is weathered and calm, his movements economical. The boat is worn but solid, its hull darkened with age and river water.
+Reed's boat glides out of the darkness, silent as a shadow. The old man's oars dip slow and steady, barely disturbing the water. His face is weathered and calm, his movements economical. The boat appears ghost-like in the lantern light, its hull black against the water.
 
-Reed gestures with a tilt of his head, and he steps into the boat. The vessel rocks beneath him, finding its new balance. The wooden seat is smooth and cold, worn smooth. Reed pushes off with his oar, and they slip away from the dock into the black water.
+Reed gestures with a tilt of his head, and he steps into the boat. The vessel rocks beneath him, finding its new balance. The wooden seat is smooth and cold. Reed pushes off with his oar, and they slip away from the dock into the black water.
 
 They cross in silence, water lapping against the hull in a steady rhythm. The lantern casts a small circle of light around them, beyond which the world disappears into darkness. The river stretches wide here, its far bank lost in shadow and mist.
 

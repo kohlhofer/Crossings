@@ -12,9 +12,9 @@ The oar cuts through the surface, disturbing the reflection of sky and mist. He 
 
 A fish jumps, silver flash in the brown water, then gone. Ripples spread outward, catching the light, then fading. He considers the fishing line coiled in the bottom of the boat, the hooks wrapped in cloth, but does not reach for them. The river will give what it gives.
 
-Reed appears, boat gliding from the shadows like a ghost made solid. They pass close, eyes meeting for a moment. No words. Reed's boat is piled with nets, a coil of rope, a battered oar. His face is weathered, his hands cracked from rope and water. He nods, moves on, swallowed by mist.
+Reed appears, boat gliding from the shadows like a ghost made solid. They pass close, eyes meeting for a moment. No words. His face is weathered, his hands cracked from rope and water. He nods, moves on, swallowed by mist.
 
-Reed's boat leaves a small wake, gentle waves that rock his vessel. The old man's movements are economical, practiced. He knows these waters, these currents, these moods of the river. His nets are mended and re-mended, his boat patched but seaworthy.
+Reed's boat leaves a small wake, gentle waves that rock his vessel. The old man's movements are economical, practiced. He knows these waters, these currents, these moods of the river.
 
 A figure appears on the riverbank, moving quick and sure. A wave, a flash of hand, then gone, running along the river's edge. He watches, a line of energy against the gray. The figure moves with purpose, following the water's edge, disappearing into the trees.
 
