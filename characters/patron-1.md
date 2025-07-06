@@ -12,6 +12,16 @@ Amos has been a fixture at the bar for as long as anyone can remember. Once a fi
 - Trades odd jobs for drinks, never quite sober
 - Knows the river's moods better than his own
 
+## Behaviors and Scene Cues
+
+- Sits hunched at the end of the bar, clutching a chipped mug, eyes darting to the door at every sound
+- Reacts defensively to questions about his past or the river, sometimes with a sharp word or a sullen silence
+- Offers advice no one asks for, often in the form of warnings or superstitions
+- When provoked, may lash out verbally or even physically, but quickly retreats or apologizes
+- Sometimes hums old river songs under his breath, especially when drunk
+- Will work for a drink, but never asks directly—waits for someone to offer
+- Occasionally shows unexpected kindness, sharing a story or a scrap of food with someone worse off
+
 ## Role in the Bar
 
 Amos is both a warning and a comfort to the others—a reminder of how far one can fall, and how long one can linger at the bottom. 
