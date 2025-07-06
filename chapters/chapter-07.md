@@ -8,7 +8,7 @@ He runs for the shed behind the mill, his boots slipping on the wet earth. The s
 
 Inside, darkness thick, air heavy with the smell of wet earth and oil. The shed is cramped, filled with machinery—rusted gears, broken tools, lengths of chain that catch what little light filters through the gaps in the walls. Water drips through the roof in places, pooling on the dirt floor.
 
-Mara is already there, sitting on a wooden crate, arms folded, eyes on the door. She nods when he enters, makes room without speaking. Her hair is damp, her dress clinging to her frame. She glances briefly toward the mill house through the gaps in the walls, then settles back. A small canvas bag sits beside her, carefully positioned away from the dripping water.
+Mara is already there, sitting on a wooden crate, arms folded, eyes on the door. She nods when he enters, makes room without speaking. Her hair is damp, her dress clinging to her frame. She glances briefly toward the mill house through the gaps in the walls, then settles back. A small canvas bag sits beside her, carefully positioned away from the dripping water. The bag is packed tight, its drawstring pulled close.
 
 Outside, the rain continues its assault. The mill wheel creaks and groans, turned by the swollen stream. Lightning flashes, the world white for a moment, revealing the shed's contents in stark detail—the rust, the decay, the remnants of work once done.
 
@@ -22,7 +22,7 @@ The rain continues, masking sound. Lightning flashes again, throwing their shado
 
 After, she dresses without looking at him, her movements efficient, matter-of-fact. He buttons his shirt, stares at the floor. The rain slows to a steady patter, then to scattered drops. The storm is passing, leaving the world washed and clean.
 
-She stands, smooths her dress, checks the door. The wind has died down, and the thunder has moved on. She leaves first, slipping into the night without a backward glance, without a word of farewell. The door closes behind her with a soft click.
+She stands, smooths her dress, checks the door. The wind has died down, and the thunder has moved on. She picks up the canvas bag, hefts its weight, then sets it down again. She leaves first, slipping into the night without a backward glance, without a word of farewell. The door closes behind her with a soft click.
 
 He waits, listens to the last drops on the roof, counts the seconds between lightning and thunder. The storm is moving away, taking its energy with it. The air is cooler now, cleaner, carrying the scent of rain-washed earth.
 
