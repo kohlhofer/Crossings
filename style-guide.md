@@ -15,6 +15,7 @@
 - Maintain a consistent narrative voice and tone throughout, even as perspective shifts between scenes or chapters.
 - Favor strong nouns and verbs over excessive adjectives and adverbs.
 - Depict hardship—especially when it is unnecessary or self-imposed—as a central motif. Show characters enduring or creating suffering out of pride, habit, tradition, or inertia. The protagonist witnesses but does not judge; let the reader infer the reasons and feel the weight of these choices.
+- Avoid pontification and explanation; do not summarize or explain the significance of actions or scenes. Leave interpretation and meaning to the reader.
 
 ---
 
