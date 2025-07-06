@@ -1,43 +1,45 @@
-# Chapter 10: Last Light
+# Chapter 10: The Night Crossing
 
-Dusk settles over the river, the water gold and gray. He sits on the dock, feet dangling above the surface, watching the light change. The world is quiet except for the call of a distant bird, its voice carrying across the water like a question without an answer.
+Night falls heavy, the river black and wide. Stars pierce the darkness above, their light scattered on the water's surface. The air is sharp with the promise of frost, and bare branches rattle in the wind. He stands on the dock, lantern in hand, breath clouding in the cool air. The dock creaks beneath his weight, old wood settling into the night.
 
-The shack behind him stands dark, its windows reflecting the evening sky. The stove is cold, its ashes settled. The bed waits, narrow and familiar. On the table, bread and salt sit untouched, provisions for tomorrow or whenever hunger calls.
+The air is thick with mist, carrying the scent of mud and rotting vegetation. Somewhere in the distance, a night bird calls. The river moves silently, its current invisible in the darkness, marked only by the occasional drift of leaves and debris.
 
-A train whistle sounds in the distance, mournful and distant. The sound drifts across the water, then fades, leaving only the soft lap of waves against the dock. A fish jumps, rings spreading outward, then disappearing into the current.
+Reed's boat glides out of the darkness, silent as a shadow. The old man's oars dip slow and steady, barely disturbing the water. His expression is calm and patient, his movements economical. The boat appears ghost-like in the lantern light, its hull black against the water.
 
-He watches the sun slip behind the empty factory across the river. The building stands silhouetted against the darkening sky, its broken windows dark. The girders are empty now, no figures climbing through the ruins. Even the restless have found their rest.
+Reed gestures with a tilt of his head, and he steps into the boat. The vessel rocks beneath him, finding its new balance. The wooden seat is smooth and cold. Reed pushes off with his oar, and they slip away from the dock into the black water.
 
-The sky bruises purple and orange, clouds catching the last light. Swallows dive for insects above the water, their cries sharp in the evening air. A heron stands motionless in the shallows, waiting for the unwary fish.
+They cross in silence, water lapping against the hull in a steady rhythm. The lantern casts a small circle of light around them, beyond which the world disappears into darkness. The river stretches wide here, its far bank lost in shadow and mist.
 
-The river moves, slow and indifferent, carrying branches, leaves, the debris of the day. A bottle bobs past, then a piece of wood worn smooth by water. All of it flows downstream, toward the sea, part of the river's endless cargo.
+Reed rows with practiced ease, his oars cutting the water cleanly. His breathing is steady, unhurried. He knows these waters, these currents, these hidden dangers. The boat moves through the darkness like a living thing, guided by sure movements.
 
-The air cools, carrying the scent of mud and growing things. The smell of wood smoke drifts from the town's chimneys, mixing with the earthy dampness of the riverside. Fireflies begin to blink in the grass, their lights scattered like fallen stars. A dog barks somewhere in the town, then falls silent. The wind picks up, rustling the dry leaves that cling to the cottonwood trees.
+The far bank looms gradually out of the darkness, trees tangled, shadows deep. A figure waits there, small and indistinct in the mist. The shape might be a person, might be a stump, might be nothing at all. The lantern light catches something—movement, or perhaps just the play of shadows on water.
 
-He stands, brushes dirt from his pants, listens to the hush that settles over the water. The dock creaks beneath his feet, old wood adjusting to the evening temperature. He checks the fishing line one more time—still empty, hook clean and waiting.
+Reed rows toward the bank, his oars steady. The boat slides up to the muddy shore with a soft scrape. The waiting figure—if it is a figure—does not move. In the uncertain light, it could be anyone, anything, or no one at all.
 
-The path to the shack is worn smooth, the earth shaped by his steps. He walks slowly, in no hurry to reach the door. The evening is peaceful, full of small sounds and settling shadows.
+He steps onto the bank, feet sinking into the soft mud. The lantern casts its circle of light, but beyond its reach, the darkness holds its secrets. A sound from the shadows—footsteps, perhaps, or the wind through the reeds. Something restless moves in the periphery of vision.
 
-Inside, the shack smells of old wood and river air. He lights the lamp, its flame casting dancing shadows on the walls. The mirror above the basin reflects his face—stubble, weathered skin, gray eyes. Cold water against his face as he washes.
+Reed pushes off from the bank, the boat rocking as it slips back into the current. He settles into the stern, and Reed turns the bow downstream. The old man rows steadily, carrying them both deeper into the night. The smell of spirits drifts faintly in the air between them, but Reed's hands remain steady on the oars.
 
-The coffee tin sits on the shelf, coins making their thin sound when he counts them. Enough for tomorrow. Fishhooks and line fill the mason jar, tools of his trade. The coil of net waits for mending, its gaps patient for his attention.
+The boat drifts past a fallen tree, its branches reaching into the water. An owl calls from somewhere in the darkness, answered by another from across the river. The night is alive with small sounds—the plop of a turtle sliding from a log, the rustle of something moving through the reeds.
 
-He moves to the window, looks out at the river. The water is dark now, its surface barely visible in the gathering night. Stars begin to appear, first one, then many, their light scattered on the current. The factory is a dark shape against the sky, its mysteries intact.
+Reed's oars cut through patches of foam and floating debris. The river carries its cargo downstream—leaves, branches, the occasional bottle or piece of cloth. All of it moves together in the darkness, part of the river's endless journey to the sea.
 
-Somewhere across the water, a light flickers—a lantern, perhaps, or a fire built by someone seeking warmth. The light wavers, then disappears, swallowed by the darkness. The night is full of such mysteries, small and unexplained.
+They pass under a low bridge, its stone arches dark against the sky. The sound of their passage echoes briefly, then fades. Above them, the road crosses empty and silent.
 
-He sits on the edge of the bed, removes his boots, sets them beside the door. Cool beneath his feet, the floor. Outside, the river continues its flow, carrying debris downstream.
+A sound drifts across the water—perhaps humming, perhaps only the river's voice rising and falling. The melody is strange, unfamiliar, like wind through reeds. Sometimes it stops, leaving only the water's murmur, then begins again. The source is uncertain, somewhere in the darkness.
 
-An owl calls from the trees, answered by another from across the water. Night hunters begin their work, moving through the darkness with purpose known only to themselves. The world settles into its nocturnal rhythm.
+The lantern flickers, its flame dancing in the night breeze. Shadows shift and move, playing tricks with the eye. He watches Reed, watches the water flow past. He speaks no words, asks no questions. The journey is enough.
 
-He lies down on the narrow bed, pulls the thin blanket over him. The pillow is flat, the mattress hard, but they are familiar, comfortable in their simplicity. Through the window, he can see stars reflected on the water, points of light in the vast darkness.
+They round a bend, and a spit of sand appears in the lantern light. Reed steers toward it, his oars guiding the boat through the shallow water. The sand is pale and fine, unmarked except by the tracks of raccoons and possums.
 
-The river breathes in the dark, rising and falling with each small wave. Somewhere, a night bird calls. Somewhere, the train moves through the darkness, its whistle fading into distance. Somewhere, the world continues its ancient turning.
+Nothing waits there but driftwood and the smell of mud. The shore is littered with river trash—bleached logs, plastic bottles, tangles of fishing line. The sand gives way to marsh grass, then to the dark line of trees beyond.
 
-He closes his eyes, listens to the water against the bank. The sound is steady, familiar, constant.
+A splash from the shallows, sudden and quick. Footsteps, perhaps, or a night animal disturbed. The sound fades into the marsh grass, and the darkness swallows whatever made it.
 
-Night deepens. The river flows on, its surface broken by the occasional fish.
+Reed nods to him. He pushes off from the sand, the boat rocking as it slips back into the current. The old man turns the bow downstream, his oars finding their rhythm again.
 
-In the darkness, the fishing line hangs in the current, patient and still. The chickens roost in their coop, the red hen favoring her left leg. The town sleeps, its people dreaming.
+He remains in the boat, settling into the stern. Reed rows steadily, carrying them both deeper into the night. The lantern light grows smaller, more fragile against the vast darkness of the river.
 
-The shack settles into the night, its occupant breathing slow and steady. Outside, the river runs on, endless and unchanging. 
+Behind them, the spit of sand disappears into shadow. Ahead, the river stretches endlessly, carrying them toward unknown shores. The night is thick around them, full of secrets and silence, and the world remains unchanged.
+
+Water laps against the hull, a steady sound. Reed rows on, tireless, his face calm in the lantern light. He watches the darkness flow past, content to be carried by the current, by the night, by the patient water. In the distance, the first hint of dawn touches the horizon. 

@@ -1,67 +1,39 @@
-# Chapter 7: The Drifter's Word
+# Chapter 7: Shelter
 
-Dawn breaks slow and gray, the street empty, the church steps slick with dew. The air is cool, carrying the scent of wet earth and river mist. Frost edges the grass, and his breath clouds white in the morning chill. The sound of his footsteps echoes off the empty buildings. He walks the path toward the square, bread in hand—yesterday's loaf, hard but edible.
+Rain falls hard, drumming on the tin roofs. The sky opens without warning, releasing water in sheets that blur the world into gray shapes. He is caught between the mill and the river, no shelter but the trees that offer little protection from the downpour.
 
-A man sits on the church steps, coat damp, boots muddy, hands wrapped around his knees. He is older, his hair gray and unkempt, his face weathered by sun and wind. A canvas bag sits beside him, its contents unknown. He rocks slightly as he sits, his eyes fixed on the empty street.
+The storm comes sudden, after the day's heat. The air had been thick and still, pressing down like a weight. Now it breaks, releasing its burden in torrents that turn the dust to mud, the paths to streams. Lightning flashes in the distance, followed by thunder that rolls across the water.
 
-He slows, nods. The man nods back, offers a seat with a gesture of his hand. No words at first, just the quiet of the morning and the sound of birds stirring in the trees. The stone steps are cold and wet, but he sits, keeping distance between them.
+He runs for the shed behind the mill, his boots slipping on the wet earth. The structure is old, its walls weathered, its roof patched with sheets of tin that sing under the rain's assault. The door hangs crooked on its hinges, creaking in the wind.
 
-The stranger speaks, his voice soft, almost lost in the morning air. Something about the river, about letting go. The words are simple, unadorned, but they carry weight. He speaks of water that remembers, of things that must be released to find peace. His accent is unfamiliar, his cadence measured. His fingers worry at a worn photograph in his coat pocket, edges soft from handling.
+Inside, darkness thick, air heavy with the smell of wet earth and oil. The shed is cramped, filled with machinery—rusted gears, broken tools, lengths of chain that catch what little light filters through the gaps in the walls. Water drips through the roof in places, pooling on the dirt floor.
 
-"River knows," the man says. "Knows what we can't bear to know ourselves."
+Mara is already there, sitting on a wooden crate, arms folded, eyes on the door. She nods when he enters, makes room without speaking. Her hair is damp, her dress clinging to her frame. She glances briefly toward the mill house through the gaps in the walls, then settles back. A small canvas bag sits beside her, carefully positioned away from the dripping water.
 
-The words linger in the air, settling like mist. He listens without responding, watching the stranger's face, noting the lines around his eyes, the way his hands shake slightly in the morning cold.
+Outside, the rain continues its assault. The mill wheel creaks and groans, turned by the swollen stream. Lightning flashes, the world white for a moment, revealing the shed's contents in stark detail—the rust, the decay, the remnants of work once done.
 
-A shadow moves at the edge of the square—perhaps someone familiar, perhaps not. The figure lingers by the miller's fence, barely visible in the morning light. A shift in the shadows, a suggestion of movement, then stillness. The morning light plays tricks with the eye.
+They sit in silence, listening to the storm. The air is close, humid, filled with the scent of rain and earth and something else—the metallic smell of old machinery, the mustiness of a place long unused. A rat scurries across the floor, disappearing into the shadows.
 
-The church door opens with a creak. Ada steps out, a cup in her hand, steam rising from the hot liquid. She pauses when she sees the stranger, her expression unreadable. She moves down the steps, her footsteps careful on the wet stone.
+Thunder rolls overhead, shaking the tin roof. She shifts on the crate, her movements careful, economical. He leans against the wall, feeling the rough wood against his back. The storm shows no signs of stopping.
 
-She sets the cup beside the stranger, says nothing for a moment. The steam rises between them, carrying the scent of coffee and warmth. Then, quietly, "Here you are, Josiah." Her voice is gentle, familiar.
+She stands, moves closer, her movements practical, unhurried. No words, no tender touches. He does not resist, does not question. The act is wordless, mechanical, a brief joining of bodies for warmth, for need, for nothing more. She has timed this as carefully as her appearances in doorways, her strategic movements through the mill house. 
 
-The man—Josiah—looks up, his eyes meeting hers. He wraps his hands around the cup, lets the warmth seep into his fingers.
+The rain continues, masking any sound they might make. Lightning flashes again, throwing their shadows against the walls. The storm is the only witness.
 
-"Thank you, Ada," he says. His voice is stronger now, more present. "Kind to an old fool."
+After, she dresses without looking at him, her movements efficient, matter-of-fact. He buttons his shirt, stares at the floor. The rain slows to a steady patter, then to scattered drops. The storm is passing, leaving the world washed and clean.
 
-She shakes her head, dismissing the comment. "Coffee's not much. But it's hot."
+She stands, smooths her dress, checks the door. The wind has died down, and the thunder has moved on. She leaves first, slipping into the night without a backward glance, without a word of farewell. The door closes behind her with a soft click.
 
-Brother Calvin appears at the church window, his figure visible through the glass. He observes the scene below, then steps back into the shadows. His presence lingers even when he is no longer visible.
+He waits, listens to the last drops on the roof, counts the seconds between lightning and thunder. The storm is moving away, taking its energy with it. The air is cooler now, cleaner, carrying the scent of rain-washed earth.
 
-Ada ignores the watching eyes, settling herself on the step beside Josiah. She does not speak, but her presence is a comfort. The morning grows lighter, and the town begins to stir. A rooster crows in the distance, and smoke rises from a chimney across the square.
+He steps out into the wet grass. The world is unchanged. The mill wheel still turns, the river still runs, unseen in the dark. Puddles reflect the sky, and the air tastes of rain and the promise of morning.
 
-Ada glances at the worn soles of his boots, the frayed edges of his coat. "Long way from anywhere," she says quietly.
+The path back to his shack is muddy, treacherous in the darkness. He walks carefully, feeling his way, his boots squelching in the wet earth. The storm has passed, leaving only the memory of its violence and the smell of clean air.
 
-Josiah nods, hands wrapped around the cup. "Long enough."
+Behind him, the shed settles back into silence. The machinery rusts, the rain drips through the roof, and the world continues its slow turn toward dawn.
 
-He watches the exchange, noting the ease between them, the way Ada's kindness flows naturally, without expectation.
+The river waits, brown and swollen with rain, carrying the storm's runoff toward the sea. The night is quiet except for the drip of water from the trees, the distant call of a night bird, the soft whisper of the current against the bank.
 
-A child runs past, chasing a dog. The dog barks, tail wagging, and the child laughs. The sound carries across the square, bright and clear. Josiah smiles, the first genuine expression he has seen from him.
+He reaches his shack, pushes open the door, steps inside. The familiar smell of old wood and river air greets him. The storm has passed, and the world has returned to its usual rhythm. He lies down on the narrow bed, listens to the rain's last drops on the roof, and waits for sleep to come.
 
-The town stirs. Doors open, shutters creak. Ada watches people emerge from their houses.
-
-"Keeps going," Josiah says, more to himself than to her.
-
-Brother Calvin's figure disappears from the window. The church itself seems to watch, its windows dark, its silence heavy. Ada continues her conversation with Josiah, but something has changed in her posture, a subtle stiffness in her shoulders. Her kindness remains genuine, but her words become more careful, more measured. She serves others while serving Calvin's judgment of her goodness.
-
-The shadow at the edge of the square flickers again, like something half-remembered. A movement in the periphery, there and gone. Josiah's eyes drift toward the spot, and he speaks softly to the morning air. "River's not the only thing that remembers." His words carry on the wind, directed at nothing and everything.
-
-He watches this careful space, the way Ada and Josiah exist in their quiet moment.
-
-The town moves on, the day unfolding. People emerge from their houses, beginning their morning routines. The baker opens his shop, the miller starts his wheel, and the sound of daily life fills the air. But the small group on the church steps remains apart, existing in their own quiet space.
-
-Josiah finishes his coffee, sets the cup down beside him. He stands, shouldering his canvas bag, preparing to leave. Ada rises too, taking the empty cup without comment.
-
-"Where to?" she asks.
-
-"Down the river," he says. "Always down."
-
-He looks at the man beside him, their eyes meeting for a moment. "River's calling," he says. "Best to listen when it does."
-
-He nods. Josiah looks toward where Eli sits, silent as shadow. He speaks to the morning, his words carrying on the air. "River's not the only thing that remembers."
-
-With that, he walks away, his boots squelching in the mud. He disappears down the road that leads to the river, his figure growing smaller until it is lost in the morning haze.
-
-Ada watches him go. She turns to him, but then thinks better of it. Instead, she nods and returns to the church, the empty cup in her hand.
-
-He stands, brushes the dampness from his clothes, and continues his walk through the town. Behind him, the church steps are empty again, marked only by the wet imprint of where two people shared a moment of quiet understanding.
-
-The river moves beyond the trees, restless and deep. The day has begun, and the town wakes. The stranger's words linger in the morning air.
+Outside, the night continues. The mill wheel turns, the river flows, and the world endures. The storm has washed the air clean, leaving the morning fresh and cool. The river still runs toward the sea, and the night still holds its secrets.

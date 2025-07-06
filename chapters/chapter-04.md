@@ -1,39 +1,43 @@
-# Chapter 4: River Drift
+# Chapter 4: The Mill's Turn
 
-Mist clings to the water, blurring the far bank. He pushes the boat from the dock, oar dipping, river slow and heavy beneath him. Old, its wood soft with age, the boat's bottom is scarred and stained. Water seeps through the gaps, pooling around his feet, but it holds. It floats.
+The wheel turns, slow and deliberate, its wooden spokes dark with water. The mill sits where the creek meets the river, its stone foundation green with moss, its walls weathered gray. The wheel has turned for forty years, grinding grain when there is grain to grind, marking time when there is not.
 
-The current carries him past the factory—windows broken, walls streaked with rust. The building looms through the mist, its skeleton of steel and iron dark against the gray sky. Laughter rings out, sharp in the morning air, echoing off the water. A figure climbs the girders, quick and fearless, vanishing and reappearing in the mist.
+He walks the path beside the creek, boots squelching in the mud. The miller sometimes has work—heavy sacks, small repairs, tasks that might pay in coins rather than credit. The work comes and goes, depending on the miller's mood and the season's demands.
 
-He watches as the figure moves through the structure, leaping from beam to beam. The movements are fluid, confident. The figure pauses at the top, arms spread wide, then disappears into the maze of metal and shadow.
+The mill door stands open, flour dust dancing in the morning light. Inside, the great stones turn, their grinding filling the air with a sound like distant thunder. The miller stands beside the mechanism, his thick hands checking the flow of grain, his movements practiced and sure.
 
-He rows in silence, the river wide and brown, reeds brushing the hull. The water tastes of mud and rain, of upstream storms and downstream mysteries. Cattails bend in the slight breeze, their brown heads heavy with seed. A heron lifts from the shallows, wings beating slow, vanishing into the fog. Its cry echoes across the water, lonely and wild. Dragonflies skim the surface, their wings catching what little light filters through the mist.
+"Need something?" the miller asks without looking up. His voice carries over the grinding stones, rough as the grain itself. He is a large man, thick through the chest and shoulders, his hair gray and thinning. His hands are permanently stained with flour, his clothes dusted white.
 
-The oar cuts through the surface, disturbing the reflection of sky and mist. He drifts, lets the current decide. The world narrows to water, wood, and breath. The river bottom is invisible, lost in brown depths that could be three feet or thirty.
+"Work," he says. "If there's any."
 
-A fish jumps, silver flash in the brown water, then gone. Ripples spread outward, catching the light, then fading. He considers the fishing line coiled in the bottom of the boat, the hooks wrapped in cloth, but does not reach for them. The river will give what it gives. The acceptance he shows the world masks how his stomach contracts with hunger, how his hands want to reach for the line.
+The miller glances at him, considers. "Henderson's sack needs delivering. And the store." He jerks his head toward the door. "Cart's outside."
 
-Reed appears, boat gliding from the shadows like a ghost made solid. They pass close, eyes meeting for a moment. No words. His skin is dark from sun and work, his hands scarred from years of labor. He nods, moves on, swallowed by mist.
+The work is simple but heavy. A few sacks wait by the door, each one marked with a name, a weight, a price. He loads them with care, mindful of the flour within. His stomach contracts with emptiness, but his hands remain steady. The miller watches, counting, making marks in a ledger with a stub of pencil.
 
-Reed's boat leaves a small wake, gentle waves that rock his vessel. The old man's strokes are steady, efficient. He knows these waters, these currents, these moods of the river.
+"Mind the Henderson sack," the miller says. "They'll complain either way."
 
-A figure appears on the riverbank, moving quick and sure. A wave, a flash of hand, then gone, running along the river's edge. He watches, a line of energy against the gray. The figure moves with purpose, following the water's edge, disappearing into the trees.
+Mara appears in the doorway that leads to the mill house, her movements careful, deliberate. She carries a tray—bread, cheese, a cup of water. Her dress is simple, faded blue, her hair pulled back severe. She's perhaps thirty, with the kind of tiredness that comes from years, not days. She sets the tray on the miller's table without meeting his eyes.
 
-The river moves on, indifferent. A turtle surfaces, head breaking the water, eyes dark and ancient. It watches the boat pass, then sinks back into the depths. The mist begins to lift, revealing more of the far shore, more of the factory's broken windows.
+"About time," the miller says, his voice different now. Sharper. "Where's the butter?"
 
-He lets the boat drift, the oar resting across his knees. The wood is warm from his hands, smooth and worn. The day opens, slow and uncertain, the river carrying him nowhere in particular. A crow calls from the trees, its voice harsh in the morning air.
+"Gone," she says quietly. "Used the last yesterday."
 
-The factory grows smaller behind him, its broken windows dark. The figure is gone, but their presence lingers in the disturbed air, in the echo of laughter off the water. The river curves ahead, bending toward unknown shores, carrying him deeper into the morning.
+The miller's jaw tightens. "Gone." He repeats the word like it tastes bad. "Everything's always gone with you."
 
-Water laps against the hull, a steady rhythm that matches his breathing. The boat moves with the current, following the river's path. He does not fight it, does not try to direct its course.
+She does not argue, does not explain. She stands beside the table, hands folded, eyes on the floor. The wheel turns, grinding grain, filling the silence.
 
-A kingfisher dives, emerging with a fish in its beak. It flies to a dead branch, shakes its catch, then swallows it whole.
+"Get more," the miller says. "And mind the cost."
 
-The mist thickens, then thins, revealing glimpses of the shore. An old tire hangs from a tree, a rope swing left by children. A dock extends into the water, its boards green with moss. Life continues along the river's edge, marked by small signs of human presence.
+She nods, turns to go. The miller watches her walk away, his expression unreadable. When she disappears into the house, he returns to his ledger, his pencil moving across the page.
 
-He passes a sandbar, its surface dotted with the tracks of raccoons and possums. The water is shallower here, clearer, revealing the bottom strewn with rocks and fallen branches. A snake sunbathes on a log, its scales catching the filtered light.
+The deliveries are quick—Henderson's farm, then Ada's store. Mrs. Henderson checks the sack, nods. Ada runs the flour through her fingers, testing its quality. "Good flour," she says. "Tell him I said so."
 
-The boat drifts on, following the river's lazy curve. He sits in the stern, oar across his knees, watching the world pass by. The water carries him forward, toward whatever the day will bring.
+The return trip is easier, the cart empty. The miller waits, counting coins, making marks. "Two bits," he says, pressing the coins into his palm. "Come back next week. Might have something."
 
-Behind him, the factory disappears into the mist, its mysteries intact. The figure is gone, but their energy remains in the disturbed air, in the echo of laughter off the water.
+The coins are cold, few, real. He pockets them, nods, turns to go. In the doorway to the mill house, Mara appears again, her movements careful, strategic. She watches him leave, her expression unreadable. He nods to her, brief but acknowledged. She does not respond, but something in her posture softens.
 
-The river stretches ahead, murky and wide, thick with fallen branches and yesterday's rain. He drifts with it, following the water's course. 
+The path back to the river is quiet, the afternoon light slanting through the trees. Behind him, the mill wheel turns, grinding grain, marking time. The sound fades as he walks, replaced by the whisper of wind through the leaves.
+
+At the river, he stands on the dock, coins in his pocket, the day's work done. The water moves past, brown and slow, carrying its burden of silt and debris. He checks his fishing line, empty as always, and settles into the familiar rhythm of evening. The coins make a small sound when he moves, a reminder of the day's work.
+
+Behind him, the mill wheel turns, out of sight but not out of mind, grinding grain and marking time in a world that moves forward regardless of what happens in the shadows, in the quiet spaces between the turning spokes. Night falls, and the world endures. 

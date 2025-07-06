@@ -1,49 +1,67 @@
-# Chapter 8: The Ledger's Weight
+# Chapter 8: The Drifter's Word
 
-Evening settles over the town like a heavy blanket, the store nearly bare. The last light of autumn fades through the windows, painting everything amber and gold. Shelves stripped, only dust and a few sacks left. The glass jars are empty, their lids removed. Lamps burn low, casting long shadows across the worn wooden floor. Outside, the temperature drops with the sun, and the first hint of winter rides the evening breeze.
+Dawn breaks slow and gray, the street empty, the church steps slick with dew. The air is cool, carrying the scent of wet earth and river mist. Frost edges the grass, and his breath clouds white in the morning chill. The sound of his footsteps echoes off the empty buildings. He walks the path toward the square, bread in hand—yesterday's loaf, hard but edible.
 
-Ada sweeps methodically, her movements slower than usual. The ledger lies closed on the counter, its pages thick with entries. Her hands are slow, eyes dull with fatigue. Lines have appeared around her mouth, and her shoulders sag.
+A man sits on the church steps, coat damp, boots muddy, hands wrapped around his knees. He is older, his hair gray and unkempt, his face weathered by sun and wind. A canvas bag sits beside him, its contents unknown. He rocks slightly as he sits, his eyes fixed on the empty street.
 
-The bell above the door chimes softly as he enters, hat in hand, eyes on the shelves—less there than before. Gaps where goods should be. The flour sacks are fewer, the shelves of patent medicines nearly empty. The store echoes with emptiness.
+He slows, nods. The man nods back, offers a seat with a gesture of his hand. No words at first, just the quiet of the morning and the sound of birds stirring in the trees. The stone steps are cold and wet, but he sits, keeping distance between them.
 
-Ada looks up from her sweeping, nods without smiling. She moves to the counter, waiting. Her dress is clean but faded, her apron stained with the day's work. The lamp light catches the silver in her hair, making her look older than her years.
+The stranger speaks, his voice soft, almost lost in the morning air. Something about the river, about letting go. The words are simple, unadorned, but they carry weight. He speaks of water that remembers, of things that must be released to find peace. His accent is unfamiliar, his cadence measured. His fingers worry at a worn photograph in his coat pocket, edges soft from handling.
 
-He points to the coffee tin on the shelf, then to the salt. She nods, understanding.
+"River knows," the man says. "Knows what we can't bear to know ourselves."
 
-She moves to the shelves, gathering what little remains. The coffee tin is light in her hands, the salt bag half-empty. She weighs them carefully, her movements precise despite her weariness. The scale tips, settles, and she makes a note in her small notebook—not the ledger, but the one for credit.
+The words linger in the air, settling like mist. He listens without responding, watching the stranger's face, noting the lines around his eyes, the way his hands shake slightly in the morning cold.
 
-No words pass between them. The silence is comfortable, familiar. Ada wraps his purchases in brown paper, her fingers working with practiced efficiency. The store creaks around them, settling into the evening quiet.
+A shadow moves at the edge of the square—perhaps someone familiar, perhaps not. The figure lingers by the miller's fence, barely visible in the morning light. A shift in the shadows, a suggestion of movement, then stillness. The morning light plays tricks with the eye.
 
-A child appears at the door, thin and silent. She is perhaps eight years old, her dress too large, her shoes held together with string. Her eyes are wide with hunger, her face pale with want. She does not speak, but her presence fills the doorway like a question.
+The church door opens with a creak. Ada steps out, a cup in her hand, steam rising from the hot liquid. She pauses when she sees the stranger, her expression unreadable. She moves down the steps, her footsteps careful on the wet stone.
 
-Ada glances at the child, then at her dwindling supplies. Without hesitation, she slips a loaf of bread into a bag, adds a small piece of cheese, and hands it over without a word. The child's eyes widen, gratitude and shame mingling in her expression. Ada's face shows only kindness, but her hands shake slightly as she calculates what this generosity costs her empty shelves.
+She sets the cup beside the stranger, says nothing for a moment. The steam rises between them, carrying the scent of coffee and warmth. Then, quietly, "Here you are, Josiah." Her voice is gentle, familiar.
 
-The child clutches the bag, her small hands trembling. She looks up at Ada, mouth opening as if to speak, then closes it again. A nod, a step backward.
+The man—Josiah—looks up, his eyes meeting hers. He wraps his hands around the cup, lets the warmth seep into his fingers.
 
-Ada gestures gently toward the door, her expression soft but firm. The child understands.
+"Thank you, Ada," he says. His voice is stronger now, more present. "Kind to an old fool."
 
-She disappears into the evening shadows. Ada returns to her sweeping, her movements more deliberate now.
+She shakes her head, dismissing the comment. "Coffee's not much. But it's hot."
 
-Through the window, Eli stands outside, arms crossed, pride holding her back from stepping inside. She watches the exchange, her face unreadable. He sees her there, a figure caught between need and independence, between hunger and dignity.
+Brother Calvin appears at the church window, his figure visible through the glass. He observes the scene below, then steps back into the shadows. His presence lingers even when he is no longer visible.
 
-He reaches into his pocket, pulls out more coins than his purchase requires. The metal is warm from his body, the coins worn smooth by countless hands. He leaves them on the counter, more than he owes, and pushes them toward Ada.
+Ada ignores the watching eyes, settling herself on the step beside Josiah. She does not speak, but her presence is a comfort. The morning grows lighter, and the town begins to stir. A rooster crows in the distance, and smoke rises from a chimney across the square.
 
-Ada looks at the coins, then at him. She lets them sit for a moment, then, with a small nod, she sweeps them into the drawer. The sound of metal against wood echoes in the empty store.
+Ada glances at the worn soles of his boots, the frayed edges of his coat. "Long way from anywhere," she says quietly.
 
-She meets his eyes briefly, the look saying what words cannot. Gratitude mixed with the weight of necessity.
+Josiah nods, hands wrapped around the cup. "Long enough."
 
-He nods, takes his package, and moves toward the door. The bell chimes again as he steps outside, the sound fading into the evening air. Behind him, Ada continues her sweeping, preparing to close the store for another day.
+He watches the exchange, noting the ease between them, the way Ada's kindness flows naturally, without expectation.
 
-The street is empty, lit only by the warm glow spilling from windows. A dog wanders past, sniffing at the ground, searching for scraps. The air is cool, carrying the scent of woodsmoke and the distant river.
+A child runs past, chasing a dog. The dog barks, tail wagging, and the child laughs. The sound carries across the square, bright and clear. Josiah smiles, the first genuine expression he has seen from him.
 
-He walks home, bread under his arm, the river dark beside him. The water moves silently, its surface reflecting the last light of day. Crickets begin their evening chorus, and somewhere in the distance, a train whistle calls across the water.
+The town stirs. Doors open, shutters creak. Ada watches people emerge from their houses.
 
-At the edge of his yard, he pauses. The old crate by the fence sits empty, weathered by rain and sun. He sets his bag down on the crate, careful to keep the bread dry. Inside the bag, he leaves most of his purchases—the coffee, the salt.
+"Keeps going," Josiah says, more to himself than to her.
 
-Eli's shadow lingers nearby, a darker shape against the evening sky. She watches from the trees, her body tense, ready to flee if discovered. Pride keeps her at a distance, but necessity will bring her closer once he is gone.
+Brother Calvin's figure disappears from the window. The church itself seems to watch, its windows dark, its silence heavy. Ada continues her conversation with Josiah, but something has changed in her posture, a subtle stiffness in her shoulders. Her kindness remains genuine, but her words become more careful, more measured. She serves others while serving Calvin's judgment of her goodness.
 
-He turns away, walks to his shack, and closes the door behind him. The latch clicks softly, and the evening settles into its familiar rhythm. Through the window, he can see the crate by the fence, the bag waiting in the gathering darkness.
+The shadow at the edge of the square flickers again, like something half-remembered. A movement in the periphery, there and gone. Josiah's eyes drift toward the spot, and he speaks softly to the morning air. "River's not the only thing that remembers." His words carry on the wind, directed at nothing and everything.
 
-The river flows past, dark and silent. The town sleeps. The night is kind to those who know how to move in shadows, how to take what is offered without being seen.
+He watches this careful space, the way Ada and Josiah exist in their quiet moment.
 
-He lies on his narrow bed, listening to the sound of water against the bank. Outside, the night settles deeper, and the crate waits by the fence. Somewhere across the water, a lantern flickers—Reed's boat moving in the darkness. 
+The town moves on, the day unfolding. People emerge from their houses, beginning their morning routines. The baker opens his shop, the miller starts his wheel, and the sound of daily life fills the air. But the small group on the church steps remains apart, existing in their own quiet space.
+
+Josiah finishes his coffee, sets the cup down beside him. He stands, shouldering his canvas bag, preparing to leave. Ada rises too, taking the empty cup without comment.
+
+"Where to?" she asks.
+
+"Down the river," he says. "Always down."
+
+He looks at the man beside him, their eyes meeting for a moment. "River's calling," he says. "Best to listen when it does."
+
+He nods. Josiah looks toward where Eli sits, silent as shadow. He speaks to the morning, his words carrying on the air. "River's not the only thing that remembers."
+
+With that, he walks away, his boots squelching in the mud. He disappears down the road that leads to the river, his figure growing smaller until it is lost in the morning haze.
+
+Ada watches him go. She turns to him, but then thinks better of it. Instead, she nods and returns to the church, the empty cup in her hand.
+
+He stands, brushes the dampness from his clothes, and continues his walk through the town. Behind him, the church steps are empty again, marked only by the wet imprint of where two people shared a moment of quiet understanding.
+
+The river moves beyond the trees, restless and deep. The day has begun, and the town wakes. The stranger's words linger in the morning air. 

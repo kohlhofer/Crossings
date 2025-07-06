@@ -1,45 +1,49 @@
-# Chapter 9: The Night Crossing
+# Chapter 9: The Ledger's Weight
 
-Night falls heavy, the river black and wide. Stars pierce the darkness above, their light scattered on the water's surface. The air is sharp with the promise of frost, and bare branches rattle in the wind. He stands on the dock, lantern in hand, breath clouding in the cool air. The dock creaks beneath his weight, old wood settling into the night.
+Evening settles over the town like a heavy blanket, the store nearly bare. The last light of autumn fades through the windows, painting everything amber and gold. Shelves stripped, only dust and a few sacks left. The glass jars are empty, their lids removed. Lamps burn low, casting long shadows across the worn wooden floor. Outside, the temperature drops with the sun, and the first hint of winter rides the evening breeze.
 
-The air is thick with mist, carrying the scent of mud and rotting vegetation. Somewhere in the distance, a night bird calls. The river moves silently, its current invisible in the darkness, marked only by the occasional drift of leaves and debris.
+Ada sweeps methodically, her movements slower than usual. The ledger lies closed on the counter, its pages thick with entries. Her hands are slow, eyes dull with fatigue. Lines have appeared around her mouth, and her shoulders sag.
 
-Reed's boat glides out of the darkness, silent as a shadow. The old man's oars dip slow and steady, barely disturbing the water. His expression is calm and patient, his movements economical. The boat appears ghost-like in the lantern light, its hull black against the water.
+The bell above the door chimes softly as he enters, hat in hand, eyes on the shelves—less there than before. Gaps where goods should be. The flour sacks are fewer, the shelves of patent medicines nearly empty. The store echoes with emptiness.
 
-Reed gestures with a tilt of his head, and he steps into the boat. The vessel rocks beneath him, finding its new balance. The wooden seat is smooth and cold. Reed pushes off with his oar, and they slip away from the dock into the black water.
+Ada looks up from her sweeping, nods without smiling. She moves to the counter, waiting. Her dress is clean but faded, her apron stained with the day's work. The lamp light catches the silver in her hair, making her look older than her years.
 
-They cross in silence, water lapping against the hull in a steady rhythm. The lantern casts a small circle of light around them, beyond which the world disappears into darkness. The river stretches wide here, its far bank lost in shadow and mist.
+He points to the coffee tin on the shelf, then to the salt. She nods, understanding.
 
-Reed rows with practiced ease, his oars cutting the water cleanly. His breathing is steady, unhurried. He knows these waters, these currents, these hidden dangers. The boat moves through the darkness like a living thing, guided by sure movements.
+She moves to the shelves, gathering what little remains. The coffee tin is light in her hands, the salt bag half-empty. She weighs them carefully, her movements precise despite her weariness. The scale tips, settles, and she makes a note in her small notebook—not the ledger, but the one for credit.
 
-The far bank looms gradually out of the darkness, trees tangled, shadows deep. A figure waits there, small and indistinct in the mist. The shape might be a person, might be a stump, might be nothing at all. The lantern light catches something—movement, or perhaps just the play of shadows on water.
+No words pass between them. The silence is comfortable, familiar. Ada wraps his purchases in brown paper, her fingers working with practiced efficiency. The store creaks around them, settling into the evening quiet.
 
-Reed rows toward the bank, his oars steady. The boat slides up to the muddy shore with a soft scrape. The waiting figure—if it is a figure—does not move. In the uncertain light, it could be anyone, anything, or no one at all.
+A child appears at the door, thin and silent. She is perhaps eight years old, her dress too large, her shoes held together with string. Her eyes are wide with hunger, her face pale with want. She does not speak, but her presence fills the doorway like a question.
 
-He steps onto the bank, feet sinking into the soft mud. The lantern casts its circle of light, but beyond its reach, the darkness holds its secrets. A sound from the shadows—footsteps, perhaps, or the wind through the reeds. Something restless moves in the periphery of vision.
+Ada glances at the child, then at her dwindling supplies. Without hesitation, she slips a loaf of bread into a bag, adds a small piece of cheese, and hands it over without a word. The child's eyes widen, gratitude and shame mingling in her expression. Ada's face shows only kindness, but her hands shake slightly as she calculates what this generosity costs her empty shelves.
 
-Reed pushes off from the bank, the boat rocking as it slips back into the current. He settles into the stern, and Reed turns the bow downstream. The old man rows steadily, carrying them both deeper into the night. The smell of spirits drifts faintly in the air between them, but Reed's hands remain steady on the oars.
+The child clutches the bag, her small hands trembling. She looks up at Ada, mouth opening as if to speak, then closes it again. A nod, a step backward.
 
-The boat drifts past a fallen tree, its branches reaching into the water. An owl calls from somewhere in the darkness, answered by another from across the river. The night is alive with small sounds—the plop of a turtle sliding from a log, the rustle of something moving through the reeds.
+Ada gestures gently toward the door, her expression soft but firm. The child understands.
 
-Reed's oars cut through patches of foam and floating debris. The river carries its cargo downstream—leaves, branches, the occasional bottle or piece of cloth. All of it moves together in the darkness, part of the river's endless journey to the sea.
+She disappears into the evening shadows. Ada returns to her sweeping, her movements more deliberate now.
 
-They pass under a low bridge, its stone arches dark against the sky. The sound of their passage echoes briefly, then fades. Above them, the road crosses empty and silent.
+Through the window, Eli stands outside, arms crossed, pride holding her back from stepping inside. She watches the exchange, her face unreadable. He sees her there, a figure caught between need and independence, between hunger and dignity.
 
-A sound drifts across the water—perhaps humming, perhaps only the river's voice rising and falling. The melody is strange, unfamiliar, like wind through reeds. Sometimes it stops, leaving only the water's murmur, then begins again. The source is uncertain, somewhere in the darkness.
+He reaches into his pocket, pulls out more coins than his purchase requires. The metal is warm from his body, the coins worn smooth by countless hands. He leaves them on the counter, more than he owes, and pushes them toward Ada.
 
-The lantern flickers, its flame dancing in the night breeze. Shadows shift and move, playing tricks with the eye. He watches Reed, watches the water flow past. He speaks no words, asks no questions. The journey is enough.
+Ada looks at the coins, then at him. She lets them sit for a moment, then, with a small nod, she sweeps them into the drawer. The sound of metal against wood echoes in the empty store.
 
-They round a bend, and a spit of sand appears in the lantern light. Reed steers toward it, his oars guiding the boat through the shallow water. The sand is pale and fine, unmarked except by the tracks of raccoons and possums.
+She meets his eyes briefly, the look saying what words cannot. Gratitude mixed with the weight of necessity.
 
-Nothing waits there but driftwood and the smell of mud. The shore is littered with river trash—bleached logs, plastic bottles, tangles of fishing line. The sand gives way to marsh grass, then to the dark line of trees beyond.
+He nods, takes his package, and moves toward the door. The bell chimes again as he steps outside, the sound fading into the evening air. Behind him, Ada continues her sweeping, preparing to close the store for another day.
 
-A splash from the shallows, sudden and quick. Footsteps, perhaps, or a night animal disturbed. The sound fades into the marsh grass, and the darkness swallows whatever made it.
+The street is empty, lit only by the warm glow spilling from windows. A dog wanders past, sniffing at the ground, searching for scraps. The air is cool, carrying the scent of woodsmoke and the distant river.
 
-Reed nods to him. He pushes off from the sand, the boat rocking as it slips back into the current. The old man turns the bow downstream, his oars finding their rhythm again.
+He walks home, bread under his arm, the river dark beside him. The water moves silently, its surface reflecting the last light of day. Crickets begin their evening chorus, and somewhere in the distance, a train whistle calls across the water.
 
-He remains in the boat, settling into the stern. Reed rows steadily, carrying them both deeper into the night. The lantern light grows smaller, more fragile against the vast darkness of the river.
+At the edge of his yard, he pauses. The old crate by the fence sits empty, weathered by rain and sun. He sets his bag down on the crate, careful to keep the bread dry. Inside the bag, he leaves most of his purchases—the coffee, the salt.
 
-Behind them, the spit of sand disappears into shadow. Ahead, the river stretches endlessly, carrying them toward unknown shores. The night is thick around them, full of secrets and silence, and the world remains unchanged.
+Eli's shadow lingers nearby, a darker shape against the evening sky. She watches from the trees, her body tense, ready to flee if discovered. Pride keeps her at a distance, but necessity will bring her closer once he is gone.
 
-Water laps against the hull, a steady sound. Reed rows on, tireless, his face calm in the lantern light. He watches the darkness flow past, content to be carried by the current, by the night, by the patient water. In the distance, the first hint of dawn touches the horizon. 
+He turns away, walks to his shack, and closes the door behind him. The latch clicks softly, and the evening settles into its familiar rhythm. Through the window, he can see the crate by the fence, the bag waiting in the gathering darkness.
+
+The river flows past, dark and silent. The town sleeps. The night is kind to those who know how to move in shadows, how to take what is offered without being seen.
+
+He lies on his narrow bed, listening to the sound of water against the bank. Outside, the night settles deeper, and the crate waits by the fence. Somewhere across the water, a lantern flickers—Reed's boat moving in the darkness. 

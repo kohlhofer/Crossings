@@ -1,39 +1,49 @@
-# Chapter 6: Shelter
+# Chapter 6: The Bar's Shadow
 
-Rain falls hard, drumming on the tin roofs. The sky opens without warning, releasing water in sheets that blur the world into gray shapes. He is caught between the mill and the river, no shelter but the trees that offer little protection from the downpour.
+The house sags at the edge of town, porch littered with bottles and broken chairs. The paint is gone, leaving weathered wood gray and worn. A sign hangs crooked by the door, letters too faded to read. He doesn't mean to go in. The cold drives him toward the light spilling from the windows, toward the sound of voices and the promise of warmth. Wind cuts through his thin jacket, carrying the bite of winter and the scent of wood smoke from distant chimneys.
 
-The storm comes sudden, after the day's heat. The air had been thick and still, pressing down like a weight. Now it breaks, releasing its burden in torrents that turn the dust to mud, the paths to streams. Lightning flashes in the distance, followed by thunder that rolls across the water.
+Eli is ahead, hands in her pockets, shoulders hunched against the wind. She moves with purpose, her steps quick on the broken porch boards. She glances back once, waits at the door. He follows, not thinking, just moving out of the cold.
 
-He runs for the shed behind the mill, his boots slipping on the wet earth. The structure is old, its walls weathered, its roof patched with sheets of tin that sing under the rain's assault. The door hangs crooked on its hinges, creaking in the wind.
+Inside, the air is thick with sweat and cheap spirits. The smell hits him first—stale beer, unwashed bodies, smoke from cigarettes rolled too thin. Floorboards creak under his weight, sticky with spilled drinks. A single bulb hangs from the ceiling, casting harsh shadows that make faces hard to read.
 
-Inside, darkness thick, air heavy with the smell of wet earth and oil. The shed is cramped, filled with machinery—rusted gears, broken tools, lengths of chain that catch what little light filters through the gaps in the walls. Water drips through the roof in places, pooling on the dirt floor.
+In the corner, Lila sits with faded dress hanging loose on her thin frame, suitcase at her feet, humming to herself. Her hair is unwashed, her eyes unfocused. The suitcase is old, its leather cracked, its brass fittings tarnished. She rocks slightly as she hums. When Harlan's not looking, her eyes sharpen, tracking who enters, who leaves, who has money. The vacant humming resumes the moment his attention returns, a performance of helplessness.
 
-Mara is already there, sitting on a wooden crate, arms folded, eyes on the door. She nods when he enters, makes room without speaking. Her hair is damp, her dress clinging to her frame. She has been here longer, or perhaps she knew the storm was coming. A small canvas bag sits beside her, carefully positioned away from the dripping water—she's prepared for this.
+Hunched at the bar, Amos mutters with eyes on the floor. His clothes are stained, his beard unkempt. His fingers wrap around a mug, knuckles white with the effort of holding on. He speaks to no one, his words lost in the noise of the room. A wedding ring, bright with polish, catches the light on his finger—the only clean thing about him. When someone approaches, his muttering stops, replaced by sullen silence. The words return only when he thinks himself unheard.
 
-Outside, the rain continues its assault. The mill wheel creaks and groans, turned by the swollen stream. Lightning flashes, the world white for a moment, revealing the shed's contents in stark detail—the rust, the decay, the remnants of work once done.
+Behind the counter, Harlan sleeps, roused only when someone calls his name. The proprietor is a big man gone soft, his belly straining against his shirt. His face is flushed, his breathing heavy. A bottle sits open beside him, its contents half-gone. Beneath the counter, his hand rests on a ledger, neat columns of numbers tracked in careful script.
 
-They sit in silence, listening to the storm. The air is close, humid, filled with the scent of rain and earth and something else—the metallic smell of old machinery, the mustiness of a place long unused. A rat scurries across the floor, disappearing into the shadows.
+"Late," Amos mutters, not looking up. His voice is slurred, his words directed at the floor.
 
-Thunder rolls overhead, shaking the tin roof. She shifts on the crate, her movements careful, economical. He leans against the wall, feeling the rough wood against his back. The storm shows no signs of stopping.
+"Always," Lila echoes, voice flat. She continues humming, the melody broken and strange.
 
-She stands, moves closer, her movements practical, unhurried. No words, no tender touches. He does not resist, does not question. The act is wordless, mechanical, a brief joining of bodies for warmth, for need, for nothing more. Yet her preparation for the storm, her chosen shelter, suggest this encounter is less accident than design.
+Harlan grunts, half-awake. "Always comes." His eyes focus briefly on the man at the end of the bar, then drift away.
 
-The rain continues, masking any sound they might make. Lightning flashes again, throwing their shadows against the walls. The storm is the only witness.
+The words drift through the room, worn smooth by repetition. No one expects an answer. He moves to the bar, finds an empty stool at the far end. The wood is worn smooth, stained with rings from countless glasses. He sits carefully, back to the wall, watching the room.
 
-After, she dresses without looking at him, her movements efficient, matter-of-fact. He buttons his shirt, stares at the floor. The rain slows to a steady patter, then to scattered drops. The storm is passing, leaving the world washed and clean.
+A man slumps at a table near the door, head in his hands. His shoulders shake with each breath. A bottle sits empty before him, its label peeled away. His clothes are clean but wrinkled, his shoes polished but worn. He looks up once, eyes red, then returns to staring at the table.
 
-She stands, smooths her dress, checks the door. The wind has died down, and the thunder has moved on. She leaves first, slipping into the night without a backward glance, without a word of farewell. The door closes behind her with a soft click.
+Lila laughs, sharp and sudden, breaking the hush. The sound cuts through the room. Amos grumbles, knocks over his mug, curses the world. Beer spreads across the bar, dripping onto the floor. Harlan stirs, looks at the mess, then settles back into sleep.
 
-He waits, listens to the last drops on the roof, counts the seconds between lightning and thunder. The storm is moving away, taking its energy with it. The air is cooler now, cleaner, carrying the scent of rain-washed earth.
+A shadow moves near the door, quick and restless. Perhaps someone entering, perhaps someone leaving. The light shifts, and the shadow is gone. The room feels different for a moment, charged with a restless energy, then settles back into its familiar rhythm.
 
-He steps out into the wet grass. The world is unchanged. The mill wheel still turns, the river still runs, unseen in the dark. Puddles reflect the sky, and the air tastes of rain and the promise of morning.
+Amos slides a glass across the bar, liquid dark and nameless. The glass is chipped, its surface cloudy with age. He drinks, the taste sharp, unfamiliar. The alcohol burns his throat, settles hot in his stomach. He does not ask what it is, does not question the price.
 
-The path back to his shack is muddy, treacherous in the darkness. He walks carefully, feeling his way, his boots squelching in the wet earth. The storm has passed, leaving only the memory of its violence and the smell of clean air.
+Another man enters, moves toward the table by the door. The miller looks up from his drink, flour still dusting his sleeves. "My chair," he says, voice rough with drink and the day's frustrations. The newcomer sits anyway. A shove, a chair scraping. The miller grabs at the man's shirt, thick hands used to controlling mill machinery now trying to control flesh. They stumble near the entrance.
 
-Behind him, the shed settles back into silence. The machinery rusts, the rain drips through the roof, and the world continues its slow turn toward dawn.
+Harlan wakes, sighs. "Outside," he says.
 
-The river waits, brown and swollen with rain, carrying the storm's runoff toward the sea. The night is quiet except for the drip of water from the trees, the distant call of a night bird, the soft whisper of the current against the bank.
+Lila sings a line of an old song. "Down in the valley, the valley so low."
 
-He reaches his shack, pushes open the door, steps inside. The familiar smell of old wood and river air greets him. The storm has passed, and the world has returned to its usual rhythm. He lies down on the narrow bed, listens to the rain's last drops on the roof, and waits for sleep to come.
+The fight winds down, both men too tired to continue. The miller retreats to the bar, muttering about respect and people taking what isn't theirs. The other man finds a different corner, nursing a split lip.
 
-Outside, the night continues. The mill wheel turns, the river flows, and the world endures. The storm has washed the air clean, leaving the morning fresh and cool. The river still runs toward the sea, and the night still holds its secrets. 
+Another glass appears, pushed his way without comment. He drinks again, the burn settling in his chest. The room grows warmer, or perhaps the alcohol makes it seem so. Conversations resume, quiet and broken.
+
+A woman enters, her coat soaked through, her shoes squelching on the floor. She looks around, finds no welcome, and leaves again. The door slams behind her, shaking the windows. Harlan mutters something about keeping the cold out, then returns to his bottle.
+
+He watches it all, saying nothing. The room is full of people who have nowhere else to go, nothing else to do. They drink because it helps, or because it doesn't matter, or because the alternative is worse.
+
+Time passes. The glasses multiply, empty and forgotten. Lila's humming grows louder, more discordant. Amos continues his muttered conversation with the floor. The man by the door returns to his weeping. Others come and go, faces blurred by alcohol and shadow.
+
+He leaves before dark, the sound of laughter and argument fading behind him. The cold air hits him like a slap, clearing his head, sharpening his vision. Above, clouds gather thick and heavy. The river flows unchanged, its current moving steady and sure toward the sea.
+
+Behind him, the bar continues its nightly ritual. The lights burn dim, the voices carry on, and the bottles empty one by one. 
