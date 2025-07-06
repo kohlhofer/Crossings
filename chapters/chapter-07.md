@@ -12,7 +12,7 @@ The stranger speaks, his voice soft, almost lost in the morning air. Something a
 
 The words linger in the air, settling like mist. He listens without responding, watching the stranger's face, noting the lines around his eyes, the way his hands shake slightly in the morning cold.
 
-A shadow moves at the edge of the square—Eli, or someone like her. She lingers by the miller's fence, listening, her posture alert. She does not approach, but she does not leave either. The morning light catches her hair, and she shifts position, keeping herself half-hidden.
+A shadow moves at the edge of the square—perhaps someone familiar, perhaps not. The figure lingers by the miller's fence, barely visible in the morning light. A shift in the shadows, a suggestion of movement, then stillness. The morning light plays tricks with the eye.
 
 The church door opens with a creak. Ada steps out, a cup in her hand, steam rising from the hot liquid. She pauses when she sees the stranger, her expression unreadable. She moves down the steps, her footsteps careful on the wet stone.
 
@@ -42,11 +42,9 @@ A child runs past, chasing a dog. The dog barks, tail wagging, and the child lau
 
 Brother Calvin's figure disappears from the window, but his presence lingers. He can feel the preacher's judgment from inside the church, his disapproval of the stranger, of Ada's kindness, of anything that disrupts the order he tries to maintain.
 
-The shadow at the edge of the square moves again. Eli steps into the light, her curiosity overcoming her caution. She approaches slowly, her steps careful on the wet ground. Josiah sees her coming and nods.
+The shadow at the edge of the square flickers again, like something half-remembered. A movement in the periphery, there and gone. Josiah's eyes drift toward the spot, and he speaks softly to the morning air. "River's not the only thing that remembers." His words carry on the wind, directed at nothing and everything.
 
-She settles on the grass nearby, close enough to hear but far enough to run if needed. Josiah speaks softly to the morning air. "You're the one they talk about." His words drift across the space between them, uncertain if they find their target.
-
-He watches this careful dance, the way the three of them—Ada, Josiah, and Eli—exist in their quiet space.
+He watches this careful space, the way Ada and Josiah exist in their quiet moment.
 
 The town moves on, the day unfolding. People emerge from their houses, beginning their morning routines. The baker opens his shop, the miller starts his wheel, and the sound of daily life fills the air. But the small group on the church steps remains apart, existing in their own quiet space.
 
@@ -64,6 +62,6 @@ With that, he walks away, his boots squelching in the mud. He disappears down th
 
 Ada watches him go. She turns to him, but then thinks better of it. Instead, she nods and returns to the church, the empty cup in her hand.
 
-Eli remains on the grass, her eyes fixed on the spot where Josiah disappeared. He stands, brushes the dampness from his clothes, and continues his walk through the town. Behind him, the church steps are empty again, marked only by the wet imprint of where three people shared a moment of quiet understanding.
+He stands, brushes the dampness from his clothes, and continues his walk through the town. Behind him, the church steps are empty again, marked only by the wet imprint of where two people shared a moment of quiet understanding.
 
 The river flows beyond the trees, carrying debris downstream. The day has begun, and the town wakes. The stranger's words linger in the morning air.

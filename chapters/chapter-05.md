@@ -24,7 +24,7 @@ A man slumps at a table near the door, head in his hands. His shoulders shake wi
 
 Lila laughs, sharp and sudden, breaking the hush. The sound cuts through the room. Amos grumbles, knocks over his mug, curses the world. Beer spreads across the bar, dripping onto the floor. Harlan stirs, looks at the mess, then settles back into sleep.
 
-Eli leans against the wall, hair damp from the cold, eyes bright, restless. She watches, waiting for something to happen. Her presence changes the room, makes the air tighter, makes the shadows deeper. She says nothing, but her eyes move constantly, taking in every face, every gesture.
+A shadow moves near the door, quick and restless. Perhaps someone entering, perhaps someone leaving. The light shifts, and the shadow is gone. The room feels different for a moment, charged with a restless energy, then settles back into its familiar rhythm.
 
 Amos slides a glass across the bar, liquid dark and nameless. The glass is chipped, its surface cloudy with age. He drinks, the taste sharp, unfamiliar. The alcohol burns his throat, settles hot in his stomach. He does not ask what it is, does not question the price.
 
@@ -36,7 +36,7 @@ Lila sings a line of an old song. "Down in the valley, the valley so low."
 
 The fight winds down, both men too tired to continue. They separate, find different corners of the room.
 
-Eli moves toward the door, gone before anyone notices. Another glass appears, pushed his way without comment. He drinks again, the burn settling in his chest. The room grows warmer, or perhaps the alcohol makes it seem so. Conversations resume, quiet and broken.
+Another glass appears, pushed his way without comment. He drinks again, the burn settling in his chest. The room grows warmer, or perhaps the alcohol makes it seem so. Conversations resume, quiet and broken.
 
 A woman enters, her coat soaked through, her shoes squelching on the floor. She looks around, finds no welcome, and leaves again. The door slams behind her, shaking the windows. Harlan mutters something about keeping the cold out, then returns to his bottle.
 

@@ -12,15 +12,13 @@ They cross in silence, water lapping against the hull in a steady rhythm. The la
 
 Reed rows with practiced ease, his oars cutting the water cleanly. His breathing is steady, unhurried. He knows these waters, these currents, these hidden dangers. The boat moves through the darkness like a living thing, guided by sure movements.
 
-The far bank looms gradually out of the darkness, trees tangled, shadows deep. Eli waits there, a small figure on the muddy shore. She sits with her arms wrapped around her knees, eyes bright in the lantern's glow. Her hair is damp with mist, her clothes dark and shapeless.
+The far bank looms gradually out of the darkness, trees tangled, shadows deep. A figure waits there, small and indistinct in the mist. The shape might be a person, might be a stump, might be nothing at all. The lantern light catches something—movement, or perhaps just the play of shadows on water.
 
-She says nothing as they approach, just climbs into the boat with quick, efficient movements. She settles at the bow, restless, her eyes scanning the water. The boat rocks with her weight, then steadies as Reed adjusts his rowing.
+Reed rows toward the bank, his oars steady. The boat slides up to the muddy shore with a soft scrape. The waiting figure—if it is a figure—does not move. In the uncertain light, it could be anyone, anything, or no one at all.
 
-Reed rows without destination, following the river's whim. The water carries them downstream, past sleeping farms, past empty docks, past places where the bank has crumbled into the current. The world narrows to the sound of oars, the creak of wood, the hush of night.
+He steps onto the bank, feet sinking into the soft mud. The lantern casts its circle of light, but beyond its reach, the darkness holds its secrets. A sound from the shadows—footsteps, perhaps, or the wind through the reeds. Something restless moves in the periphery of vision.
 
-A sound drifts from the bow—perhaps humming, perhaps only the river's voice rising and falling. The melody is strange, unfamiliar, like wind through reeds. Sometimes it stops, leaving only the water's murmur, then begins again. Her presence fills the bow of the boat, energy contained but barely.
-
-A fish jumps nearby, the splash sudden and sharp. Ripples spread outward, catching the lantern light. Eli turns toward the sound, her eyes following the expanding circles until they fade into darkness.
+Reed pushes off from the bank, the boat rocking as it slips back into the current. He settles into the stern, and Reed turns the bow downstream. The old man rows steadily, carrying them both deeper into the night.
 
 The boat drifts past a fallen tree, its branches reaching into the water. An owl calls from somewhere in the darkness, answered by another from across the river. The night is alive with small sounds—the plop of a turtle sliding from a log, the rustle of something moving through the reeds.
 
@@ -28,15 +26,15 @@ Reed's oars cut through patches of foam and floating debris. The river carries i
 
 They pass under a low bridge, its stone arches dark against the sky. The sound of their passage echoes briefly, then fades. Above them, the road crosses empty and silent.
 
-Eli shifts in the bow, her movements restless. She reaches out, lets her fingers trail in the water. The current tugs at her hand, and she pulls it back, watching the droplets fall from her fingers. Reed continues rowing, his rhythm unchanged.
+A sound drifts across the water—perhaps humming, perhaps only the river's voice rising and falling. The melody is strange, unfamiliar, like wind through reeds. Sometimes it stops, leaving only the water's murmur, then begins again. The source is uncertain, somewhere in the darkness.
 
-The lantern flickers, its flame dancing in the night breeze. Shadows shift and move, playing tricks with the eye. He watches Eli, watches Reed, watches the water flow past. He speaks no words, asks no questions. The journey is enough.
+The lantern flickers, its flame dancing in the night breeze. Shadows shift and move, playing tricks with the eye. He watches Reed, watches the water flow past. He speaks no words, asks no questions. The journey is enough.
 
 They round a bend, and a spit of sand appears in the lantern light. Reed steers toward it, his oars guiding the boat through the shallow water. The sand is pale and fine, unmarked except by the tracks of raccoons and possums.
 
 Nothing waits there but driftwood and the smell of mud. The shore is littered with river trash—bleached logs, plastic bottles, tangles of fishing line. The sand gives way to marsh grass, then to the dark line of trees beyond.
 
-Eli jumps out before the boat touches shore, her feet splashing in the shallow water. She vanishes into the dark without a word, her footsteps fading along the water's edge. The night swallows her completely.
+A splash from the shallows, sudden and quick. Footsteps, perhaps, or a night animal disturbed. The sound fades into the marsh grass, and the darkness swallows whatever made it.
 
 Reed nods to him. He pushes off from the sand, the boat rocking as it slips back into the current. The old man turns the bow downstream, his oars finding their rhythm again.
 
