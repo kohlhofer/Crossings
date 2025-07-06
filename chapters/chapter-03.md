@@ -18,11 +18,11 @@ Inside, the hymns begin—off-key, slow, the words familiar. Through the open do
 
 Brother Calvin's voice rises above the rest, calling for prayer. The people bow their heads, some with eyes closed, some with eyes on the floor. Calvin prays for the community, for the harvest, for the souls of those who have strayed. His voice carries through the open door, rich and rolling, practiced in its cadence.
 
-"Lord, we ask for Your blessing on this community, on these faithful souls who gather in Your name. Watch over our neighbors, those who struggle with pride and sin, those who turn away from Your light. The river remembers all things, Lord, and so do You."
+"Lord, we ask for Your blessing on this community, on these faithful souls who gather in Your name. Watch over our neighbors, those who struggle with pride and sin, those who turn away from Your light. Guard us from the temptations that lead us astray, from the paths that divide us from righteousness."
 
 The words drift out into the morning air, mixing with the sound of insects and the distant call of a train. He leans against the fence, watching the building, listening to the ritual inside. A dog wanders past, sniffing at the church steps, then moving on.
 
-The service continues, Calvin's voice rising and falling like the tide. He speaks of sin and redemption, of the river's memory and God's judgment. The congregation responds with murmurs of agreement, their voices soft and weary. Some shift in their seats, others fan themselves with hymnals.
+The service continues, Calvin's voice rising and falling like the tide. He speaks of sin and redemption, of the river's memory and God's judgment. The congregation responds with murmurs of agreement, their voices soft and weary. Some shift in their seats, others fan themselves with hymnals. His words drift toward themes of community order, of proper conduct, of the dangers of charity without wisdom.
 
 Through the door, he can see the backs of heads, the bent shoulders of people seeking comfort or answers. The pews are not full, but those who come do so with purpose. Mrs. Ada Bell sits near the front, her back straight, her attention fixed on Calvin's words. The mother from the store sits near the back, her child beside her, both quiet and still.
 
@@ -42,7 +42,7 @@ The doors open, and the congregation spills out, blinking in the bright light. T
 
 The people disperse, walking back to their homes, their farms, their daily struggles. The weeping woman has composed herself, clutching her handkerchief. She walks away alone, her steps careful, her head down.
 
-Ada returns to the building, helping to stack hymnals, to straighten pews. She moves with quiet efficiency, her service continuing beyond the formal worship. Calvin watches her work, his eyes lingering on her movements. When she passes close to him, he brushes his hand against her arm. She pulls away, a quick, sharp movement, and continues stacking hymnals. Her jaw tightens, and she does not look at him.
+Ada returns to the building, helping to stack hymnals, to straighten pews. She moves with quiet efficiency, her service continuing beyond the formal worship. Calvin moves through the church, closing windows, adjusting chairs. Their paths cross near the altar. A moment of proximity, nothing more, but she steps aside, maintains distance. Her movements remain careful, measured.
 
 He pushes away from the fence, the square emptying, the church settling back into quiet. The service is over, its echoes lingering in the air.
 

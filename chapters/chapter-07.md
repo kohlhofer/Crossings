@@ -24,7 +24,7 @@ The man—Josiah—looks up, his eyes meeting hers. He wraps his hands around th
 
 She shakes her head, dismissing the comment. "Coffee's not much," she says. "But it's hot."
 
-Brother Calvin watches from the church window, his face visible through the glass. His frown deepens as he observes the scene. His hand rests on the window frame, his knuckles white with pressure. He does not come outside, but his disapproval is clear.
+Brother Calvin appears at the church window, his figure visible through the glass. He observes the scene below, then steps back into the shadows. His presence lingers even when he is no longer visible.
 
 Ada ignores the watching eyes, settling herself on the step beside Josiah. She does not speak, but her presence is a comfort. The morning grows lighter, and the town begins to stir. A rooster crows in the distance, and smoke rises from a chimney across the square.
 
@@ -40,7 +40,7 @@ A child runs past, chasing a dog. The dog barks, tail wagging, and the child lau
 
 "Always does," Josiah replies. "World keeps turning, whether we're ready or not."
 
-Brother Calvin's figure disappears from the window, but his presence lingers. He can feel the preacher's judgment from inside the church, his disapproval of the stranger, of Ada's kindness, of anything that disrupts the order he tries to maintain.
+Brother Calvin's figure disappears from the window. The church itself seems to watch, its windows dark, its silence heavy. Ada continues her conversation with Josiah, but something has changed in her posture, a subtle stiffness in her shoulders.
 
 The shadow at the edge of the square flickers again, like something half-remembered. A movement in the periphery, there and gone. Josiah's eyes drift toward the spot, and he speaks softly to the morning air. "River's not the only thing that remembers." His words carry on the wind, directed at nothing and everything.
 

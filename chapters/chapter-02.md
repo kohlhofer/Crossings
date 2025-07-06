@@ -22,7 +22,7 @@ The mother looks at the candy, then at Ada. Ada's eyes remain on the ledger. The
 
 Ada returns to her ledger, makes another mark. Credit for the eggs. She does not look up as the mother and child disappear down the street.
 
-Through the window, a figure appears on the street. Brother Calvin walks slowly past the store, his eyes on the windows. He pauses at the door. Ada's hand stills on the ledger page. She does not look up, but her shoulders tense. Calvin's shadow falls across the doorway for a moment, then moves on. Ada's pencil resumes its careful marks, but her movements are stiffer now.
+Through the window, a figure moves down the street. Brother Calvin walks his usual route, his presence felt before he is seen. He does not stop, does not pause, but Ada's hand stills on the ledger page. She waits, listening, then continues her work. Her movements are more careful now, more deliberate.
 
 He takes his parcel, nods, and steps outside. The sun is higher now, the street empty except for a stray dog panting in the shade. The dog's ribs show through its coat, and it watches him. He unwraps the bread, breaks off a piece, and drops it near the dog. The dog sniffs, then eats, its tail moving once.
 
