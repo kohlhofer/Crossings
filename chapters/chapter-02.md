@@ -10,7 +10,7 @@ Ada stands behind the counter, ledger open, pencil in hand. She nods at his entr
 
 He reaches into his jacket pocket, careful not to disturb the eggs. The shells are still warm, uncracked. He places them on the counter, one by one, turning them so Ada can see they are good. She lifts each egg, holds it to the light, nods approval.
 
-Ada opens a small notebook, different from the ledger, and makes a mark. Credit for the eggs. She adds numbers in her careful hand, then looks up at him. He points to the bread on the shelf, the coffee, the salt. She nods, reaches for the items, weighs them on the scale. The scale tips, settles. The bread is soft, the coffee ground fine, the salt white as river sand.
+Ada opens a small notebook, different from the ledger, and makes a mark. Credit for the three eggs. She adds numbers in her careful hand, then looks up at him. He points to the bread on the shelf, the coffee, the salt. She nods, reaches for the items, weighs them on the scale. The scale tips, settles. The bread is soft, the coffee ground fine, the salt white as river sand.
 
 She adds a line to the ledger, her writing neat, unhurried. He watches her hand move, the page crowded with names and numbers. The ledger is thick, its pages yellowed, its binding cracked. Every transaction, every debt, every payment recorded in her careful script.
 
@@ -38,4 +38,4 @@ The road back to the river is dusty, the trees offering little shade. He shifts 
 
 Behind him, the store settles into the afternoon quiet. Ada tends her ledger, sweeps her floor. The dog finds shade and sleeps.
 
-He reaches the path to his shack, the earth worn smooth by his feet. The eggs are gone, traded for what he needs. The river waits, heavy with silt, its current moving toward distant waters. The fishing line hangs in the water, and the day stretches ahead. 
+He reaches the path to his shack, the earth worn smooth by his feet. The three eggs are gone, traded for what he needs. The river waits, heavy with silt, its current moving toward distant waters. The fishing line hangs in the water, and the day stretches ahead. 
