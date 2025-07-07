@@ -8,17 +8,13 @@ He runs for the shed behind the mill, his boots slipping on the wet earth. The s
 
 Inside, darkness thick, air heavy with the smell of wet earth and oil. The shed is cramped, filled with machinery—rusted gears, broken tools, lengths of chain that catch what little light filters through the gaps in the walls. Water drips through the roof in places, pooling on the dirt floor.
 
-Mara is already there, sitting on a wooden crate, arms folded, eyes on the door. She nods when he enters, makes room without speaking. Her hair is damp, her dress clinging to her frame. She glances briefly toward the mill house through the gaps in the walls, then settles back. A small canvas bag sits beside her, carefully positioned away from the dripping water. The bag is packed tight, its drawstring pulled close.
+Mara is already there, sitting on a wooden crate, arms folded. She nods when he enters, makes room without speaking. Her hair is damp, her dress clinging to her frame. Through gaps in the walls, the mill house stands dark. A small canvas bag sits beside her, drawstring pulled close, positioned away from the drips.
 
 Outside, the rain continues its assault. The mill wheel creaks and groans, turned by the swollen stream. Lightning flashes, the world white for a moment, revealing the shed's contents in stark detail—the rust, the decay, the remnants of work once done.
 
 They sit in silence, listening to the storm. The air is close, humid, filled with the scent of rain and earth and something else—the metallic smell of old machinery, the mustiness of a place long unused. A rat scurries across the floor, disappearing into the shadows.
 
-Thunder rolls overhead, shaking the tin roof. She shifts on the crate, her movements careful, economical. He leans against the wall, feeling the rough wood against his back. The storm shows no signs of stopping.
-
-She stands, moves closer, her movements practical, unhurried. No words pass between them. He does not resist, does not question. She has timed this as carefully as her appearances in doorways, her strategic movements through the mill house. 
-
-The rain continues, masking sound. Lightning flashes again, throwing their shadows against the walls. The storm is the only witness.
+Thunder rolls overhead, shaking the tin roof. She shifts on the crate, stands, moves closer. No words pass between them. The rain continues, masking sound. Lightning flashes again, throwing their shadows against the walls. The storm is the only witness.
 
 After, she dresses without looking at him, her movements efficient, matter-of-fact. He buttons his shirt, stares at the floor. The rain slows to a steady patter, then to scattered drops. The storm is passing, leaving the world washed and clean.
 
@@ -36,4 +32,4 @@ The river waits, brown and swollen with rain, carrying the storm's runoff toward
 
 He reaches his shack, pushes open the door, steps inside. The familiar smell of old wood and river air greets him. The storm has passed, and the world has returned to its usual rhythm. He lies down on the narrow bed, listens to the rain's last drops on the roof, and waits for sleep to come.
 
-Outside, the night continues. The mill wheel turns, the river flows, and the world endures. The storm has washed the air clean, leaving the morning fresh and cool. The river still runs toward the sea, and the night still holds its secrets.
+Outside, the night continues. The mill wheel turns, the river flows, and the world endures. The storm has washed the air clean.

@@ -1,6 +1,6 @@
 # Chapter 4: Everything's Gone
 
-The wheel turns, slow and deliberate, its wooden spokes dark with water. The mill sits where the creek meets the river, its stone foundation green with moss, its walls weathered gray. The wheel has turned for forty years, grinding grain when there is grain to grind, marking time when there is not.
+The wheel turns in the current, wooden spokes dark with water. The mill sits where creek meets river, stone foundation green with moss, walls weathered gray. Water flows steady through the wheel's channels, driving the mechanism within.
 
 He walks the path beside the creek, boots squelching in the mud. The miller sometimes has work—heavy sacks, small repairs, tasks that might pay in coins rather than credit. The work comes and goes, depending on the miller's mood and the season's demands.
 
@@ -16,7 +16,7 @@ The work is simple but heavy. A few sacks wait by the door, each one marked with
 
 "Mind the Henderson sack," the miller says. "They'll complain either way."
 
-Mara appears in the doorway that leads to the mill house, her movements careful, deliberate. She carries a tray—bread, cheese, a cup of water. Her dress is simple, faded blue, her hair pulled back severe. She's perhaps thirty, with the kind of tiredness that comes from years, not days. She sets the tray on the miller's table without meeting his eyes.
+Mara appears in the doorway that leads to the mill house, her movements careful, deliberate. She carries a tray—bread, cheese, a cup of water. Her dress is simple, faded blue, her hair pulled back severe. She shows tiredness that comes from years, not days. She sets the tray on the miller's table without meeting his eyes.
 
 "About time," the miller says, his voice different now. Sharper. "Where's the butter?"
 
@@ -34,10 +34,10 @@ The deliveries are quick—Henderson's farm, then Ada's store. Mrs. Henderson ch
 
 The return trip is easier, the cart empty. The miller waits, counting coins twice, making marks. "Two bits," he says, pressing the coins into his palm. "Come back next week. Might have something."
 
-The coins are cold, few, real. He pockets them, nods, turns to go. In the doorway to the mill house, Mara appears again, her movements careful, strategic. She watches him leave, her expression unreadable. He nods to her, brief but acknowledged. She does not respond, but something in her posture softens.
+The coins are cold, few, real. He pockets them, nods, turns to go. In the doorway to the mill house, Mara appears again, her movements careful, strategic. She watches him leave, her expression unreadable. He nods to her. She does not respond, but something in her posture softens.
 
 The path back to the river is quiet, the afternoon light slanting through the trees. Behind him, the mill wheel turns, grinding grain, marking time. The sound fades as he walks, replaced by the whisper of wind through the leaves.
 
-At the river, he stands on the dock, coins in his pocket, the day's work done. The water moves past, brown and slow, carrying its burden of silt and debris. He checks his fishing line, empty as always, and settles into the familiar rhythm of evening. The coins make a small sound when he moves, a reminder of the day's work.
+At the river, he stands on the dock, coins in his pocket. The water moves past, brown and slow, carrying its burden of silt and debris. He checks his fishing line, empty as always, and settles into the familiar rhythm of evening. The coins make a small sound when he moves.
 
-Behind him, the mill wheel turns, out of sight but not out of mind, grinding grain and marking time in a world that moves forward regardless of what happens in the shadows, in the quiet spaces between the turning spokes. Night falls, and the world endures. 
+Behind him, the mill wheel turns, out of sight but not out of mind, grinding grain and marking time in a world that moves forward regardless of what happens in the shadows, in the quiet spaces between the turning spokes. 

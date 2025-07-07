@@ -6,7 +6,7 @@ The path bends toward the square, dust rising with each step. The church stands 
 
 People gather in twos and threes, heads bowed, voices low. Faded but clean, the women wear their best dresses, hair pinned back. The men carry worn Bibles, their shoes polished despite the scuffs. Children fidget beside their parents, tugging at starched collars and ribbon ties.
 
-He slows his pace, then stops, standing apart as Brother Calvin greets each arrival with a practiced smile, collar askew, voice loud in the morning air. Calvin is a big man, thick around the middle, his face flushed with heat and conviction. His handshake is firm, his gaze intense, his words quick and certain. His eyes linger longer on the younger women, the smile deepening just slightly before returning to its practiced warmth.
+He slows his pace, then stops, standing apart as Brother Calvin greets each arrival with a practiced smile, collar askew, voice loud in the morning air. Calvin is a big man, thick around the middle, his face flushed with heat and conviction. His handshake is firm, his gaze intense, his words quick and certain. His eyes lingered longer on the younger women, the smile deepening just slightly before returning to its practiced warmth.
 
 "Mary, good to see you. Blessed morning."
 
@@ -16,15 +16,15 @@ The congregation files inside, shoes scraping the steps, hymnals clutched tight.
 
 Inside, the hymns begin—off-key, slow, the words familiar. Through the open door, he catches fragments of song, voices raised in hope or habit. The piano is out of tune, its keys yellow with age, its sound thin in the morning air. The congregation sings with more effort than joy.
 
-Brother Calvin's voice rises above the rest, calling for prayer. The people bow their heads, some with eyes closed, some with eyes on the floor. Calvin prays for the community, for the harvest, for the souls of those who have strayed. His voice carries through the open door, rich and rolling, practiced in its cadence.
+Brother Calvin's voice rises above the rest, calling for prayer. Heads bow. Some eyes close, others fix on the floor. Calvin prays for the community, for the harvest, for the souls of those who have strayed. His voice carries through the open door, rich and rolling, practiced in its cadence.
 
 "Lord, we ask for Your blessing on this community, on these faithful souls who gather in Your name. Watch over our neighbors, those who struggle with pride and sin, those who turn away from Your light. Guard us from the temptations that lead us astray, from the paths that divide us from righteousness."
 
-The words drift out into the morning air, mixing with the sound of insects and the distant call of a train. He leans against the fence, watching the building, listening to the ritual inside. A dog wanders past, sniffing at the church steps, then moving on.
+The words mix with insect buzz and a train's distant whistle. He leans against the fence. A dog sniffs at the church steps, moves on.
 
-The service continues, Calvin's voice rising and falling like the tide. He speaks of sin and redemption, of the river's memory and God's judgment. The congregation responds with murmurs of agreement, their voices soft and weary. Some shift in their seats, others fan themselves with hymnals. His words drift toward themes of community order, of proper conduct, of the dangers of charity without wisdom.
+Calvin's voice rises and falls. He speaks of sin and redemption, of the river's memory and God's judgment. Murmurs of agreement answer him, soft and weary. Bodies shift in pews. Hymnals fan hot air. His words turn to community order, proper conduct, the dangers of charity without wisdom.
 
-Through the door, he can see the backs of heads, the bent shoulders of people seeking comfort or answers. The pews are not full, but those who come do so with purpose. Mrs. Ada Bell sits near the front, her back straight, her attention fixed on Calvin's words. The mother from the store sits near the back, her child beside her, both quiet and still.
+Through the door, rows of bent shoulders, bowed heads. The pews hold gaps, but those present sit with purpose. Mrs. Ada Bell near the front, spine straight, eyes on Calvin. The mother from the store in back, her child beside her, both still as stone.
 
 A woman weeps quietly on the steps, her shoulders shaking with each sob. Her dress is patched at the elbows, her shoes worn thin. She holds a handkerchief to her face, trying to muffle the sound. She sits alone on the step.
 
@@ -48,6 +48,6 @@ He pauses beside her, sets down a small wrapped bundle on the altar rail. "For t
 
 He pushes away from the fence, the square emptying, the church settling back into quiet. The service is over, its echoes lingering in the air.
 
-He turns away, resuming his path, the day moving on. His boots scrape the packed dirt, the dust rising with each step. The path leads past the square, beyond the church, toward the sound of grinding stones and the wheel that turns in the shallow water.
+He turns away, resuming his path, the day moving on. His boots scraped the packed dirt, the dust rising with each step. The path led past the square, beyond the church, toward the sound of grinding stones and the wheel that turns in the shallow water.
 
-Behind him, the church stands empty, its doors closed, its bell silent. The square is quiet, the morning sun casting long shadows across the dirt. Ahead, the mill waits, its wheel turning in the current. 
+Behind him, the church now empty, its doors closed, its bell silent. The square is quiet, the morning sun casting long shadows across the dirt. Ahead, the mill waited, its wheel turning in the current. 

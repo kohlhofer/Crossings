@@ -1,39 +1,39 @@
 # Chapter 5: Silver Flash
 
-Mist clings to the water, blurring the far bank. He pushes the boat from the dock, oar dipping, river slow and heavy beneath him. Old, its wood soft with age, the boat's bottom is scarred and stained. Water seeps through the gaps, pooling around his feet, but it holds. It floats.
+Autumn light slants across the water. He pushes the boat from the dock, oar dipping, river slow and heavy beneath him. Old, its wood soft with age, the boat's bottom is scarred and stained. Water seeps through the gaps, pooling around his feet, but it holds. It floats.
 
-The current carries him past the factory—windows broken, walls streaked with rust. The building looms through the mist, its skeleton of steel and iron dark against the gray sky. Laughter rings out, sharp in the morning air, echoing off the water. A figure climbs the girders, quick and fearless, vanishing and reappearing in the mist.
+The current carries him past the factory—windows broken, walls streaked with rust. The building rises against the softening sky, its skeleton of steel and iron catching the late light. Laughter rings out, clear in the quiet air, echoing off the water. A figure climbs the girders, quick and fearless, moving between light and shadow.
 
-He watches as the figure moves through the structure, leaping from beam to beam. Red fabric flashes—a scarf or shirt tied around the waist. The movements are fluid, confident, reckless. The figure pauses at the top, arms spread wide, then drops something into the water below. A splash, then more laughter. The figure disappears into the maze of metal and shadow.
+He watches as the figure moves through the structure, leaping from beam to beam. Red fabric flashes—a scarf or shirt tied around the waist. The movements are fluid, confident, reckless. The figure pauses at the top, arms spread wide, then drops something into the water below. A splash, then more laughter. The figure disappears into the maze of metal.
 
-He rows in silence, the river wide and brown, reeds brushing the hull. The water tastes of mud and rain, of upstream storms and downstream mysteries. Cattails bend in the slight breeze, their brown heads heavy with seed. A heron lifts from the shallows, wings beating slow, vanishing into the fog. Its cry echoes across the water, lonely and wild. Dragonflies skim the surface, their wings catching what little light filters through the mist.
+He rows in silence, the river wide and brown, reeds brushing the hull. The water tastes of fallen leaves and earth, of upstream woods and downstream mysteries. Cattails bend in the slight breeze, their brown heads heavy with seed. A heron lifts from the shallows, wings beating slow against the cooling air. Its cry echoes across the water, lonely and wild. Dragonflies skim the surface, their wings catching amber light.
 
-The oar cuts through the surface, disturbing the reflection of sky and mist. He drifts, lets the current decide. The world narrows to water, wood, and breath. The river bottom is invisible, lost in brown depths that could be three feet or thirty.
+The oar cuts through the surface, disturbing reflections of sky and cloud. He drifts, lets the current decide. The world narrows to water, wood, and breath. The river bottom is invisible, lost in brown depths that could be three feet or thirty.
 
-A fish jumps, silver flash in the brown water, then gone. Ripples spread outward, catching the light, then fading. He considers the fishing line coiled in the bottom of the boat, the hooks wrapped in cloth, but does not reach for them. The river will give what it gives. The acceptance he shows the world masks how his stomach contracts with hunger, how his hands want to reach for the line.
+A fish jumps, silver flash in the brown water, then gone. Ripples spread outward, catching late light, then fading. He considers the fishing line coiled in the bottom of the boat, the hooks wrapped in cloth, but does not reach for them.
 
-Reed appears, boat gliding from the shadows. They pass close, eyes meeting for a moment. No words. His skin is dark from sun and work, his hands scarred from years of labor. He nods, moves on, swallowed by mist.
+Reed appears, boat gliding from the bank's shadow. They pass close, eyes meeting for a moment. No words. His skin is weathered, his hands scarred from years of labor. He nods, moves on, the current taking him downstream.
 
 Reed's boat leaves a small wake, gentle waves that rock his vessel. The old man's strokes are steady, efficient. He knows these waters, these currents, these moods of the river.
 
-A figure appears on the riverbank, moving quick and sure. A wave, a flash of hand, then gone, running along the river's edge. Something bright falls from her pocket as she runs—a coin or bottle cap catching the light. He watches, a line of energy against the gray. The figure moves with purpose, following the water's edge, disappearing into the trees.
+Eli appears on the riverbank, moving quick and sure. A wave, a flash of hand, then gone, running along the river's edge. Something bright falls from her pocket as she runs—a coin or bottle cap catching light. He watches, a line of movement against the autumn trees, disappearing into shadow.
 
-The river moves on, indifferent. A turtle surfaces, head breaking the water, eyes dark and ancient. It watches the boat pass, then sinks back into the depths. The mist begins to lift, revealing more of the far shore, more of the factory's broken windows.
+The river moves on, indifferent. A turtle surfaces, head breaking the water, eyes dark and ancient. It watches the boat pass, then sinks back into the depths. The far shore softens in the fading light, the factory's broken windows turning gold.
 
-He lets the boat drift, the oar resting across his knees. The wood is warm from his hands, smooth and worn. The day opens, slow and uncertain, the river carrying him nowhere in particular. A crow calls from the trees, its voice harsh in the morning air.
+He lets the boat drift, the oar resting across his knees. The wood is cool beneath his hands, smooth and worn. The afternoon settles toward evening, the river carrying him nowhere in particular. A crow calls from the trees, its voice carrying in the clear air.
 
-The factory grows smaller behind him, its broken windows dark. The figure is gone, dissolved back into shadow and steel. The river curves ahead, bending toward unknown shores, carrying him deeper into the morning.
+The factory shrinks behind him, its broken windows catching the last warmth. Eli is gone, dissolved into shadow and steel. The river curves ahead, bending toward unknown shores, carrying him deeper into the lengthening day.
 
 Water laps against the hull, a steady rhythm that matches his breathing. The boat moves with the current, following the river's path. He does not fight it, does not try to direct its course.
 
 A kingfisher dives, emerging with a fish in its beak. It flies to a dead branch, shakes its catch, then swallows it whole.
 
-The mist thickens, then thins, revealing glimpses of the shore. An old tire hangs from a tree, a rope swing left by children. A dock extends into the water, its boards green with moss. Life continues along the river's edge, marked by small signs of human presence.
+The first breath of evening cools the air. A tire hangs from a tree, a rope swing left unused. A dock juts into the water, its boards green with moss. Empty cans rust in the weeds. A broken chair lies half-buried in silt.
 
-He passes a sandbar, its surface dotted with the tracks of raccoons and possums. The water is shallower here, clearer, revealing the bottom strewn with rocks and fallen branches. A snake sunbathes on a log, its scales catching the filtered light.
+He passes a sandbar, its surface dotted with the tracks of raccoons and possums. The water is shallower here, clearer, revealing the bottom strewn with rocks and fallen branches. A snake slides from a log, leaving ripples in the quiet water.
 
-The boat drifts on, following the river's lazy curve. He sits in the stern, oar across his knees, watching the world pass by. The water carries him forward, toward whatever the day will bring.
+The boat drifts on, following the river's lazy curve. He sits in the stern, oar across his knees. The water carries him forward.
 
-Behind him, the factory disappears into the mist, its mysteries intact. The figure is gone, but their energy remains in the disturbed air, in the echo of laughter off the water.
+Behind him, the factory stands quiet against the sky, its mysteries intact. The echo of laughter off the water.
 
-The river stretches ahead, murky and wide, thick with fallen branches and yesterday's rain. He drifts with it, following the water's course. 
+The river stretches ahead, brown and wide, branches caught in the current. He drifts with it, following the water's course. The first wisps of evening mist rise from the cooling surface. 
