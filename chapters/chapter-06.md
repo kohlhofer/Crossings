@@ -2,7 +2,7 @@
 
 The house sags at the edge of town, porch littered with bottles and broken chairs. The paint is gone, leaving weathered wood gray and worn. A sign hangs crooked by the door, letters too faded to read. He doesn't mean to go in.
 
-Eli is ahead, hands in her pockets, shoulders hunched against the wind. She moves with purpose, her steps quick on the broken porch boards. She glances back once, waits at the door. He follows, not thinking.
+Eli is ahead, hands in her pockets, shoulders hunched against the evenig breeze. She moves with purpose, her steps quick on the broken porch boards. She glances back once, waits at the door. He follows, not thinking.
 
 Inside, the air is thick with sweat and cheap spirits. The smell hits him first—stale beer, unwashed bodies, smoke from cigarettes rolled too thin. Floorboards creak under his weight, sticky with spilled drinks. A single bulb hangs from the ceiling, casting harsh shadows that make faces hard to read.
 
@@ -28,7 +28,7 @@ Lila laughs, sharp and sudden, breaking the hush. The sound cuts through the roo
 
 Eli laughs at something Harlan mutters, the sound sharp and reckless. She tosses back her drink, sets the glass down hard. The second glass sits untouched beside her elbow. She spins on her stool, surveying the room with bright, restless eyes.
 
-Amos slides a glass across the bar, liquid dark and nameless. The glass is chipped, its surface cloudy with age. He drinks, the taste sharp, unfamiliar. The alcohol burns his throat, settles hot in his stomach. He does not ask what it is.
+Harlan slides a glass across the bar, liquid dark and nameless. The glass is chipped, its surface cloudy with age. He drinks, the taste sharp, unfamiliar. The alcohol burns his throat, settles hot in his stomach. He does not ask what it is.
 
 Another man enters, moves toward the table by the door. The miller looks up from his drink, flour still dusting his sleeves. "My chair," he says, voice rough with drink and the day's frustrations. The newcomer sits anyway. A shove, a chair scraping. The miller grabs at the man's shirt, thick hands used to controlling mill machinery now trying to control flesh. They stumble near the entrance.
 
@@ -40,11 +40,11 @@ The fight winds down, both men too tired to continue. The miller retreats to the
 
 Eli slides the untouched glass toward him, liquid sloshing. He shakes his head. She shrugs, pulls it back, drinks it herself in two quick swallows. "Waste nothing," she says, wiping her mouth with the back of her hand. The words carry an edge.
 
-Another glass appears, pushed his way without comment. He drinks again, the burn settling in his chest. The room grows warmer, or perhaps the alcohol makes it seem so. Conversations resume, quiet and broken.
+Harlan, noticing the empty glasses, pushes another his way without comment. He drinks again, the burn settling in his chest. The room grows warmer, or perhaps the alcohol makes it seem so. Conversations resume, quiet and broken.
 
-A woman enters, her coat soaked through, her shoes squelching on the floor. She looks around, finds no welcome, and leaves again. The door slams behind her, shaking the windows. Harlan mutters something about keeping the damp out, then returns to his bottle.
+A woman enters. She looks around, finds no welcome, and leaves again. The door slams behind her, shaking the windows. Harlan mutters something about keeping the damp out, then returns to his bottle.
 
-He watches it all, saying nothing. The room is full of people who have nowhere else to go, nothing else to do. They drink because it helps, or because it doesn't matter, or because the alternative is worse.
+He watches it all, saying nothing. The room is full of people who have nowhere else to go, nothing else to do. They drink because it helps, or because it doesn't matter.
 
 Time passes. The glasses multiply, empty and forgotten. Lila's humming grows louder, more discordant. Amos continues his muttered conversation with the floor. The man by the door returns to his weeping. Others come and go, faces blurred by alcohol and shadow.
 

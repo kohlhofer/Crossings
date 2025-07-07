@@ -1,45 +1,35 @@
 # Chapter 11: Downstream
 
-Dusk settles over the river, the water gold and gray. He sits on the dock, feet dangling above the surface, watching the light change. The world is quiet except for the call of a distant bird, its voice carrying across the water.
+First light bleeds into the river, the water still dark but softening to gray. He sits on the dock, feet dangling above the surface, watching night retreat. The world holds the quiet of false dawn, broken only by the call of an early bird, its voice carrying across the water.
 
-The shack behind him stands dark, its windows reflecting the evening sky. The stove is cold, its ashes settled. The bed waits, narrow and familiar. On the table, bread and salt sit untouched, provisions for tomorrow or whenever hunger calls.
+The shack behind him stands silent, its windows catching the first pale light. The stove is cold, its ashes settled. The bed lies untouched, narrow and waiting. On the table, bread and salt sit undisturbed, provisions for when hunger returns.
 
-A train whistle sounds in the distance, mournful and distant. The sound drifts across the water, then fades, leaving only the soft lap of waves against the dock. A fish jumps, rings spreading outward, then disappearing into the current.
+A train whistle sounds in the distance, too early for the morning run. The sound drifts across the water, then fades, leaving only the soft lap of waves against the dock. A fish jumps, rings spreading outward, then disappearing into the current.
 
-He watches the sun slip behind the empty factory across the river. The building stands silhouetted against the darkening sky, its broken windows dark. The girders are empty now, no figures climbing through the ruins. Even the restless have found their rest.
+He watches darkness lift from the empty factory across the river. The building emerges slowly from night, its broken windows beginning to catch the growing light. The girders stand stark against the lightening sky, still holding the shadows of those who climb through the ruins.
 
 A moment passes. His hand lifts slightly from his knee, then settles back.
 
-The sky bruises purple and orange, clouds catching the last light. Swallows dive for insects above the water, their cries sharp in the evening air. A heron stands motionless in the shallows, waiting for the unwary fish.
+The sky shifts from black to deep blue, then to pearl gray, clouds catching the first hint of sun. Early swallows dive for insects above the water, their cries sharp in the dawn air. A heron stands motionless in the shallows, already at its morning vigil.
 
-The river moves, slow and indifferent, carrying branches, leaves, the debris of the day. A bottle bobs past, then a piece of wood worn smooth by water. Something red catches on the dock post—fabric, faded and torn, freed from whatever held it upstream. All of it flows downstream, toward the sea, part of the river's endless cargo.
+The river moves, slow and indifferent, carrying branches, leaves, the night's debris. A bottle bobs past, then a piece of wood worn smooth by water. Something red catches on the dock post—fabric, faded and torn, freed from whatever held it upstream. All of it flows downstream, toward the sea, part of the river's endless cargo.
 
-The air cools, carrying the scent of mud and growing things. The smell of wood smoke drifts from the town's chimneys, mixing with the earthy dampness of the riverside. Fireflies begin to blink in the grass, their lights scattered like fallen stars. A dog barks somewhere in the town, then falls silent. The wind picks up, rustling the dry leaves that cling to the cottonwood trees.
+The air stays cool with night's remnants, carrying the scent of mud and dew-wet grass. Mist clings to the water's surface, thin wisps rising and dissolving. The last fireflies blink out in the grass as their night watch ends. A dog barks somewhere in the sleeping town, then falls silent. The wind picks up, stirring the moisture-heavy leaves of the cottonwood trees.
 
-He stands, brushes dirt from his pants, listens to the hush that settles over the water. The dock creaks beneath his feet, old wood adjusting to the evening temperature. He checks the fishing line one more time—still empty, hook clean and waiting.
+He stands, brushes dirt from his pants, listens to the hush that lingers over the water. The dock creaks beneath his feet, old wood still holding night's chill. He checks the fishing line one more time—still empty, hook clean and waiting.
 
-The path to the shack is worn smooth, the earth shaped by his steps. He walks slowly, in no hurry to reach the door. The evening is peaceful, full of small sounds and settling shadows.
+The path to the shack is worn smooth, the earth damp with morning dew. He walks slowly, in no hurry to reach the door. The dawn is peaceful, full of small sounds and retreating shadows.
 
-Inside, the shack smells of old wood and river air. He lights the lamp, its flame casting dancing shadows on the walls. The mirror above the basin reflects his face—stubble, weathered skin, gray eyes. Cold water against his face as he washes.
+Inside, the shack smells of old wood and river air. He doesn't need the lamp now, pale light finding its way through the windows. The mirror above the basin reflects his face—stubble, weathered skin, gray eyes. Cold water against his face as he washes away the night.
 
-The coffee tin sits on the shelf, coins making their thin sound when he counts them. Enough for tomorrow. Fishhooks and line fill the mason jar, tools of his trade. The coil of net waits for mending, its gaps patient for his attention.
+The coffee tin sits on the shelf, coins making their thin sound when he counts them. Enough for today. Fishhooks and line fill the mason jar, tools of his trade. The coil of net waits for mending, its gaps patient for his attention.
 
-He moves to the window, looks out at the river. The water is dark now, its surface barely visible in the gathering night. Stars begin to appear, first one, then many, their light scattered on the current. The factory is a dark shape against the sky, its mysteries intact.
+He moves to the window, looks out at the river. The water brightens slowly, its surface textured by the strengthening light. The factory emerges fully now, its mysteries changing with the day.
 
-Somewhere across the water, a light flickers. The light wavers, then disappears, swallowed by the darkness.
+Somewhere across the water, smoke rises—thin and blue against the morning sky, then disappears into the growing light.
 
-He sits on the edge of the bed, removes his boots, sets them beside the door. Cool beneath his feet, the floor. Outside, the river continues its flow, carrying debris downstream.
+He sits on the edge of the bed, removes his boots, sets them beside the door. Cool beneath his feet, the floor. Outside, the river continues its flow, carrying the night downstream.
 
-An owl calls from the trees, answered by another from across the water. Night hunters begin their work. The world settles into its nocturnal rhythm.
+An owl makes its last call from the trees, while morning birds begin their chorus. Night hunters yield to day's creatures. He lies down on the narrow bed, pulls the thin blanket over him. The pillow is flat, the mattress hard. Through the window, early light catches on the water, turning darkness to silver.
 
-He lies down on the narrow bed, pulls the thin blanket over him. The pillow is flat, the mattress hard, but they are familiar, comfortable in their simplicity. Through the window, he can see stars reflected on the water, points of light in the vast darkness.
-
-The river breathes in the dark, rising and falling with each small wave. Somewhere, a night bird calls. Somewhere, the train moves through the darkness, its whistle fading into distance. Somewhere, the world continues its ancient turning.
-
-He closes his eyes, listens to the water against the bank. The sound is steady, familiar, constant.
-
-Night deepens. The river flows on, its surface broken by the occasional fish.
-
-In the darkness, the fishing line hangs in the current, patient and still. The chickens roost in their coop, the red hen favoring her left leg. The town sleeps, its people dreaming.
-
-The shack settles into the night, its occupant breathing slow and steady. Outside, the river runs on, endless and unchanging. 
+The chickens begin to stir in their coop. The shack creaks, wood warming in the morning air. The line hangs in the current, steady and waiting. 

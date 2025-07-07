@@ -16,15 +16,15 @@ He takes the coffee tin from the shelf, counts the coins inside. Enough for toda
 
 Outside, the air is thick with mist. The grass is wet, the path to the river worn by his own feet. The stones are placed where he placed them, the earth shaped by his passing.
 
-Mist hangs low, blurring the line between water and land. The river runs thick with mud, carrying what it always carries—branches, leaves, the occasional fish swimming belly-up. Upstream, the rain has been heavy. The water is higher today, lapping at the dock's edge with a sound like whispers.
+Mist hangs low, blurring the line between water and land. The river runs thick with mud, carrying branches, leaves, a fish swimming belly-up. The water laps at the dock's edge with a sound like whispers.
 
-Across the river, the factory stands empty, windows broken, a hollow shell. Once, men walked those girders, hammered steel, built things that lasted. Now only the frame remains, rusted. The machines were sold, the workers scattered. The building stands as a monument to what was.
+Across the river, the factory stands empty, windows broken. Rusted girders reach into the gray sky. Broken machines lie scattered in the weeds. The frame rises against the clouds, metal stark against the morning light.
 
-Someone moves among the girders—quick, restless, climbing the rusted frame, disappearing, reappearing, a flash of movement in the gray. A figure in the dawn light, moving, always across the river.
+He recognizes Eli's shape among the girders—quick, restless, climbing the rusted frame with familiar grace. She disappears, reappears, a flash of movement in the gray. Her jacket catches the dawn light as she moves, always across the river.
 
-The figure is too far to see clearly, but the movement is urgent, purposeful, searching for something in the bones of the old factory. Sometimes the figure stops, becomes still, and seems to look across the water. Sometimes it waves, though whether at him or at someone else, he cannot say.
+The distance blurs her features, but her movements are urgent, purposeful. Sometimes she stops, becomes still, seems to look across the water. Sometimes she waves, though whether at him or at someone else, he cannot say.
 
-He does not wave back. 
+He does not wave back.
 
 The walk to the dock takes him past the chicken coop, where the birds gather near the fence. The red hen limps forward, hopeful. He reaches into his pocket, finds the crumbs saved from his bread. Hard crumbs, barely worth saving, but the chickens receive them eagerly. The red hen gets most of them.
 
@@ -44,14 +44,14 @@ The boat drifts past, and Reed disappears into the mist. The river carries them 
 
 He remains on the dock, listening to the water, watching the mist thin and rise. Soon the sun will break through, and the day will begin in earnest. The town will wake, children will run to the river, women will hang laundry, men will gather on porches.
 
-He stands, brushes dirt from his knees, and checks the line once more. Still nothing. The hook dangles in the current. He does not reel it in. The river will decide.
+He stands, brushes dirt from his knees, and checks the line once more. Still nothing. The hook dangles in the current. He does not reel it in.
 
-Behind him, the chickens have finished their crumbs and returned to their scratching. The red hen still favors her left leg, but she moves with the others. The rooster watches from his perch on the fence post, chest puffed, though the sun has not yet crowned him king of anything.
+Behind him, the chickens scratch in the dirt. The red hen moves with the others, favoring her leg. The rooster watches from the fence post.
 
-The mist begins to lift, revealing the far shore, the broken factory, the empty places where people once worked and lived and hoped. The figure is gone now, dissolved into shadow and morning.
+The mist thins. The far shore emerges—broken factory, empty windows, metal against sky. Eli is gone, only shadow remains.
 
-He turns from the river, walks the worn path back to the shack. The day stretches ahead, long and familiar. There will be work to do—nets to mend, wood to gather, small repairs that keep the world from falling apart. There will be the store to visit, if the coins stretch far enough. There will be the evening, and the line to check again, and the same brown water carrying the same mysterious cargo downstream.
+He turns from the river, walks the worn path back to the shack. The day stretches ahead. Nets need mending, wood waits to be gathered. The store might have what he needs, if the coins are enough. Evening will come, and the line will need checking, and the brown water will carry what it carries.
 
-The train whistle sounds again, distant and mournful. He listens until it fades, then steps inside the shack and closes the door. The latch clicks. The day begins.
+The train whistle sounds again, distant and fading. He listens until it's gone, then steps inside and closes the door. The latch clicks.
 
-Through the window, the river runs on, steady and eternal. 
+Through the window, the river moves past. 

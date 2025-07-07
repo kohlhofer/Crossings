@@ -1,49 +1,47 @@
 # Chapter 10: Ghost-Like
 
-Night falls heavy, the river black and wide. Stars pierce the darkness above, their light scattered on the water's surface. The air is sharp with the promise of frost, and bare branches rattle in the wind. He stands on the dock, lantern in hand, breath clouding in the cool air. The dock creaks beneath his weight, old wood settling into the night.
+Night falls heavy, the river black and wide. Stars pierce the darkness above, scattered light on water. The air carries frost's edge, and bare branches rattle. He stands on the dock, lantern in hand, breath clouding. The dock creaks beneath his weight.
 
-The air is thick with mist, carrying the scent of mud and rotting vegetation. Somewhere in the distance, a night bird calls. The river moves silently, its current invisible in the darkness, marked only by the occasional drift of leaves and debris.
+Mist thickens the air. Mud and rot fill his nose. A night bird calls. The river moves silent, current marked only by leaves and debris catching light.
 
-Reed's boat glides out of the darkness, silent as a shadow. The old man's oars dip slow and steady, barely disturbing the water. His expression is calm and patient, his movements economical. The boat appears ghost-like in the lantern light, its hull black against the water.
+Reed's boat slides from darkness, oars barely touching water. The old man's strokes come slow and steady. His face stays calm in lantern light, movements spare. The boat emerges black against black water.
 
-Reed gestures with a tilt of his head, and he steps into the boat. The vessel rocks beneath him, finding its new balance. The wooden seat is smooth and cold. Reed pushes off with his oar, and they slip away from the dock into the black water.
+Reed tilts his head. He steps into the boat. Wood rocks, finds balance. The seat feels smooth and cold. Reed pushes off, and they slip from the dock.
 
-They cross in silence, water lapping against the hull in a steady rhythm. The lantern casts a small circle of light around them, beyond which the world disappears into darkness. The river stretches wide here, its far bank lost in shadow and mist.
+They cross without words, water lapping hull-sides in rhythm. The lantern casts its circle, beyond which all fades to black. The far bank vanishes in shadow and mist.
 
-Reed rows with practiced ease, his oars cutting the water cleanly. His breathing is steady, unhurried. He knows these waters, these currents, these hidden dangers. The boat moves through the darkness, guided by sure movements.
+Reed rows with practice, oars cutting clean. His breathing stays even. The boat moves sure through darkness, following paths Reed knows.
 
-The far bank looms gradually out of the darkness, trees tangled, shadows deep. Something waits there, small and indistinct in the mist. The shape might be a person, might be a stump, might be nothing at all. The lantern light catches something—movement, or perhaps just the play of shadows on water. A flash of red, there and gone.
+The far bank rises slow from black, trees tangled overhead. Something waits there, small and strange in mist. The shape could be person, could be stump, could be nothing. Lantern light catches movement—or shadow playing on water. Red flashes, gone.
 
-Reed rows toward the bank, his oars steady. The boat slides up to the muddy shore with a soft scrape. Whatever waits does not move. In the uncertain light, it could be anyone, anything, or no one at all.
+Reed rows toward shore, oars steady. The boat scrapes mud with a soft sound. In the lantern's glow, Eli emerges from the shadows, her familiar shape becoming clear. She moves with careful steps down the muddy bank.
 
-He steps onto the bank, feet sinking into the soft mud. The lantern casts its circle of light, but beyond its reach, the darkness holds its secrets. A sound from the shadows—footsteps, perhaps, or the wind through the reeds. Boot soles scraping on wet stone. Something moves in the periphery of vision.
+Boot-scrape on wet rock, then she steps into the boat, finding her balance with practiced ease. The craft rocks once, settles. Reed pushes off, turning downstream, and she settles in the stern. Spirit-smell drifts between them, but Reed's hands stay true on oars.
 
-Reed pushes off from the bank, the boat rocking as it slips back into the current. He settles into the stern, and Reed turns the bow downstream. The old man rows steadily, carrying them both deeper into the night. The smell of spirits drifts faintly in the air between them, but Reed's hands remain steady on the oars.
+The boat passes a fallen tree, branches in water. Owls call and answer across the river. Night fills with small sounds—turtle sliding from log, something moving through reeds.
 
-The boat drifts past a fallen tree, its branches reaching into the water. An owl calls from somewhere in the darkness, answered by another from across the river. The night is alive with small sounds—the plop of a turtle sliding from a log, the rustle of something moving through the reeds.
+Reed's oars cut foam and floating things. The river carries its load—leaves, branches, occasional bottle or cloth. All moves together in dark, riding current toward sea.
 
-Reed's oars cut through patches of foam and floating debris. The river carries its cargo downstream—leaves, branches, the occasional bottle or piece of cloth. All of it moves together in the darkness, part of the river's endless journey to the sea.
+They pass under the bridge, stone arches black above. Their sound echoes brief, fades. The road crosses empty overhead.
 
-They pass under a low bridge, its stone arches dark against the sky. The sound of their passage echoes briefly, then fades. Above them, the road crosses empty and silent.
+A sound drifts over water—maybe humming, maybe river-voice rising falling. The tune sounds strange, like wind through reeds. It stops, leaves water-murmur, starts again. Its source stays hidden in dark.
 
-A sound drifts across the water—perhaps humming, perhaps only the river's voice rising and falling. The melody is strange, unfamiliar, like wind through reeds. Sometimes it stops, leaving only the water's murmur, then begins again. The source is uncertain, somewhere in the darkness.
+The lantern flickers in night wind. Shadows shift and dance. He watches Reed, watches water flow. No words pass between them.
 
-The lantern flickers, its flame dancing in the night breeze. Shadows shift and move, playing tricks with the eye. He watches Reed, watches the water flow past. He speaks no words, asks no questions. The journey is enough.
+They round a bend. A sand-spit shows in lantern light. Reed steers through shallows, oars finding way. The sand lies pale and fine, marked with night-creature tracks.
 
-They round a bend, and a spit of sand appears in the lantern light. Reed steers toward it, his oars guiding the boat through the shallow water. The sand is pale and fine, unmarked except by the tracks of raccoons and possums.
+Nothing waits but driftwood and mud-smell. Marsh grass grows thick beyond, then tree-dark rises.
 
-Nothing waits there but driftwood and the smell of mud. The shore is littered with river trash—bleached logs, plastic bottles, tangles of fishing line. The sand gives way to marsh grass, then to the dark line of trees beyond.
+Water splashes shallow, sudden. Movement in the shallows catches the lantern light. The sound dies. Eli's shape melts into the darkness. Tobacco scent drifts faint on night air.
 
-A splash from the shallows, sudden and quick. Footsteps, perhaps, or a night animal disturbed. The sound of someone moving through water, then silence. The darkness swallows whatever made it, leaving only the faint scent of tobacco smoke drifting on the night air.
+He raises his hand, palm open toward darkness. A gesture small and brief, directed at her retreating form.
 
-He raises his hand, palm open toward the darkness. A gesture small and brief, directed at nothing and everything. 
+From shadows comes her voice, quiet, uncertain. "Water's cold tonight." Words drift across space between, unguarded, edge gone soft.
 
-From the shadows comes a voice, quiet, uncertain. "Water's cold tonight." The words drift across the space between them, unguarded, without her usual edge. 
+Reed nods once. He pushes from sand, boat rocking free. The old man turns downstream, oars finding rhythm.
 
-Reed nods to him. He pushes off from the sand, the boat rocking as it slips back into the current. The old man turns the bow downstream, his oars finding their rhythm again.
+He settles back in the stern. Reed rows steady through dark. The lantern light shrinks against vast river-black.
 
-He remains in the boat, settling into the stern. Reed rows steadily, carrying them both deeper into the night. The lantern light grows smaller, more fragile against the vast darkness of the river.
+Behind them, sand-spit fades to shadow. Ahead, the river stretches endless. Night holds thick around them, full of silence, and nothing changes.
 
-Behind them, the spit of sand disappears into shadow. Ahead, the river stretches endlessly, carrying them toward unknown shores. The night is thick around them, full of secrets and silence, and the world remains unchanged.
-
-Water laps against the hull, a steady sound. Reed rows on, tireless, his face calm in the lantern light. He watches the darkness flow past, content to be carried by the current, by the night, by the patient water. In the distance, the first hint of dawn touches the horizon. 
+Water laps hull-sides, steady sound. Reed rows on, face calm in lantern light. He watches darkness flow past, content in current's carry. Far off, dawn touches sky-edge pale. 
