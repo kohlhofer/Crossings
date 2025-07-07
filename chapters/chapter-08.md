@@ -60,4 +60,4 @@ With that, he walks away, his boots squelching in the mud. He disappears down th
 
 Ada watches him go. She turns to him, but then thinks better of it. Instead, she nods and returns to the church, the empty cup in her hand.
 
-He stands, brushes the dampness from his clothes, and continues his walk through the town. Behind him, the church steps are empty again, marked only by the wet imprint of where two people sat.
+He stands, brushes the dampness from his clothes, and continues his walk through the town. Behind him, the church steps are empty again, marked only by the wet imprint of where people sat.

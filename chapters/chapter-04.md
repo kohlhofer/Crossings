@@ -40,4 +40,4 @@ The path back to the river is quiet, the afternoon light slanting through the tr
 
 At the river, he stands on the dock, coins in his pocket. The water moves past, brown and slow, carrying its burden of silt and debris. He checks his fishing line, empty as always, and settles into the familiar rhythm of evening. The coins make a small sound when he moves.
 
-Behind him, the mill wheel turns, out of sight but not out of mind, grinding grain and marking time in a world that moves forward regardless of what happens in the shadows, in the quiet spaces between the turning spokes. 
+Behind him, the mill wheel turns, out of sight but not out of mind, grinding grain and marking time.
