@@ -22,7 +22,7 @@ The distance blurs her features, but her movements are urgent, purposeful. Somet
 
 He does not wave back.
 
-The chickens gather at the coop as he passes. He scatters saved bread crumbs—hard, barely worth keeping, but the red hen limps forward eagerly, claiming most. In the nesting boxes, three eggs lie warm. He lifts them carefully, turns them in his palm. Good shells, no cracks. He slips them into his jacket pocket, cushioned by the worn fabric. Mrs. Ada Bell will give him credit for them, or maybe the proprietor at the bar needs them for the evening meal.
+The chickens gather at the coop as he passes. He scatters saved bread crumbs—hard, barely worth keeping, but the red hen limps forward eagerly, claiming most. In the nesting boxes, three eggs lie warm. He lifts them carefully, turns them in his palm. Good shells, no cracks. He slips them into his jacket pocket, cushioned by the worn fabric. Mrs. Ada Bell will give him credit for them, or Harlan at the bar will trade them for a meal.
 
 The dock creaks under his weight as he kneels at its edge. He checks the line left overnight—hook bare, bait gone, stolen by a turtle perhaps, or dissolved in the current. 
 
@@ -46,6 +46,6 @@ The far shore stands empty now. Where Eli moved among the girders, only shadow r
 
 He turns from the river, walks the worn path back to the shack. The day stretches ahead. The eggs need trading, work might be found at the mill. The store might have what he needs, if the coins are enough. Evening will come, and the line will need checking, and the brown water will carry what it carries.
 
-The train whistle sounds again, distant and fading. He listens until it's gone, then steps inside and closes the door. The latch clicks.
+The train whistle sounds again, distant and fading. He listens until it's gone, then steps inside. The latch clicks.
 
 Through the window, the river moves past. 

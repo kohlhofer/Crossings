@@ -1,6 +1,6 @@
 # Chapter 6: My Chair
 
-The house sags at the edge of town, porch littered with bottles and broken chairs. The paint is gone, leaving weathered wood gray and worn. A sign hangs crooked by the door, letters too faded to read. He doesn't mean to go in.
+The bar sags at the edge of town, porch littered with bottles and broken chairs. The paint is gone, leaving weathered wood gray and worn. A sign hangs crooked by the door, letters too faded to read. He doesn't mean to go in.
 
 Eli is ahead, hands in her pockets, shoulders hunched against the evenig breeze. She moves with purpose, her steps quick on the broken porch boards. She glances back once, waits at the door. He follows, not thinking.
 
