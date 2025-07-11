@@ -12,7 +12,7 @@ The mill door stands open, flour dust dancing in the morning light. Inside, the 
 
 The miller glances at him, considers. "Henderson's sack needs delivering. And the store." He jerks his head toward the door. "Cart's outside."
 
-The work is simple but heavy. A few sacks wait by the door, each one marked with a name, a weight, a price. He loads them with care, mindful of the flour within. His stomach contracts with emptiness, but his hands remain steady. The miller watches, counting, making marks in a ledger with a stub of pencil.
+Each sack waits by the door, marked with a name, a weight, a price. He lifts them one by one, muscles tensing against the weight of grain. His stomach contracts with emptiness, but his hands remain steady. The miller watches, counting, making marks in a ledger with a stub of pencil.
 
 "Mind the Henderson sack," the miller says. "They'll complain either way."
 
@@ -32,12 +32,10 @@ She nods, turns to go. The miller watches her walk away, his expression unreadab
 
 The deliveries are quick—Henderson's farm, then Ada's store. Mrs. Henderson checks the sack, counts out payment with careful fingers. Ada runs the flour through her fingers, testing its quality. "Good flour," she says. "Tell him I said so."
 
-The return trip is easier, the cart empty. The miller waits, counting coins twice, making marks. "Two bits," he says, pressing the coins into his palm. "Come back next week. Might have something."
+The sun rides higher as he pushes the empty cart back to the mill. The miller waits, counting coins twice, making marks. "Two bits," he says, pressing the coins into his palm. "Come back next week. Might have something."
 
-The coins are cold, few, real. He pockets them, nods, turns to go. In the doorway to the mill house, Mara appears again, her movements careful, strategic. She watches him leave, her expression unreadable. He nods to her. She does not respond, but something in her posture softens.
+The coins are cold, few, real. He pockets them, nods, turns to go. In the doorway to the mill house, Mara appears again, like a shadow at the edge of sight. She watches him leave, her expression unreadable. He nods to her. She does not respond, but something in her posture softens.
 
-The path back to the river is quiet, the afternoon light slanting through the trees. Behind him, the mill wheel turns, grinding grain, marking time. The sound fades as he walks, replaced by the whisper of wind through the leaves.
+The path back to the river lies quiet. Behind him, the mill wheel turns, grinding grain, marking time. The sound fades as he walks.
 
-At the river, he stands on the dock, coins in his pocket. The water moves past, brown and slow, carrying its burden of silt and debris. He checks his fishing line, empty as always, and settles into the familiar rhythm of evening. The coins make a small sound when he moves.
-
-Behind him, the mill wheel turns, out of sight but not out of mind, grinding grain and marking time.
+At the river, afternoon shadows stretch across the dock. He stands with coins in his pocket. The water moves past, brown and slow, carrying its burden of silt and debris. He checks his fishing line, empty as always. The coins make a small sound when he moves.

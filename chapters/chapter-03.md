@@ -1,8 +1,8 @@
 # Chapter 3: All Welcome
 
-The bell rings, cracked and uncertain, its sound drifting over the rooftops. He hears it from the path toward town, a dull summons that carries across the water. The bell is old, its bronze green with age. He keeps walking, boots scraping the packed dirt, headed for the mill road where work might be found.
+The bell rings, cracked and uncertain, its sound drifting over the rooftops. He hears it from the path toward town, a dull summons that carries across the water. He keeps walking, dust rising with each step, headed for the mill road where work might be found.
 
-The path bends toward the square, dust rising with each step. The church stands at the edge of the square, white paint peeling like old skin, steeple leaning slightly to the left. The building is weathered, its foundation cracked, its windows clouded with years of rain and sun. A sign by the door reads "All Welcome" in faded letters. Morning shadows stretch long across the packed earth, and the air is cool with the promise of heat to come. Cicadas drone in the oak trees, their song rising and falling like breath.
+The church stands at the edge of the square, white paint peeling like old skin, steeple leaning slightly to the left. The building is weathered, its foundation cracked, its windows clouded with years of rain and sun. A sign by the door reads "All Welcome" in faded letters. Morning shadows stretch across the ground, and the air is cool with the promise of heat to come. Cicadas drone in the oak trees, their song rising and falling like breath.
 
 People gather in twos and threes, heads bowed, voices low. Faded but clean, the women wear their best dresses, hair pinned back. The men carry worn Bibles, their shoes polished despite the scuffs. Children fidget beside their parents, tugging at starched collars and ribbon ties.
 
@@ -42,12 +42,10 @@ The doors open, and the congregation spills out, blinking in the bright light. T
 
 The people disperse, walking back to their homes, their farms, their daily struggles. The weeping woman has composed herself, clutching her handkerchief. She walks away alone, her steps careful, her head down.
 
-Ada returns to the building, helping to stack hymnals, to straighten pews. She moves with quiet efficiency, her service continuing beyond the formal worship. Calvin moves through the church, closing windows, adjusting chairs. Their paths cross near the altar. A moment of proximity, nothing more, but she steps aside, maintains distance. Her movements remain careful, measured. When a hymnal slips from her hands, she retrieves it quickly, avoiding his eyes. The efficiency masks the tremor in her fingers.
+Ada lingers after the others leave, moving through the empty pews to stack hymnals and straighten cushions. She works with quiet efficiency, her service continuing beyond the formal worship. Calvin moves through the church, closing windows, adjusting chairs. Their paths cross near the altar. A moment of proximity, nothing more, but she steps aside, maintains distance. Her movements remain careful, measured. When a hymnal slips from her hands, she retrieves it quickly, avoiding his eyes. The efficiency masks the tremor in her fingers.
 
 He pauses beside her, sets down a small wrapped bundle on the altar rail. "For the poor box," he says quietly. She nods, does not look at the bundle, but her hand brushes his as she reaches for another hymnal. The touch is brief, deliberate. She picks up the bundle, unwraps it partially—fabric, blue and worn soft. She wraps it again, places it carefully aside. "I'll see it gets where it needs to go," she says, voice barely above a whisper.
 
 He pushes away from the fence, the square emptying, the church settling back into quiet. The service is over, its echoes lingering in the air.
 
-He turns away, resuming his path, the day moving on. His boots scraped the packed dirt, the dust rising with each step. The path led past the square, beyond the church, toward the sound of grinding stones and the wheel that turns in the shallow water.
-
-Behind him, the church now empty, its doors closed, its bell silent. The square is quiet, the morning sun casting long shadows across the dirt. Ahead, the mill waited, its wheel turning in the current. 
+He turns toward the creek where it meets the river. Behind him, the church stands empty, doors closed, bell silent. Ahead, through the trees, the mill wheel turns, its steady rhythm a different kind of sermon. 
