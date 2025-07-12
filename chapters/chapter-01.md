@@ -40,11 +40,11 @@ He remains on the dock, listening to the water. Soon the day will begin in earne
 
 He stands, brushes dirt from his knees, and checks the line once more. Still nothing. The hook dangles in the current.
 
-Behind him, the chickens have returned to their scratching. The rooster watches from the fence post.
-
 The far shore stands empty now. Where Eli moved among the girders, only shadow remains.
 
-He turns from the river, walks the worn path back to the shack. The day stretches ahead. The eggs need trading, work might be found at the mill. The store might have what he needs, if the coins are enough. Evening will come, and the line will need checking, and the brown water will carry what it carries.
+Behind him, the chickens have returned to their scratching. The rooster watches from the fence post.
+
+He turns from the river, walks the worn path back to the shack. The day stretches ahead. The eggs need trading, work might be found at the mill. The store might have what he needs, if the coins are enough.
 
 The train whistle sounds again, distant and fading. He listens until it's gone, then steps inside. The latch clicks.
 

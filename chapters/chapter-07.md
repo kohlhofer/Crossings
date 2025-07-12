@@ -2,7 +2,7 @@
 
 The evening breeze strengthens, stirring leaves and carrying the first scent of rain. Storm clouds mass in the twilight, their weight pressing down on the town. He is caught in the open when the first drops fall.
 
-Rain falls hard, drumming on tin roofs, turning dust to mud and paths to streams. Lightning flashes in the distance, followed by thunder that rolls across the water. The storm releases its burden in sheets that blur the world into gray shapes.
+Rain drums on tin roofs, turning dust to mud, paths to streams. Lightning splits distance, thunder rolling across water. The storm releases its burden in sheets, blurring the world to gray shapes.
 
 He runs for the shed behind the mill, his boots slipping on the wet earth. The structure is old, its walls weathered, its roof patched with sheets of tin that sing under the rain's assault. The door hangs crooked on its hinges, creaking in the wind.
 
