@@ -20,20 +20,18 @@ Eli appears on the riverbank, moving quick and sure. A wave, a flash of hand, th
 
 The river moves on, indifferent. A turtle surfaces, head breaking the water, eyes dark and ancient. It watches the boat pass, then sinks back into the depths. The far shore softens in the fading light, the factory's broken windows turning gold.
 
-He lets the boat drift, the oar resting across his knees. The wood is cool beneath his hands, smooth and worn. The afternoon settles toward evening, the river carrying him nowhere in particular. A crow calls from the trees, its voice carrying in the clear air.
+He lets the boat drift, the oar resting across his knees. The wood is cool beneath his hands, smooth and worn. A crow calls from the trees, its voice carrying in the clear air.
 
-The factory shrinks behind him, its broken windows catching the last warmth. Eli is gone, dissolved into shadow and steel. The river curves ahead, bending toward unknown shores, carrying him deeper into the lengthening day.
+The factory shrinks behind him, its broken windows catching the last warmth. Eli is gone, dissolved into shadow and steel. The river curves ahead, bending toward unknown shores.
 
 Water laps against the hull, a steady rhythm that matches his breathing. The boat moves with the current, following the river's path. He does not fight it, does not try to direct its course.
 
 A kingfisher dives, emerging with a fish in its beak. It flies to a dead branch, shakes its catch, then swallows it whole.
 
-The first breath of evening cools the air. A tire hangs from a tree, a rope swing left unused. A dock juts into the water, its boards green with moss. Empty cans rust in the weeds. A broken chair lies half-buried in silt.
+A tire hangs from a tree, a rope swing left unused. A dock juts into the water, its boards green with moss. Empty cans rust in the weeds. A broken chair lies half-buried in silt.
 
 He passes a sandbar, its surface dotted with the tracks of raccoons and possums. The water is shallower here, clearer, revealing the bottom strewn with rocks and fallen branches. A snake slides from a log, leaving ripples in the quiet water.
 
-The boat drifts on, following the river's lazy curve. He sits in the stern, oar across his knees. The water carries him forward.
-
 Behind him, the factory stands quiet against the sky, its mysteries intact. The echo of laughter off the water.
 
-The river stretches ahead, brown and wide, branches caught in the current. He drifts with it, following the water's course. The first wisps of evening mist rise from the cooling surface. 
+The river stretches ahead, branches caught in the current. Evening mist rises from the cooling surface. 

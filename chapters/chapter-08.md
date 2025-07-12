@@ -1,6 +1,6 @@
 # Chapter 8: Always Down
 
-Dawn breaks slow and gray, the street empty, the church steps slick with dew. The air is cool, carrying the scent of wet earth and river mist. The sound of his footsteps echoes off the empty buildings. He walks the path toward the square, bread in hand—yesterday's loaf, hard but edible.
+Dawn breaks slow and gray, the street empty, the church steps slick with dew. The air is cool, carrying the scent of wet earth and river mist. The sound of his footsteps echoes off the empty buildings. He walks the path toward the square, finishing the last of his bread—hard but edible.
 
 A man sits on the church steps, coat damp, boots muddy, hands wrapped around his knees. He is older, his hair gray and unkempt, his face weathered by sun and wind. A canvas bag sits beside him, worn thin at the corners. He rocks slightly as he sits, his eyes fixed on the empty street.
 
