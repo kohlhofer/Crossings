@@ -14,7 +14,7 @@ Outside, the rain continues its assault. The mill wheel creaks and groans, turne
 
 They sit in silence, listening to the storm. The air is close, humid, filled with the scent of rain and earth and something else—the metallic smell of old machinery, the mustiness of a place long unused.
 
-Thunder rolls overhead, shaking the tin roof. She shifts on the crate, stands, moves closer. Her breath is warm against his neck. The rain continues, masking sound, masking movement. Lightning flashes again, throwing their shadows against the walls. Her fingers find the buttons of his shirt. 
+Thunder rolls overhead, shaking the tin roof. She shifts on the crate, stands, moves closer. Her breath is warm against his neck. The rain continues, masking sound, masking movement. Lightning flashes again, throwing their shadows against the walls. Her hands move to his shirt. 
 
 They move together in the darkness, finding rhythm with the storm.
 

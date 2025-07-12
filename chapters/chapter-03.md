@@ -6,7 +6,7 @@ The church stands at the edge of the square, white paint peeling like old skin, 
 
 People gather in twos and threes, heads bowed, voices low. Faded but clean, the women wear their best dresses, hair pinned back. The men carry worn Bibles, their shoes polished despite the scuffs. Children fidget beside their parents, tugging at starched collars and ribbon ties.
 
-He slows his pace, then stops, standing apart as Brother Calvin greets each arrival with a practiced smile, collar askew, voice loud in the morning air. Calvin is a big man, thick around the middle, his face flushed with heat and conviction. His handshake is firm, his gaze intense, his words quick and certain. His eyes lingered longer on the younger women, the smile deepening just slightly before returning to its practiced warmth.
+He slows his pace, then stops, standing apart as Brother Calvin greets each arrival with a practiced smile, collar askew, voice loud in the morning air. Calvin is a big man, thick around the middle, his face flushed with heat and conviction. His handshake is firm, his gaze intense, his words quick and certain. His gaze rests a beat too long on each younger woman, the smile deepening just slightly before returning to its practiced warmth.
 
 "Mary, good to see you. Blessed morning."
 

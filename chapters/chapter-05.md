@@ -6,7 +6,7 @@ The current carries him past the factory—windows broken, walls streaked with r
 
 He watches as the figure moves through the structure, leaping from beam to beam. Red fabric flashes—a scarf or shirt tied around the waist. The movements are fluid, confident, reckless. The figure pauses at the top, arms spread wide, then drops something into the water below. A splash, then more laughter. The figure disappears into the maze of metal.
 
-He rows in silence, the river wide and brown, reeds brushing the hull. The water tastes of fallen leaves and earth, of upstream woods and downstream mysteries. Cattails bend in the slight breeze, their brown heads heavy with seed. A heron lifts from the shallows, wings beating slow against the cooling air. Its cry echoes across the water, lonely and wild. Dragonflies skim the surface, their wings catching amber light.
+He rows in silence, the river wide and brown, reeds brushing the hull. The water tastes of fallen leaves and earth. Cattails bend in the slight breeze, their brown heads heavy with seed. A heron lifts from the shallows, wings beating slow against the cooling air. Its cry echoes across the water, lonely and wild. Dragonflies skim the surface, their wings catching amber light.
 
 The oar cuts through the surface, disturbing reflections of sky and cloud. He drifts, lets the current decide. The world narrows to water, wood, and breath. The river bottom is invisible, lost in brown depths that could be three feet or thirty.
 
@@ -22,7 +22,7 @@ The river moves on, indifferent. A turtle surfaces, head breaking the water, eye
 
 He lets the boat drift, the oar resting across his knees. The wood is cool beneath his hands, smooth and worn. A crow calls from the trees, its voice carrying in the clear air.
 
-The factory shrinks behind him, its broken windows catching the last warmth. Eli is gone, dissolved into shadow and steel. The river curves ahead, bending toward unknown shores.
+The factory shrinks behind him. Eli is gone, dissolved into shadow and steel. The river curves ahead, bending toward unknown shores.
 
 Water laps against the hull, a steady rhythm that matches his breathing. The boat moves with the current, following the river's path. He does not fight it, does not try to direct its course.
 
