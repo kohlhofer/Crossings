@@ -22,7 +22,7 @@ Harlan grunts, half-awake. "Always comes."
 
 The words drift through the room, worn smooth by repetition. No one expects an answer. He moves to the bar, finds an empty stool at the far end. The wood is worn smooth, stained with rings from countless glasses. He sits carefully, back to the wall, watching the room.
 
-A man slumps at a table near the door, head in his hands. His shoulders shake with each breath. A bottle sits empty before him, its label peeled away. His clothes are clean but wrinkled, his shoes polished but worn. He looks up once, eyes red, then returns to staring at the table.
+A man slumps at a table near the door, head in his hands. His shoulders shake with each breath. A bottle sits empty before him, its label peeled away. His clothes are clean but wrinkled, his shoes polished but worn. He looks up once, eyes red, then returns to staring at the table. The miller. 
 
 Lila laughs, sharp and sudden, breaking the hush. The sound cuts through the room. Amos grumbles, knocks over his mug, curses the world. Beer spreads across the bar, dripping onto the floor. Harlan stirs, looks at the mess, then settles back into sleep.
 

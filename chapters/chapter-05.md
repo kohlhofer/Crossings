@@ -28,7 +28,7 @@ Water laps against the hull, a steady rhythm that matches his breathing. The boa
 
 A kingfisher dives, emerging with a fish in its beak. It flies to a dead branch, shakes its catch, then swallows it whole.
 
-A tire hangs from a tree, a rope swing left unused. A dock juts into the water, its boards green with moss. Empty cans rust in the weeds. A broken chair lies half-buried in silt.
+A tire hangs from a tree, a rope swing left unused. A dock juts into the water, its boards green with moss—it might still take weight. Empty cans rust in the weeds, their labels long washed away. A broken chair lies half-buried in silt, its wicker back a nest for water plants.
 
 He passes a sandbar, its surface dotted with the tracks of raccoons and possums. The water is shallower here, clearer, revealing the bottom strewn with rocks and fallen branches. A snake slides from a log, leaving ripples in the quiet water.
 

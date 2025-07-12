@@ -8,7 +8,7 @@ A tin basin. Cold water. He washes his face, the sting waking him. The water is 
 
 The stove is cold. He leaves it that way. The chill will pass.
 
-Bread, hard as wood, chewed in silence. He tears it with his teeth, softens it with well water. Bought three days ago, when Mrs. Ada Bell had marked it down. By evening it will be harder still, but it will last.
+Bread, hard as wood, chewed in silence. He tears it with his teeth, softens it with well water. Bought three days ago, when Mrs. Ada Bell marked it down. By evening it will be harder still, but it will last.
 
 He takes the coffee tin from the shelf, counts the coins inside. Enough for today. The metal is warm, and the coins make a thin sound when he shakes them. He returns the tin to its place, next to the mason jar of fishhooks and the coil of line that needs mending.
 

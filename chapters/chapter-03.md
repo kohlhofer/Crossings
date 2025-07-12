@@ -48,4 +48,4 @@ He pauses beside her, sets down a small wrapped bundle on the altar rail. "For t
 
 He pushes away from the fence, the square emptying, the church settling back into quiet. The service is over, its echoes lingering in the air.
 
-He turns toward the creek where it meets the river. Behind him, the church stands empty, doors closed, bell silent. Ahead, through the trees, the mill wheel turns, its steady rhythm a different kind of sermon. 
+He turns toward the creek where it meets the river. Behind him, the church stands empty, doors closed, bell silent. Ahead, through the trees, the mill wheel turns, its steady rhythm a different kind of sermon.
