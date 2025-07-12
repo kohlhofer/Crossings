@@ -24,8 +24,6 @@ A shadow passes the window—Brother Calvin wlaking his route. Her pencil stills
 
 He takes his parcel, nods, steps outside. The sun rides higher now. A stray dog pants in shade, ribs showing. He reaches into his pocket for a piece of his morning bread, drops it near. The dog sniffs, eats, tail moving once.
 
-He stands a moment, coffee and salt heavy in the sack. Metal rings somewhere, hammer striking, then quiet. Through dusty glass, Ada sweeps the counter, each stroke measured.
-
 Mara stands in the road-side shade, arms crossed, watching the sky. Dark hair, plain dress, still as stone. She doesn't look as he passes. Morning light catches in her hair.
 
 He shifts the parcel, feels the weight of coffee and salt. Coffee might last a week. Salt will last longer. The morning stretches ahead—purchases to store away, work to find.
