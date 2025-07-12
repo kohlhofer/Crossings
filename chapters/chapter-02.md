@@ -2,15 +2,15 @@
 
 The store sits low, clapboard faded, windows crowded with hand-lettered signs. Paint peels from the sills. The porch sags beneath seed sacks and weathered crates. Dust hangs in the air, stirred by a breeze that carries the scent of dry earth.
 
-The bell above the door chimes as he pushes it open. Inside, the air is thick with dust and molasses-sweet. Shelves half-empty. Flour in cloth sacks, sides soft with age. Penny candy in glass jars, high on the shelf. The jars catch light, casting small rainbows on the worn counter.
+Molasses-sweet air wraps around him as the bell announces his entrance. Half-empty shelves hold stories in their gaps—flour sacks gone soft with age, penny candy catching light in high glass jars. Small rainbows dance across the worn counter, each nick and ring a memory of past transactions.
 
-A child stands by the jars, eyes wide, fingers pressed to the glass. She might be seven, dress clean but faded, shoes scuffed at the toes. The mother stands near, shoulders tight, eyes on the floor. Her hands twist a handkerchief.
+A child's breath clouds candy-jar glass, small fingers pressed against the barrier. Seven, maybe, in a clean but faded dress, shoes bearing playground scars. Near her, the mother's shoulders speak of weight, her twisted handkerchief a prayer.
 
-Ada stands behind the counter, ledger open, pencil moving. She nods at his entrance, eyes sharp. The counter bears rings from mason jars, cuts from countless transactions. Behind her, shelves hold patent medicines, bottles of castor oil, tobacco tins.
+Behind the counter, Ada's pencil whispers across her ledger. Each mark precise, each number a story. The counter bears its own ledger—rings from mason jars, cuts from countless trades. Patent medicines stand sentinel on shelves behind her, alongside tobacco tins and castor oil bottles.
 
-He reaches into his jacket pocket, careful with the eggs. The shells are warm, uncracked. He places them on the counter, one by one, turning them for Ada's inspection. She lifts each egg to the light, nods.
+Warmth pulses in his jacket pocket. He draws out each egg with reverence, shells uncracked, still holding morning's heat. Ada lifts them to the light, each nod a small blessing.
 
-Ada opens a small notebook, different from the ledger, makes a mark. Credit for three eggs. She adds numbers in her careful hand, then looks up. He points to the coffee, the salt. She nods, reaches for each item, weighs them. The scale tips, settles. The coffee ground fine, salt white as river sand.
+A different notebook opens, smaller than the ledger. Credit flows from her careful hand—three eggs transformed to numbers. Coffee and salt answer his pointing finger. The scale speaks its metallic truth, settling into certainty. Ground coffee fine as river silt, salt pure as morning frost.
 
 She adds a line to the ledger, writing neat and steady. The page fills with names and numbers. The ledger lies thick on the counter, pages yellowed, binding cracked.
 
@@ -26,8 +26,8 @@ He takes his parcel, nods, steps outside. The sun rides higher now. A stray dog 
 
 He stands a moment, coffee and salt heavy in the sack. Metal rings somewhere, hammer striking, then quiet. Through dusty glass, Ada sweeps the counter, each stroke measured.
 
-A woman waits in road-side shade, arms crossed, watching the sky. Dark hair, plain dress, still as stone. She doesn't look as he passes. Mara, perhaps. Morning light catches in her hair.
+Morning light catches dark hair like a blessing. Mara stands road-side, arms crossed against the world, still as weathered stone. Her eyes hold the sky's secrets as he passes.
 
-He shifts the parcel, feels the weight of coffee and salt. Coffee might last a week. Salt will last longer. The morning stretches ahead—purchases to store away, work to find.
+Coffee and salt settle against his hip, a rhythm for walking. One will last a week, the other longer. Morning stretches its arms wide—work to find, life to store away in careful measures.
 
-Behind him, the store settles into its familiar scents of dust and molasses. The dog finds deeper shade. 
+Dust and molasses embrace the store he leaves behind. In deeper shadows, the dog dreams of kindness. 
