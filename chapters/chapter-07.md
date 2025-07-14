@@ -20,15 +20,13 @@ They move together in the darkness, finding rhythm with the storm.
 
 After, she dresses without looking at him, her movements efficient, matter-of-fact. He buttons his shirt, stares at the floor. The rain slows to a steady patter, then to scattered drops. The storm is passing, leaving the world washed and clean.
 
-She stands, smooths her dress, checks the door. The wind has died down, and the thunder has moved on. She picks up the canvas bag, hefts its weight, then sets it down again. She leaves first, slipping into the night without a backward glance, without a word of farewell. The door closes behind her with a soft click.
+She stands, smooths her dress, checks the door. The wind has died down. She picks up the canvas bag, hefts its weight, then sets it down again. She leaves first, slipping into the night without a backward glance, without a word of farewell.
 
-He waits, listens to the last drops on the roof, counts the seconds between lightning and thunder. The storm is moving away, taking its energy with it. The air is cooler now, cleaner, carrying the scent of rain-washed earth.
+He waits, listens to the drops on the roof, counts the seconds between lightning and thunder. The storm is moving away, taking its energy with it. The air is cooler now, cleaner, carrying the scent of rain-washed earth.
 
 He steps out into the wet grass. The mill wheel still turns, the river still runs, unseen in the dark. Puddles reflect the sky, and the air tastes of rain and the promise of morning.
 
-The path back to his shack is muddy, treacherous in the darkness. He walks carefully, feeling his way, his boots squelching in the wet earth. The storm has passed, leaving only its scent of clean air.
-
-Behind him, the shed settles back into silence. The machinery rusts, the rain drips through the roof.
+The path back to his shack is muddy, treacherous in the darkness. He walks carefully, feeling his way, his boots squelching in the wet earth.
 
 The river waits, brown and swollen with rain, carrying the storm's runoff toward the sea. The night is quiet except for the drip of water from the trees, the distant call of a night bird, the soft whisper of the current against the bank.
 

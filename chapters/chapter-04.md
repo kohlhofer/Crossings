@@ -1,10 +1,10 @@
 # Chapter 4: Everything's Gone
 
-The wheel turns in the current, wooden spokes dark with water. The mill sits where creek meets river, stone foundation green with moss, walls weathered gray. Water flows steady through the wheel's channels, driving the mechanism within.
+The wheel turns in the current, wooden spokes dark with water. The mill sits upstream on the creek before it meets river, stone foundation green with moss, walls weathered gray. Water flows steady through the wheel's channels, driving the mechanism within.
 
 He walks the path beside the creek, boots squelching in the mud. The miller sometimes has work—heavy sacks, small repairs, tasks that might pay in coins rather than credit. The work comes and goes, depending on the miller's mood and the season's demands.
 
-The mill door stands open, flour dust dancing in the morning light. Inside, the great stones turn, their grinding filling the air with a sound like distant thunder. The miller stands beside the mechanism, his thick hands checking the flow of grain, his movements practiced and sure.
+The mill door stands open, flour dust dancing in the morning light. Inside, the great stones turn, their grinding filling the air with a sound. The miller stands beside the mechanism, his thick hands checking the flow of grain, his movements practiced and sure.
 
 "Need something?" the miller asks without looking up. His voice carries over the grinding stones, rough as the grain itself. He is a large man, thick through the chest and shoulders, his hair gray and thinning. His hands are permanently stained with flour, his clothes dusted white.
 
@@ -38,4 +38,4 @@ The coins are cold, few, real. He pockets them, nods, turns to go. In the doorwa
 
 The path back to the river lies quiet. Behind him, the mill wheel turns, grinding grain, marking time. The sound fades as he walks.
 
-At the river, afternoon shadows stretch across the dock. He stands with coins in his pocket. The water moves past, brown and slow, carrying its burden of silt and debris. He checks his fishing line, empty as always. The coins make a small sound when he moves.
+At the river, afternoon shadows stretch across the dock. The water moves past, brown and slow, carrying its burden of silt and debris. He checks his fishing line, empty as always. The coins make a small sound when he moves.

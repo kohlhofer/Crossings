@@ -20,7 +20,7 @@ Stone arches loom black above as they pass under the bridge. Their sound echoes 
 
 A sound drifts over water—maybe humming, maybe river-voice rising falling. The tune sounds strange, like wind through the reeds. It stops, leaves water-murmur, starts again. Its source stays hidden in the dark.
 
-They round a bend. A sand-spit shows in the lantern light. Reed steers through the shallows, the oars finding their way. The sand lies pale and fine, marked with night-creature tracks.
+They round the bend. A sand-spit shows in the lantern light. Reed steers through the shallows, the oars finding their way. The sand lies pale and fine, marked with night-creature tracks.
 
 Nothing waits but driftwood and mud-smell. Marsh grass grows thick beyond, then tree-dark rises.
 

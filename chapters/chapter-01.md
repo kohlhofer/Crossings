@@ -8,11 +8,11 @@ A tin basin. Cold water. He washes his face, the sting waking him. The water is 
 
 The stove is cold. He leaves it that way. The chill will pass.
 
-Bread, hard as wood, chewed in silence. He tears it with his teeth, softens it with well water. Bought three days ago, when Mrs. Ada Bell marked it down. By evening it will be harder still, but it will last.
+The bread is hard. He tears it with his teeth, softens it with well water. Bought three days ago, when Mrs. Ada Bell marked it down. By evening it will be harder still, but it will last.
 
-He takes the coffee tin from the shelf, counts the coins inside. Enough for today. The metal is warm, and the coins make a thin sound when he shakes them. He returns the tin to its place, next to the mason jar of fishhooks and the coil of line that needs mending.
+He takes the coffee tin from the shelf, counts the coins inside. Enough for today. The coins make a thin sound when he shakes them. He returns the tin to its place, next to the mason jar of fishhooks and the coil of line that needs mending.
 
-Outside, mist thickens the air. The path to the river lies worn smooth, each stone settled in its place.
+Outside, the path to the river lies worn smooth, each stone settled in its place.
 
 The river runs thick with mud, carrying branches and silt from upstream. The factory rises on the far bank—a monument of broken windows and rusted girders reaching into the gray sky. Scattered machines rust in the weeds below.
 
@@ -28,13 +28,11 @@ The dock creaks under his weight as he kneels at its edge. He checks the line le
 
 From his pocket, he takes the coffee tin with the earthworms. Three worms, fat and dark. He threads one onto the hook, careful not to kill it too quickly. The worm twists, seeking earth that is not there. He casts the line, watches it disappear into the brown water, counts the ripples as they fade.
 
-The river takes what it wants. Sometimes it gives back.
-
-A boat appears through the mist, Reed at the oars. The old man rows with steady strokes, his boat low in the water with the weight of his nets. Their eyes meet across the water. Reed nods, raises one hand briefly from the oar. He nods back. No words pass between them.
+A boat appears through the morning haze, Reed at the oars. The old man rows with steady strokes, his boat low in the water with the weight of his nets. Their eyes meet across the water. Reed nods, raises one hand briefly from the oar. He nods back. No words pass between them.
 
 Reed's boat carries the smell of fish and tar, the sound of water against wood. The old man's face is weathered, his hands cracked from years of rope and net. His boat is older than most, patched and re-patched, but it holds. A flask catches the light from beneath the seat, its metal worn smooth by handling.
 
-The boat drifts past, dissolving into the morning haze. The river carries them both, each in their own direction, each in their own silence.
+The boat drifts past, dissolving again into the haze. The river carries them both, each in their own direction.
 
 He remains on the dock, listening to the water. Soon the day will begin in earnest. The town will wake, children will run to the river, women will hang laundry, men will gather on porches.
 
@@ -44,7 +42,7 @@ The far shore stands empty now. Where Eli moved among the girders, only shadow r
 
 Behind him, the chickens have returned to their scratching. The rooster watches from the fence post.
 
-He turns from the river, walks the worn path back to the shack. The day stretches ahead. The eggs need trading, work might be found at the mill. The store might have what he needs, if the coins are enough.
+He turns from the river, walks the path back to the shack. The day stretches ahead. The eggs need trading, work might be found at the mill. The store might have what he needs, if the coins are enough.
 
 The train whistle sounds again, distant and fading. He listens until it's gone, then steps inside. The latch clicks.
 

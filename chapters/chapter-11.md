@@ -14,7 +14,7 @@ The sky shifts from black to deep blue, then to pearl gray, clouds catching the 
 
 The river moves, slow and indifferent, carrying branches, leaves, the night's debris. A bottle bobs past, then a piece of wood worn smooth by water. Something red catches on the dock post—fabric, faded and torn, freed from whatever held it upstream. All flows downstream, toward the sea.
 
-The air stays cool with night's remnants, carrying the scent of mud and dew-wet grass. Mist clings to the water's surface, thin wisps rising and dissolving. The last fireflies blink out as their night watch ends. A dog barks somewhere in the sleeping town, then falls silent. The wind picks up, stirring the moisture-heavy leaves of the cottonwoods.
+The air stays cool with night's remnants, carrying the scent of mud and dew-wet grass. Mist clings to the water's surface, thin wisps rising and dissolving. A dog barks somewhere in the sleeping town, then falls silent. The wind picks up, stirring the moisture-heavy leaves of the cottonwoods.
 
 He stands, brushes dirt from his pants, listens to the hush over the water. The dock creaks beneath his feet, old wood still holding night's chill. He checks the fishing line—still empty, hook clean and waiting.
 
@@ -24,7 +24,7 @@ Inside, the shack smells of old wood and river air. Pale light finds its way thr
 
 The coffee tin sits on the shelf, coins making their thin sound as he counts them. Enough for today. 
 
-From the window, he watches the river brighten slowly, its surface textured by strengthening light. The factory emerges fully now, its mysteries changing with the day.
+From the window, he watches the river brighten slowly, its surface textured by strengthening light. The factory emerges fully now.
 
 Somewhere across the water, smoke rises—thin and blue against the morning sky, then disappears into the growing light.
 

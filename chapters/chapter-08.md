@@ -1,18 +1,18 @@
 # Chapter 8: Always Down
 
-Dawn breaks slow and gray, the street empty, the church steps slick with dew. The air is cool, carrying the scent of wet earth and river mist. The sound of his footsteps echoes off the empty buildings. He walks the path toward the square, finishing the last of his bread—hard but edible.
+Dawn breaks slow and gray, the street empty, the church steps slick with dew. The air is cool, carrying the scent of wet earth and river mist. The sound of his footsteps echoes off the empty buildings. He walks the path toward the square, finishing the last of his bread—hard but still edible.
 
 A man sits on the church steps, coat damp, boots muddy, hands wrapped around his knees. He is older, his hair gray and unkempt, his face weathered by sun and wind. A canvas bag sits beside him, worn thin at the corners. He rocks slightly as he sits, his eyes fixed on the empty street.
 
-He slows, nods. The man nods back, offers a seat with a gesture of his hand. No words at first, just the quiet of the morning and the sound of birds stirring in the trees. The stone steps are cold and wet, but he sits, keeping distance between them.
+He slows, nods. The man nods back, offers a seat with a gesture of his hand. The stone steps are cold and wet, but he sits, keeping distance between them. No words at first, just the quiet of the morning and the sound of birds stirring in the trees.
 
-The stranger speaks, his voice soft, almost lost in the morning air. Something about the river, about letting go. The words are simple, unadorned, but they carry weight. He speaks of water that remembers, of things that must be released to find peace. His accent is familiar, his cadence measured. His fingers worry at a worn photograph in his coat pocket, edges soft from handling.
+Then the stranger speaks, his voice soft, almost lost in the morning air. Something about the river, about letting go. The words are simple, unadorned, but they carry weight. He speaks of water that remembers, of things that must be released to find peace. His accent is familiar, his cadence measured. His fingers worry at a worn photograph, edges soft from handling.
 
 "River knows," the man says. "Knows what we can't bear to know ourselves."
 
-The words linger in the air, settling like mist. He listens without responding, watching the stranger's face, noting the lines around his eyes, the way his hands shake slightly in the morning cold.
+The words linger in the air. He listens without responding, watching the stranger's face, noting the lines around his eyes, the way his hands shake slightly in the morning cold.
 
-Footsteps approach from the direction of the miller's fence—Eli's familiar gait, boots scuffing against stone. She moves with her usual restless energy, pausing at the edge of the square. For a moment she stands there, watching their gathering on the church steps, then circles to find a place to settle, keeping her distance but close enough to hear.
+Footsteps approach from the direction of the mill road—Eli's familiar gait. She moves with her usual restless energy, pausing at the edge of the square. For a moment she stands there, watching their gathering on the church steps, then circles to find a place to settle, keeping her distance but close enough to hear.
 
 The church door opens with a creak. Ada steps out, a cup in her hand, steam rising from the hot liquid. She moves down the steps, her footsteps careful on the wet stone.
 
@@ -32,15 +32,15 @@ Ada glances at the worn soles of his boots, the frayed edges of his coat. "Long 
 
 Josiah nods, hands wrapped around the cup. "Long enough."
 
-He watches the exchange, noting the ease between them, the way Ada's kindness flows naturally, without expectation.
+He watches the exchange.
 
-A child runs past, chasing a dog. The dog barks, tail wagging, and the child laughs. The sound carries across the square, bright and clear. Josiah smiles, the first genuine expression he has seen from him.
+A child runs past, chasing a dog. The dog barks, tail wagging, and the child laughs. The sound carries across the square, bright and clear. Josiah smiles.
 
-The town stirs. Doors open, shutters creak. Ada watches people emerge from their houses.
+The town stirs. A door open, a shutter creaks. Ada watches someone emerge from their house.
 
 "Keeps going," Josiah says, more to himself than to her.
 
-The shadow at the edge of the square flickers again. A movement in the periphery, there and gone. Josiah's eyes drift toward the spot, and he speaks softly to the morning air. "River's not the only thing that remembers."
+More movement at the edge of the square. Josiah's eyes drift toward the spot, and he speaks softly to the morning air. "River's not the only thing that remembers."
 
 He watches the space between Ada and Josiah, the quiet that holds them.
 
@@ -54,10 +54,8 @@ Josiah finishes his coffee, sets the cup down. He stands, shoulders his canvas b
 
 He looks at the man beside him, their eyes meeting for a moment. "River's calling," he says. "Best to listen when it does."
 
-He nods. Josiah glances to where Eli sits against the fence post, a cigarette burning between her fingers though she doesn't smoke it. She stands abruptly, flicks the cigarette into the dirt. Her boots scrape the stone as she walks away, shoulders tense. He speaks to the morning, his words carrying on the air. "River's not the only thing that remembers."
+He nods. Josiah glances to where Eli sits against the fence post, a cigarette burning between her fingers. She stands abruptly, flicks the cigarette into the dirt. Her boots scrape the stone as she walks away, shoulders tense. He speaks to the morning, his words carrying on the air. "River's not the only thing that remembers."
 
-With that, he walks away, his boots squelching in the mud. He disappears down the road that leads to the river, his figure growing smaller until it is lost in the morning haze.
-
-Ada watches him go. She turns to him, but then thinks better of it. Instead, she nods and returns to the church, the empty cup in her hand.
+With that, Josiah walks away. Ada watches him go, then turns to him, but thinks better of it. Instead, she nods and returns to the church, the empty cup in her hand.
 
 He stands, brushes the dampness from his clothes, and continues his walk through the town. Behind him, the church steps are empty again, marked only by the wet imprint of where people sat.

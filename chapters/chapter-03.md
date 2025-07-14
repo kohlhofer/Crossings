@@ -32,9 +32,9 @@ He watches from the fence. The service continues inside, Calvin's voice steady.
 
 The hymns resume, voices joining in song that speaks of hope and salvation. The melody is familiar, the words worn smooth by repetition. The congregation sings with determination, their voices carrying across the square, past the stores and houses, toward the river.
 
-The sun climbs higher, the bell's echo fading into memory. The service draws to its close, Calvin's final prayer echoing through the open door. The people inside begin to stir, gathering their belongings, preparing for the return to their daily lives.
+The sun climbs higher, the bell's echo fading into memory. The service draws to its close, Calvin's final prayer echoing through the open door. The people inside begin to stir, gather their belongings.
 
-The doors open, and the congregation spills out, blinking in the bright light. They move slowly, reluctantly. Calvin stands at the door, shaking hands, offering final words of encouragement or advice.
+The congregation spills out, blinking in the bright light. They move slowly, reluctantly. Calvin stands at the door, shaking hands, offering final words of encouragement or advice.
 
 "God bless you. Remember what we talked about."
 
@@ -42,7 +42,7 @@ The doors open, and the congregation spills out, blinking in the bright light. T
 
 The people disperse, walking back to their homes, their farms, their daily struggles. The weeping woman has composed herself, clutching her handkerchief. She walks away alone, her steps careful, her head down.
 
-Ada lingers after the others leave, moving through the empty pews to stack hymnals and straighten cushions. She works with quiet efficiency, her service continuing beyond the formal worship. Calvin moves through the church, closing windows, adjusting chairs. Their paths cross near the altar. A moment of proximity, nothing more, but she steps aside, maintains distance. Her movements remain careful, measured. When a hymnal slips from her hands, she retrieves it quickly, avoiding his eyes. The efficiency masks the tremor in her fingers.
+Ada lingers after the others leave, moving through the empty pews to stack hymnals and straighten cushions. She works with quiet efficiency, her service continuing beyond the worship. Calvin moves through the church, closing windows, adjusting chairs. Their paths cross near the altar. A moment of proximity, nothing more, but she steps aside, maintains distance. Her movements remain careful, measured. When a hymnal slips from her hands, she retrieves it quickly, avoiding his eyes. The efficiency masks the tremor in her fingers.
 
 He pauses beside her, sets down a small wrapped bundle on the altar rail. "For the poor box," he says quietly. She nods, does not look at the bundle, but her hand brushes his as she reaches for another hymnal. The touch is brief, deliberate. She picks up the bundle, unwraps it partially—fabric, blue and worn soft. She wraps it again, places it carefully aside. "I'll see it gets where it needs to go," she says, voice barely above a whisper.
 
