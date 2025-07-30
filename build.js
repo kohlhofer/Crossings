@@ -24,12 +24,11 @@ function readChapters() {
         if (fs.existsSync(filepath)) {
             const content = fs.readFileSync(filepath, 'utf8');
             const lines = content.split('\n');
-            const title = lines[0].replace('# ', '').trim();
+            // Skip the title line and use the rest as body
             const body = lines.slice(1).join('\n').trim();
             
             chapters.push({
                 number: i,
-                title,
                 body,
                 id: `chapter-${i}`
             });
@@ -39,33 +38,25 @@ function readChapters() {
     return chapters;
 }
 
-// Generate navigation
-function generateNavigation(chapters) {
-    const navItems = chapters.map(chapter => 
-        `<li><a href="#${chapter.id}">${chapter.number}. ${chapter.title}</a></li>`
-    ).join('\n    ');
-    
-    return `
-  <nav class="book-nav">
-    <h2>Table of Contents</h2>
-    <ul>
-    ${navItems}
-    </ul>
-  </nav>`;
-}
-
-// Generate chapter HTML
+// Generate chapter HTML with separators
 function generateChapterHTML(chapters) {
-    return chapters.map(chapter => `
+    return chapters.map((chapter, index) => {
+        const separator = index > 0 ? `
+  <div class="chapter-separator">
+    <div class="separator-line"></div>
+    <div class="separator-ornament">❦</div>
+    <div class="separator-line"></div>
+  </div>` : '';
+        
+        return `${separator}
   <section id="${chapter.id}" class="chapter">
-    <h1>${chapter.title}</h1>
     ${marked.parse(chapter.body)}
-  </section>`).join('\n');
+  </section>`;
+    }).join('\n');
 }
 
 // Generate complete HTML
 function generateHTML(chapters) {
-    const navigation = generateNavigation(chapters);
     const chaptersHTML = generateChapterHTML(chapters);
     
     return `<!DOCTYPE html>
@@ -113,53 +104,8 @@ function generateHTML(chapters) {
             font-size: 1.1rem;
         }
         
-        .book-nav {
-            background: #f8f9fa;
-            padding: 1.5rem;
-            border-radius: 8px;
-            margin-bottom: 3rem;
-        }
-        
-        .book-nav h2 {
-            margin-bottom: 1rem;
-            color: #2c3e50;
-        }
-        
-        .book-nav ul {
-            list-style: none;
-        }
-        
-        .book-nav li {
-            margin-bottom: 0.5rem;
-        }
-        
-        .book-nav a {
-            color: #3498db;
-            text-decoration: none;
-            padding: 0.25rem 0;
-            display: block;
-        }
-        
-        .book-nav a:hover {
-            color: #2980b9;
-            text-decoration: underline;
-        }
-        
         .chapter {
-            margin-bottom: 4rem;
-            padding-bottom: 2rem;
-            border-bottom: 1px solid #eee;
-        }
-        
-        .chapter:last-child {
-            border-bottom: none;
-        }
-        
-        .chapter h1 {
-            font-size: 2rem;
             margin-bottom: 2rem;
-            color: #2c3e50;
-            padding-top: 1rem;
         }
         
         .chapter p {
@@ -167,7 +113,27 @@ function generateHTML(chapters) {
             text-align: justify;
         }
         
-
+        .chapter-separator {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 3rem 0;
+            padding: 1rem 0;
+        }
+        
+        .separator-line {
+            height: 1px;
+            background: linear-gradient(to right, transparent, #ccc, transparent);
+            flex: 1;
+            max-width: 100px;
+        }
+        
+        .separator-ornament {
+            font-size: 1.5rem;
+            color: #999;
+            margin: 0 1.5rem;
+            font-family: Georgia, serif;
+        }
         
         @media (max-width: 768px) {
             .container {
@@ -177,24 +143,11 @@ function generateHTML(chapters) {
             .book-header h1 {
                 font-size: 2rem;
             }
-            
-            .chapter h1 {
-                font-size: 1.5rem;
-            }
         }
         
         /* Smooth scrolling */
         html {
             scroll-behavior: smooth;
-        }
-        
-        /* Highlight target chapter */
-        .chapter:target {
-            background-color: #fff;
-            border-radius: 8px;
-            padding: 1rem;
-            margin: 1rem 0;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
         }
     </style>
 </head>
@@ -202,30 +155,14 @@ function generateHTML(chapters) {
     <div class="container">
         <header class="book-header">
             <h1>Crossings</h1>
+            <div class="subtitle">A short story</div>
         </header>
-        
-        ${navigation}
         
         <main class="book-content">
 ${chaptersHTML}
         </main>
     </div>
     
-    <script>
-        // Add smooth scrolling behavior for older browsers
-        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-            anchor.addEventListener('click', function (e) {
-                e.preventDefault();
-                const target = document.querySelector(this.getAttribute('href'));
-                if (target) {
-                    target.scrollIntoView({
-                        behavior: 'smooth',
-                        block: 'start'
-                    });
-                }
-            });
-        });
-    </script>
     <script src="https://hypothes.is/embed.js" async></script>
 </body>
 </html>`;
