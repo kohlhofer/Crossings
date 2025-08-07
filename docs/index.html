@@ -43,53 +43,8 @@
             font-size: 1.1rem;
         }
         
-        .book-nav {
-            background: #f8f9fa;
-            padding: 1.5rem;
-            border-radius: 8px;
-            margin-bottom: 3rem;
-        }
-        
-        .book-nav h2 {
-            margin-bottom: 1rem;
-            color: #2c3e50;
-        }
-        
-        .book-nav ul {
-            list-style: none;
-        }
-        
-        .book-nav li {
-            margin-bottom: 0.5rem;
-        }
-        
-        .book-nav a {
-            color: #3498db;
-            text-decoration: none;
-            padding: 0.25rem 0;
-            display: block;
-        }
-        
-        .book-nav a:hover {
-            color: #2980b9;
-            text-decoration: underline;
-        }
-        
         .chapter {
-            margin-bottom: 4rem;
-            padding-bottom: 2rem;
-            border-bottom: 1px solid #eee;
-        }
-        
-        .chapter:last-child {
-            border-bottom: none;
-        }
-        
-        .chapter h1 {
-            font-size: 2rem;
             margin-bottom: 2rem;
-            color: #2c3e50;
-            padding-top: 1rem;
         }
         
         .chapter p {
@@ -97,7 +52,27 @@
             text-align: justify;
         }
         
-
+        .chapter-separator {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 3rem 0;
+            padding: 1rem 0;
+        }
+        
+        .separator-line {
+            height: 1px;
+            background: linear-gradient(to right, transparent, #ccc, transparent);
+            flex: 1;
+            max-width: 100px;
+        }
+        
+        .separator-ornament {
+            font-size: 1.5rem;
+            color: #999;
+            margin: 0 1.5rem;
+            font-family: Georgia, serif;
+        }
         
         @media (max-width: 768px) {
             .container {
@@ -107,24 +82,11 @@
             .book-header h1 {
                 font-size: 2rem;
             }
-            
-            .chapter h1 {
-                font-size: 1.5rem;
-            }
         }
         
         /* Smooth scrolling */
         html {
             scroll-behavior: smooth;
-        }
-        
-        /* Highlight target chapter */
-        .chapter:target {
-            background-color: #fff;
-            border-radius: 8px;
-            padding: 1rem;
-            margin: 1rem 0;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
         }
     </style>
 </head>
@@ -132,30 +94,12 @@
     <div class="container">
         <header class="book-header">
             <h1>Crossings</h1>
+            <div class="subtitle">A short story</div>
         </header>
-        
-        
-  <nav class="book-nav">
-    <h2>Table of Contents</h2>
-    <ul>
-    <li><a href="#chapter-1">1. Chapter 1: Monument</a></li>
-    <li><a href="#chapter-2">2. Chapter 2: Out of Reach</a></li>
-    <li><a href="#chapter-3">3. Chapter 3: All Welcome</a></li>
-    <li><a href="#chapter-4">4. Chapter 4: Everything's Gone</a></li>
-    <li><a href="#chapter-5">5. Chapter 5: Silver Flash</a></li>
-    <li><a href="#chapter-6">6. Chapter 6: My Chair</a></li>
-    <li><a href="#chapter-7">7. Chapter 7: Design</a></li>
-    <li><a href="#chapter-8">8. Chapter 8: Always Down</a></li>
-    <li><a href="#chapter-9">9. Chapter 9: Gathering Darkness</a></li>
-    <li><a href="#chapter-10">10. Chapter 10: Ghost-Like</a></li>
-    <li><a href="#chapter-11">11. Chapter 11: Downstream</a></li>
-    </ul>
-  </nav>
         
         <main class="book-content">
 
   <section id="chapter-1" class="chapter">
-    <h1>Chapter 1: Monument</h1>
     <p>Gray light seeps through the cracks in the roof. Damp, cool air carries the faint smell of mud and old smoke—the shack breathing with the river. He sits up on the narrow bed, feet finding the splintered floor. Beyond the walls, the world holds its quiet, broken only by a distant train&#39;s call and the slow churn of water against the bank.</p>
 <p>Joints stiff from the thin mattress, he moves to the window. The glass is filmed with dust and the memory of rain. Outside, gray dissolves slowly into shapes—the dock, the path, chickens scratching in their endless search. Among them, the red hen limps forward, persistent despite her bad leg. The rooster keeps watch from his fence post perch, chest puffed though there is little to defend and less to rule.</p>
 <p>A tin basin. Cold water. He washes his face, the sting waking him. The water is brown from the well, tasting of iron and earth. He cups it in his hands, drinks, feels it settle in his empty stomach. The mirror above the basin shows a face he recognizes but does not study—stubble, sun-weathered skin, gray eyes.</p>
@@ -183,8 +127,12 @@
 
   </section>
 
+  <div class="chapter-separator">
+    <div class="separator-line"></div>
+    <div class="separator-ornament">❦</div>
+    <div class="separator-line"></div>
+  </div>
   <section id="chapter-2" class="chapter">
-    <h1>Chapter 2: Out of Reach</h1>
     <p>The store sits low, clapboard faded, windows crowded with hand-lettered signs. Paint peels from the sills. The porch sags beneath seed sacks and weathered crates.</p>
 <p>The bell above the door chimes as he pushes it open. Inside, the air is thick with dust and molasses-sweet. Shelves half-empty. Flour in cloth sacks, sides soft with age. Penny candy in glass jars, on a shelf. The jars catch light, casting small rainbows on the worn counter.</p>
 <p>A child stands by the jars, eyes wide. She might be seven, dress clean but faded, shoes scuffed at the toes. The mother stands near, shoulders tight, eyes on the floor. Her hands twist a handkerchief.</p>
@@ -204,8 +152,12 @@
 
   </section>
 
+  <div class="chapter-separator">
+    <div class="separator-line"></div>
+    <div class="separator-ornament">❦</div>
+    <div class="separator-line"></div>
+  </div>
   <section id="chapter-3" class="chapter">
-    <h1>Chapter 3: All Welcome</h1>
     <p>The bell rings, cracked and uncertain, its sound drifting over the rooftops. He hears it from the path toward town, a dull summons that carries across the water. He keeps walking, dust rising with each step, headed for the mill road where work might be found.</p>
 <p>The church stands at the edge of the square, white paint peeling like old skin, steeple leaning slightly to the left. The building is weathered, its foundation cracked, its windows clouded with years of rain and sun. A sign by the door reads &quot;All Welcome&quot; in faded letters. Morning shadows stretch across the ground, and the air is cool with the promise of heat to come. Cicadas drone in the oak trees, their song rising and falling like breath.</p>
 <p>People gather in twos and threes, heads bowed, voices low. Faded but clean, the women wear their best dresses, hair pinned back. The men carry worn Bibles, their shoes polished despite the scuffs. Children fidget beside their parents, tugging at starched collars and ribbon ties.</p>
@@ -234,8 +186,12 @@
 
   </section>
 
+  <div class="chapter-separator">
+    <div class="separator-line"></div>
+    <div class="separator-ornament">❦</div>
+    <div class="separator-line"></div>
+  </div>
   <section id="chapter-4" class="chapter">
-    <h1>Chapter 4: Everything's Gone</h1>
     <p>The wheel turns in the current, wooden spokes dark with water. The mill sits upstream on the creek before it meets river, stone foundation green with moss, walls weathered gray. Water flows steady through the wheel&#39;s channels, driving the mechanism within.</p>
 <p>He walks the path beside the creek, boots squelching in the mud. The miller sometimes has work—heavy sacks, small repairs, tasks that might pay in coins rather than credit. The work comes and goes, depending on the miller&#39;s mood and the season&#39;s demands.</p>
 <p>The mill door stands open, flour dust dancing in the morning light. Inside, the great stones turn, their grinding filling the air with a sound. The miller stands beside the mechanism, his thick hands checking the flow of grain, his movements practiced and sure.</p>
@@ -259,8 +215,12 @@
 
   </section>
 
+  <div class="chapter-separator">
+    <div class="separator-line"></div>
+    <div class="separator-ornament">❦</div>
+    <div class="separator-line"></div>
+  </div>
   <section id="chapter-5" class="chapter">
-    <h1>Chapter 5: Silver Flash</h1>
     <p>He pushes the boat from the dock, oar dipping, river slow and heavy beneath him. Old, its wood soft with age, the boat&#39;s bottom is scarred and stained. Water seeps through the gaps, pooling around his feet, but it holds. It floats.</p>
 <p>The current carries him past the factory—windows broken, walls streaked with rust. The building rises against the softening sky, its skeleton of steel and iron catching the late light. Laughter rings out, clear in the quiet air, echoing off the water. A figure climbs the girders, quick and fearless, moving between light and shadow.</p>
 <p>He watches as the figure moves through the structure, leaping from beam to beam. Red fabric flashes—a scarf or shirt tied around the waist. The movements are fluid, confident, reckless. The figure pauses at the top, arms spread wide, then drops something into the water below. A splash, then more laughter. The figure disappears into the maze of metal.</p>
@@ -281,8 +241,12 @@
 
   </section>
 
+  <div class="chapter-separator">
+    <div class="separator-line"></div>
+    <div class="separator-ornament">❦</div>
+    <div class="separator-line"></div>
+  </div>
   <section id="chapter-6" class="chapter">
-    <h1>Chapter 6: My Chair</h1>
     <p>The bar sags at the edge of town, porch littered with bottles and broken chairs. The paint is gone, leaving weathered wood gray and worn. A sign hangs crooked by the door, letters too faded to read. He doesn&#39;t mean to go in.</p>
 <p>Eli is ahead, hands in her pockets, shoulders hunched against the evening breeze. She glances back once, waits at the door. He follows, not thinking.</p>
 <p>Inside, the air is thick with sweat and cheap spirits. Floorboards creak under his weight, sticky with spilled drinks. A single bulb hangs from the ceiling, casting harsh shadows.</p>
@@ -310,8 +274,12 @@
 
   </section>
 
+  <div class="chapter-separator">
+    <div class="separator-line"></div>
+    <div class="separator-ornament">❦</div>
+    <div class="separator-line"></div>
+  </div>
   <section id="chapter-7" class="chapter">
-    <h1>Chapter 7: Design</h1>
     <p>The evening breeze strengthens, stirring leaves and carrying the first scent of rain. Storm clouds mass in the twilight, their weight pressing down on the town. He is caught in the open when the first drops fall.</p>
 <p>Rain drums on tin roofs, turning dust to mud, paths to streams. Lightning splits distance, thunder rolling across water. The storm releases its burden in sheets, blurring the world to gray shapes.</p>
 <p>He runs for the shed behind the mill, his boots slipping on the wet earth. The structure is old, its walls weathered, its roof patched with sheets of tin that sing under the rain&#39;s assault. The door hangs crooked on its hinges, creaking in the wind.</p>
@@ -332,8 +300,12 @@
 
   </section>
 
+  <div class="chapter-separator">
+    <div class="separator-line"></div>
+    <div class="separator-ornament">❦</div>
+    <div class="separator-line"></div>
+  </div>
   <section id="chapter-8" class="chapter">
-    <h1>Chapter 8: Always Down</h1>
     <p>Dawn breaks slow and gray, the street empty, the church steps slick with dew. The air is cool, carrying the scent of wet earth and river mist. The sound of his footsteps echoes off the empty buildings. He walks the path toward the square, finishing the last of his bread—hard but still edible.</p>
 <p>A man sits on the church steps, coat damp, boots muddy, hands wrapped around his knees. He is older, his hair gray and unkempt, his face weathered by sun and wind. A canvas bag sits beside him, worn thin at the corners. He rocks slightly as he sits, his eyes fixed on the empty street.</p>
 <p>He slows, nods. The man nods back, offers a seat with a gesture of his hand. The stone steps are cold and wet, but he sits, keeping distance between them. No words at first, just the quiet of the morning and the sound of birds stirring in the trees.</p>
@@ -367,8 +339,12 @@
 
   </section>
 
+  <div class="chapter-separator">
+    <div class="separator-line"></div>
+    <div class="separator-ornament">❦</div>
+    <div class="separator-line"></div>
+  </div>
   <section id="chapter-9" class="chapter">
-    <h1>Chapter 9: Gathering Darkness</h1>
     <p>Evening settles over the town, the store nearly bare. The last light of autumn fades through the windows, painting everything amber and gold. Shelves stripped, only dust and a few sacks left. The glass jars are empty, their lids removed. Lamps burn low, casting long shadows across the worn wooden floor. Outside, the temperature drops with the sun, and a first hint of winter rides the evening breeze.</p>
 <p>Ada sweeps, her movements slower than usual. The ledger lies closed on the counter, its pages thick with entries. Her hands move with effort, eyes dull. Lines mark her mouth, shoulders sagging.</p>
 <p>The bell above the door chimes as he enters, hat in hand, eyes on the shelves—less there than before. Gaps where goods should be. The flour sacks are fewer, the shelves of patent medicines nearly empty. The store echoes with emptiness.</p>
@@ -393,8 +369,12 @@
 
   </section>
 
+  <div class="chapter-separator">
+    <div class="separator-line"></div>
+    <div class="separator-ornament">❦</div>
+    <div class="separator-line"></div>
+  </div>
   <section id="chapter-10" class="chapter">
-    <h1>Chapter 10: Ghost-Like</h1>
     <p>The dock creaks beneath his weight. The current moves silent, marked only by leaves and debris catching light. Mud and rot fill his nose.</p>
 <p>The boat slides from the dark, Reed&#39;s oars barely touching water. The old man&#39;s strokes come slow and steady, his face calm in the lantern light. </p>
 <p>Reed tilts his head. He steps into the boat. The wood rocks, finds its balance. The seat feels smooth and cold. Reed pushes off, and they slip from the dock.</p>
@@ -415,8 +395,12 @@
 
   </section>
 
+  <div class="chapter-separator">
+    <div class="separator-line"></div>
+    <div class="separator-ornament">❦</div>
+    <div class="separator-line"></div>
+  </div>
   <section id="chapter-11" class="chapter">
-    <h1>Chapter 11: Downstream</h1>
     <p>First light bleeds into the river, the water still dark but softening to gray. He sits on the dock, feet dangling above the surface, watching night retreat. The stillness of early morning holds, broken only by an early bird&#39;s call across the water.</p>
 <p>The shack behind him stands silent, its windows catching the first pale light. The stove is cold, its ashes settled. The bed lies untouched, narrow and waiting. On the table, bread and salt sit undisturbed, provisions for when hunger returns.</p>
 <p>A train whistle sounds in the distance. The sound drifts across the water, then fades to the soft lap of waves against the dock. A fish jumps, rings spreading outward, disappearing into the current.</p>
@@ -439,21 +423,6 @@
         </main>
     </div>
     
-    <script>
-        // Add smooth scrolling behavior for older browsers
-        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-            anchor.addEventListener('click', function (e) {
-                e.preventDefault();
-                const target = document.querySelector(this.getAttribute('href'));
-                if (target) {
-                    target.scrollIntoView({
-                        behavior: 'smooth',
-                        block: 'start'
-                    });
-                }
-            });
-        });
-    </script>
     <script src="https://hypothes.is/embed.js" async></script>
 </body>
 </html>
